@@ -127,7 +127,7 @@ returnSD <- function(symbol){
     lastRtn/sdRtn
 }
 
-chartBreakOut <- function(symbol, period=40, timeF="W", endDate=NA) {
+chartBreakout <- function(symbol, period=40, timeF="W", endDate=NA) {
   # Function to graph the breakout using Max & Min bands
   # symbol - yahoo ticker
   # period - period over which to draw Max & Min lines. Integer.
@@ -153,10 +153,11 @@ chartBreakOut <- function(symbol, period=40, timeF="W", endDate=NA) {
     
     # Get the data from yahoo
     symbolData <- getYahooData(symbol, startDate,
-                               endDate, adjust=FALSE)
+                               endDate, adjust=TRUE)
     
     # Convert to weekly format
-    symbolData <- toWeekly(symbolData[,c("Open", "High", "Low", "Close", "Volume")])
+    symbolData <- toWeekly(symbolData[,c("Open", "High", "Low", "Close", "Volume")],
+                           keepLast=TRUE)
     
   } else if(timeF=="D"){
     # Work out the how much data to get for the daily period specified
