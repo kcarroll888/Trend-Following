@@ -108,7 +108,7 @@ returnSD <- function(symbol){
     startDate <- as.Date(format(endDate), format="%Y%m%d") - 1120 # 40 * 28
     startDate <- getLastFri(startDate)
     
-    symD <- getYahooData(symbol, startDate, endDate, adjust=FALSE)
+    symD <- getYahooData(symbol, startDate, endDate, adjust=TRUE)
     
     symW <- toWeekly(symD, keepLast=TRUE)
     
@@ -166,7 +166,7 @@ chartBreakout <- function(symbol, period=40, timeF="W", endDate=NA) {
     
     # Get the data from yahoo
     symbolData <- getYahooData(symbol, startDate,
-                               endDate, adjust=FALSE)
+                               endDate, adjust=TRUE)
     
   } else stop("Timeframe must be 'W' for weekly or 'D' for daily")
   
@@ -243,7 +243,7 @@ getBreakouts <- function(fileName, lookBack=40) {
         
         # Get daily data for current symbol from Yahoo
         curStockData <- getYahooData(curSymbol, startD, endD,
-                                     adjust=FALSE)
+                                     adjust=TRUE)
         
         # Store todays date to compare against
         curDateRow <- tail(curStockData, 1)
