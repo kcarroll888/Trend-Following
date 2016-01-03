@@ -189,7 +189,7 @@ chartBreakout <- function(symbol, period=40, timeF="W", endDate=NA) {
 getStopLoss <- function(series, lookBack) {
   
   # Test if enough data to work out the ATR
-  if(nrow(series) < lookBack) {
+  if(nrow(series) <= lookBack) {
     # No there isn't return NA and quit the function
     return("NA")
   }
@@ -273,7 +273,7 @@ getBreakouts <- function(fileName, lookBack=40) {
             newHighLow$Close[rowHL] <- as.numeric(curDateRow$Close)
             
             # Put the stop loss in the data frame
-            # newHighLow$ATR[rowHL] <- getStopLoss(curStockData, lookBack)
+            newHighLow$ATR[rowHL] <- getStopLoss(curStockData, lookBack)
             
             # Ready for the next row of output dataframe
             rowHL <- rowHL + 1
@@ -288,7 +288,7 @@ getBreakouts <- function(fileName, lookBack=40) {
             newHighLow$Close[rowHL] <- as.numeric(curDateRow$Close)
             
             # Put the stop loss in the data frame
-            # newHighLow$ATR[rowHL] <- getStopLoss(curStockData, lookBack)
+            newHighLow$ATR[rowHL] <- getStopLoss(curStockData, lookBack)
             
             # Ready for the next row of output dataframe
             rowHL <- rowHL + 1
