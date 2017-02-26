@@ -1,0 +1,290 @@
+ID_ISIN,Bloomberg,Yahoo,Industry
+JE00B8KF9B49,WPP LN Equity,WPP.L,Advertising
+FR0000130577,PUB FP Equity,PUB.PA,Advertising
+GB0002634946,BA/ LN Equity,BA.L,Aerospace/Defense
+GB00B63H8491,RR/ LN Equity,RR.L,Aerospace/Defense
+GB0005758098,MGGT LN Equity,MGGT.L,Aerospace/Defense
+GB00B07KD360,COB LN Equity,COB.L,Aerospace/Defense
+GB0009123323,ULE LN Equity,ULE.L,Aerospace/Defense
+FR0000073272,SAF FP Equity,SAF.PA,Aerospace/Defense
+NL0000235190,AIR FP Equity,AIR.PA,Aerospace/Defense
+US0970231058,BA UN Equity,BA,Aerospace/Defense
+US3695501086,GD UN Equity,GD,Aerospace/Defense
+US5398301094,LMT UN Equity,LMT,Aerospace/Defense
+US7551115071,RTN UN Equity,RTN,Aerospace/Defense
+US9130171096,UTX UN Equity,UTX,Aerospace/Defense
+GB0002875804,BATS LN Equity,BATS.L,Agriculture
+GB0004544929,IMB LN Equity,HTG.L,Agriculture
+GB0002074580,GNS LN Equity,GNS.L,Agriculture
+US02209S1033,MO UN Equity,MO,Agriculture
+US7181721090,PM UN Equity,PM,Agriculture
+SE0000310336,SWMA SS Equity,SWMA.ST,Agriculture
+ES0177542018,IAG LN Equity,IAG.MC,Airlines
+GB00B7KR2P84,EZJ LN Equity,EZJ.L,Airlines
+JE00BN574F90,WIZZ LN Equity,WIZZ.L,Airlines
+DE0008232125,LHA GY Equity,LHA.DE,Airlines
+ES0177542018,IAG SM Equity,IAG.MC,Airlines
+US02376R1023,AAL UW Equity,AAL,Airlines
+NO0010196140,NAS NO Equity,NAS.OL,Airlines
+GG00BBHXCL35,RSE LN Equity,RSE.L,Alternative Fund
+GB0031743007,BRBY LN Equity,BRBY.L,Apparel
+GB0001048619,TED LN Equity,TED.L,Apparel
+FR0000121014,MC FP Equity,MC.PA,Apparel
+DE000A1EWWW0,ADS GY Equity,ADS.DE,Apparel
+US6541061031,NKE UN Equity,NKE,Apparel
+US23129S1069,FXB US,FXB,Asset Allocation Fund
+US23130C1080,FXE US,FXE,Asset Allocation Fund
+US23130A1025,FXY US,FXY,Asset Allocation Fund
+FR0000121501,UG FP Equity,UG.PA,Auto Manufacturers
+FR0000131906,RNO FP Equity,RNO.PA,Auto Manufacturers
+DE0005190003,BMW GY Equity,BMW.DE,Auto Manufacturers
+DE0007664039,VOW3 GY Equity,VOW3.DE,Auto Manufacturers
+DE0007100000,DAI GY Equity,DAI.DE,Auto Manufacturers
+US3453708600,F UN Equity,F,Auto Manufacturers
+US37045V1008,GM UN Equity,GM,Auto Manufacturers
+US6937181088,PCAR UW Equity,PCAR,Auto Manufacturers
+US88160R1014,TSLA UW Equity,TSLA,Auto Manufacturers
+SE0000115446,VOLVB SS Equity,VOLV-B.ST,Auto Manufacturers
+GB0030646508,GKN LN Equity,GKN.L,Auto Parts&Equipment
+FR0000121261,ML FP Equity,ML.PA,Auto Parts&Equipment
+FR0000130338,FR FP Equity,FR.PA,Auto Parts&Equipment
+DE0005439004,CON GY Equity,CON.DE,Auto Parts&Equipment
+FI0009005318,NRE1V FH Equity,NRE1V.HE,Auto Parts&Equipment
+FR0013176526,FR FP Equity,FR.PA,Auto Parts&Equipment
+SE0000382335,ALIV SS Equity,ALIV.ST,Auto Parts&Equipment
+GB0005405286,HSBA LN Equity,HSBA.L,Banks
+GB0008706128,LLOY LN Equity,LLOY.L,Banks
+GB0031348658,BARC LN Equity,BARC.L,Banks
+GB0004082847,STAN LN Equity,STAN.L,Banks
+GB00B7T77214,RBS LN Equity,RBS.L,Banks
+GB00B17BBQ50,INVP LN Equity,INVP.L,Banks
+GB00BQ8P0644,VM/ LN Equity,VM.L,Banks
+GB00B759CR16,BGEO LN Equity,BGEO.L,Banks
+GB00BWDPMF43,SHAW LN Equity,SHAW.L,Banks
+GB00BM7S7K96,OSB LN Equity,OSB.L,Banks
+FR0000131104,BNP FP Equity,BNP.PA,Banks
+FR0000130809,GLE FP Equity,GLE.PA,Banks
+FR0000045072,ACA FP Equity,ACA.PA,Banks
+DE000CBK1001,CBK GY Equity,CBK.DE,Banks
+DE0005140008,DBK GY Equity,DBK.DE,Banks
+NL0000303600,INGA NA Equity,INGA.AS,Banks
+NL0011540547,ABN NA Equity,ABN.AS,Banks
+ES0113900J37,SAN SM Equity,SAN.MC,Banks
+ES0113211835,BBVA SM Equity,BBVA.MC,Banks
+ES0140609019,CABK SM Equity,CABK.MC,Banks
+ES0113860A34,SAB SM Equity,SAB.MC,Banks
+ES0113679I37,BKT SM Equity,BKT.MC,Banks
+ES0113307021,BKIA SM Equity,BKIA.MC,Banks
+ES0113790226,POP SM Equity,POP.MC,Banks
+US0605051046,BAC UN Equity,BAC,Banks
+US0640581007,BK UN Equity,BK,Banks
+US1729674242,C UN Equity,C,Banks
+US14040H1059,COF UN Equity,COF,Banks
+DK0010274414,DANSKE DC Equity,DANSKE.CO,Banks
+NO0010031479,DNB NO Equity,DNB.OL,Banks
+US38141G1040,GS UN Equity,GS,Banks
+US46625H1005,JPM UN Equity,JPM,Banks
+DK0010307958,JYSK DC Equity,JYSK.CO,Banks
+US6174464486,MS UN Equity,MS,Banks
+SE0000427361,NDA SS Equity,NDA.ST,Banks
+FI0009902530,NDA1V FH Equity,NDA1V.HE,Banks
+US9029733048,USB UN Equity,USB,Banks
+US9497461015,WFC UN Equity,WFC,Banks
+CH0012138530,CSGN VX Equity,CSGN.VX,Banks
+IT0000072618,ISP IM Equity,ISP.MI,Banks
+IT0004781412,UCG IM Equity,UCG.MI,Banks
+GB00BD6GN030,CYBG LN Equity,CYBG.L,Banks
+GB00BZ6STL67,MTRO LN Equity,MTRO.L,Banks
+NL0011821202,INGA NA Equity,INGA.NA,Banks
+SE0000148884,SEBA SS Equity,SEB-A.ST,Banks
+SE0007100599,SHBA SS Equity,SHB-A.ST,Banks
+SE0000242455,SWEDA SS Equity,SWED-A.ST,Banks
+CH0244767585,UBSG VX Equity,UBSG.VX,Banks
+GB0002374006,DGE LN Equity,DGE.L,Beverages
+GB0004835483,SAB LN Equity,SAB.L,Beverages
+CH0198251305,CCH LN Equity,CCH.L,Beverages
+GB00B0N8QD54,BVIC LN Equity,BVIC.L,Beverages
+GB00B1JQDM80,MARS LN Equity,MARS.L,Beverages
+GB00B6XZKY75,BAG LN Equity,BAG.L,Beverages
+FR0000120693,RI FP Equity,RI.PA,Beverages
+NL0000009165,HEIA NA Equity,HEIA.AS,Beverages
+BE0003793107,ABI BB Equity,ABI.BR,Beverages
+DK0010181759,CARLB DC Equity,CARL-B.CO,Beverages
+US1912161007,KO UN Equity,KO,Beverages
+US61174X1090,MNST UW Equity,MNST,Beverages
+US7134481081,PEP UN Equity,PEP,Beverages
+BE0974293251,ABI BB Equity,ABI.BR,Beverages
+GB00BJVD3B28,CIR LN Equity,CIR.L,Biotechnology
+US0153511094,ALXN UW Equity,ALXN,Biotechnology
+US0311621009,AMGN UW Equity,AMGN,Biotechnology
+US09062X1037,BIIB UW Equity,BIIB,Biotechnology
+US09061G1013,BMRN UW Equity,BMRN,Biotechnology
+US1510201049,CELG UW Equity,CELG,Biotechnology
+DK0010272202,GEN DC Equity,GEN.CO,Biotechnology
+US3755581036,GILD UW Equity,GILD,Biotechnology
+US4523271090,ILMN UW Equity,ILMN,Biotechnology
+US75886F1075,REGN UW Equity,REGN,Biotechnology
+US92532F1003,VRTX UW Equity,VRTX,Biotechnology
+US45337C1027,INCY UW Equity,INCY,Biotechnology
+IE0001827041,CRH LN Equity,CRH.L,Building Materials
+GB00B012BV22,MSLH LN Equity,MSLH.L,Building Materials
+GB00BKRC5K31,PLP LN Equity,PLP.L,Building Materials
+GB00BYXJC278,IBST LN Equity,IBST.L,Building Materials
+FR0000125007,SGO FP Equity,SGO.PA,Building Materials
+CH0012214059,LHN FP Equity,LHN.PA,Building Materials
+DE0006047004,HEI GY Equity,HEI.DE,Building Materials
+CH0030170408,GEBN VX Equity,GEBN.VX,Building Materials
+CH0012214059,LHN VX Equity,LHN.VX,Building Materials
+GB00BZ4BQC70,JMAT LN Equity,JMAT.L,Chemicals
+GB00BYZWX769,CRDA LN Equity,CRDA.L,Chemicals
+GB00B0744359,ESNT LN Equity,ESNT.L,Chemicals
+GB0009292243,VCT LN Equity,VCT.L,Chemicals
+GB0002418548,ELM LN Equity,ELM.L,Chemicals
+GB0009887422,SYNT LN Equity,SYNT.L,Chemicals
+FR0000120073,AI FP Equity,AI.PA,Chemicals
+BE0003470755,SOLB BB Equity,SOLB.BR,Chemicals
+DE000BASF111,BAS GY Equity,BAS.DE,Chemicals
+DE0006483001,LIN GY Equity,LIN.DE,Chemicals
+NL0000009827,DSM NA Equity,DSM.AS,Chemicals
+NL0000009132,AKZA NA Equity,AKZA.AS,Chemicals
+US2635341090,DD UN Equity,DD,Chemicals
+US2605431038,DOW UN Equity,DOW,Chemicals
+CH0010645932,GIVN VX Equity,GIVN.VX,Chemicals
+FI0009004824,KRA1V FH Equity,KRA1V.HE,Chemicals
+US61166W1018,MON UN Equity,MON,Chemicals
+DK0060336014,NZYMB DC Equity,NZYM-B.CO,Chemicals
+CH0011037469,SYNN VX Equity,SYNN.VX,Chemicals
+NO0010208051,YAR NO Equity,YAR.OL,Chemicals
+GB00B2B0DG97,REL LN Equity,REL.L,Commercial Services
+GB00B19NLV48,EXPN LN Equity,EXPN.L,Commercial Services
+GB00B23K0M20,CPI LN Equity,CPI.L,Commercial Services
+GB0031638363,ITRK LN Equity,ITRK.L,Commercial Services
+GB0009697037,BAB LN Equity,BAB.L,Commercial Services
+GB0000536739,AHT LN Equity,AHT.L,Commercial Services
+GB00B082RF11,RTO LN Equity,RTO.L,Commercial Services
+GB00B01FLG62,GFS LN Equity,GFS.L,Commercial Services
+GB00BK1PTB77,AGK LN Equity,AGK.L,Commercial Services
+JE00B2R84W06,UBM LN Equity,UBM.L,Commercial Services
+GB00B0F99717,BRSN LN Equity,BRSN.L,Commercial Services
+GB0004161021,HAS LN Equity,HAS.L,Commercial Services
+GB00BMSKPJ95,AA/ LN Equity,AA.L,Commercial Services
+GB00B0WMWD03,QQ/ LN Equity,QQ.L,Commercial Services
+GB0000608009,ATK LN Equity,ATK.L,Commercial Services
+GB00BRB37M78,DTY LN Equity,DTY.L,Commercial Services
+GB0030232317,MPI LN Equity,MPI.L,Commercial Services
+GB00B135BJ46,SVS LN Equity,SVS.L,Commercial Services
+GB00B41H7391,NTG LN Equity,NTG.L,Commercial Services
+GB0001528156,IRV LN Equity,IRV.L,Commercial Services
+NL0006144495,REN NA Equity,REN.AS,Commercial Services
+NL0000379121,RAND NA Equity,RAND.AS,Commercial Services
+ES0111845014,ABE SM Equity,ABE.MC,Commercial Services
+CH0012138605,ADEN VX Equity,ADEN.VX,Commercial Services
+US0530151036,ADP UW Equity,ADP,Commercial Services
+DK0060542181,ISS DC Equity,ISS.CO,Commercial Services
+US70450Y1038,PYPL UW Equity,PYPL,Commercial Services
+CH0002497458,SGSN VX Equity,SGSN.VX,Commercial Services
+US92345Y1064,VRSK UW Equity,VRSK,Commercial Services
+JE00BD9WR069,UBM LN Equity,UBM.L,Commercial Services
+JE00BYVQYS01,IWG LN Equity,IWG.L,Commercial Services
+GB00BYM8GJ06,ASCL LN Equity,ASCL.L,Commercial Services
+SE0000163594,SECUB SS Equity,SECU-B.ST,Commercial Services
+DK0060745370,NETS DC Equity,NETS.CO,Commercial Services
+US1729081059,CTAS UW Equity,CTAS,Commercial Services
+US73935S1050,DBC US,DBC,Commodity Fund
+US91232N1081,USO US,USO,Commodity Fund
+US9123182019,UNG US,UNG,Commodity Fund
+US78463V1070,GLD US,GLD,Commodity Fund
+US46428Q1094,SLV US,SLV,Commodity Fund
+GB0007973794,SRP LN Equity,SRP.L,Computers
+GB00B01QGK86,NCC LN Equity,NCC.L,Computers
+GB00BV9FP302,CCC LN Equity,CCC.L,Computers
+GB00BYZFZ918,SOPH LN Equity,SPH.L,Computers
+GB00BYZDVK82,SCT LN Equity,SCT.L,Computers
+FR0000125338,CAP FP Equity,CAP.PA,Computers
+NL0000400653,GTO NA Equity,GTO.AS,Computers
+ES0118594417,IDR SM Equity,IDR.MC,Computers
+US0378331005,AAPL UW Equity,AAPL,Computers
+IE00B4BNMY34,ACN UN Equity,ACN,Computers
+US1924461023,CTSH UW Equity,CTSH,Computers
+US4592001014,IBM UN Equity,IBM,Computers
+US64110D1046,NTAP UW Equity,NTAP,Computers
+IE00B58JVZ52,STX UW Equity,STX,Computers
+FI0009000277,TIE1V FH Equity,TIE1V.HE,Computers
+US9581021055,WDC UW Equity,WDC,Computers
+GB00B10RZP78,ULVR LN Equity,ULVR.L,Cosmetics/Personal Care
+GB00B19Z1432,PZC LN Equity,PZC.L,Cosmetics/Personal Care
+FR0000120321,OR FP Equity,OR.PA,Cosmetics/Personal Care
+DE0005200000,BEI GY Equity,BEI.DE,Cosmetics/Personal Care
+NL0000009355,UNA NA Equity,UNA.AS,Cosmetics/Personal Care
+US1941621039,CL UN Equity,CL,Cosmetics/Personal Care
+US7427181091,PG UN Equity,PG,Cosmetics/Personal Care
+SE0000112724,SCAB SS Equity,SCA-B.ST,Cosmetics/Personal Care
+US4642874576,SHY US,SHY,Debt Fund
+US4642874402,IEF US,IEF,Debt Fund
+US4642874329,TLT US,TLT,Debt Fund
+US4642872265,AGG US,AGG,Debt Fund
+US9219378356,BND US,BND,Debt Fund
+US4642871762,TIP US,TIP,Debt Fund
+JE00BFNWV485,WOS LN Equity,WOS.L,Distribution/Wholesale
+GB00B0744B38,BNZL LN Equity,BNZL.L,Distribution/Wholesale
+GB00B61TVQ02,INCH LN Equity,INCH.L,Distribution/Wholesale
+GB0001826634,DPLM LN Equity,DPLM.L,Distribution/Wholesale
+GB0008025412,SHI LN Equity,SHI.L,Distribution/Wholesale
+CA29382B1022,ETO LN Equity,ETO.L,Distribution/Wholesale
+US3119001044,FAST UW Equity,FAST,Distribution/Wholesale
+GB00B0SWJX34,LSE LN Equity,LSE.L,Diversified Finan Serv
+GB00B1Z4ST84,PFG LN Equity,PFG.L,Diversified Finan Serv
+GB00BYYK2V80,WPG LN Equity,ICP.L,Diversified Finan Serv
+GB0002405495,SDR LN Equity,SDR.L,Diversified Finan Serv
+GB00B1VZ0M25,HL/ LN Equity,HL.L,Diversified Finan Serv
+GB00B06QFB75,IGG LN Equity,IGG.L,Diversified Finan Serv
+GB0000031285,ADN LN Equity,ADN.L,Diversified Finan Serv
+JE00B3CM9527,HGG LN Equity,HGG.L,Diversified Finan Serv
+GB0033872168,IAP LN Equity,IAP.L,Diversified Finan Serv
+GB00BYY5B507,ICP LN Equity,ICP.L,Diversified Finan Serv
+GB00B83VD954,EMG LN Equity,EMG.L,Diversified Finan Serv
+GB0007668071,CBG LN Equity,CBG.L,Diversified Finan Serv
+GB00B53P2009,JUP LN Equity,JUP.L,Diversified Finan Serv
+GB00B132NW22,ASHM LN Equity,ASHM.L,Diversified Finan Serv
+GB0002148343,RAT LN Equity,RAT.L,Diversified Finan Serv
+GB00B2NGPM57,PAG LN Equity,PAG.L,Diversified Finan Serv
+GB00B1H0DZ51,TLPR LN Equity,TLPR.L,Diversified Finan Serv
+GB0001765816,BRW LN Equity,BRW.L,Diversified Finan Serv
+GB00B1YKG049,IPF LN Equity,IPF.L,Diversified Finan Serv
+GB00B02QND93,PAY LN Equity,PAY.L,Diversified Finan Serv
+GB00BQQMCJ47,ALD LN Equity,ALD.L,Diversified Finan Serv
+DE0005810055,DB1 GY Equity,DB1.DE,Diversified Finan Serv
+US0258161092,AXP UN Equity,AXP,Diversified Finan Serv
+US57636Q1040,MA UN Equity,MA,Diversified Finan Serv
+US92826C8394,V UN Equity,V,Diversified Finan Serv
+CH0102484968,BAER VX Equity,BAER.VX,Diversified Finan Serv
+US09247X1019,BLK UN Equity,BLK,Diversified Finan Serv
+GB00BZ02MH16,NXG LN Equity,NXG.L,Diversified Finan Serv
+GB00B14SKR37,CMCX LN Equity,CMCX.L,Diversified Finan Serv
+GB0007908733,SSE LN Equity,SSE.L,Electric
+GB00B1VNSX38,DRX LN Equity,DRX.L,Electric
+FR0010208488,ENGI FP Equity,ENGI.PA,Electric
+DE0007037129,RWE GY Equity,RWE.DE,Electric
+DE000ENAG999,EOAN GY Equity,EOAN.DE,Electric
+ES0144580Y14,IBE SM Equity,IBE.MC,Electric
+ES0173093115,REE SM Equity,REE.MC,Electric
+ES0130670112,ELE SM Equity,ELE.MC,Electric
+US30161N1019,EXC UN Equity,EXC,Electric
+FI0009007132,FUM1V FH Equity,FUM1V.HE,Electric
+US8425871071,SO UN Equity,SO,Electric
+US26441C2044,DUK UN Equity,DUK,Electric
+IT0003128367,ENEL IM Equity,ENEL.MI,Electric
+US65339F1012,NEE UN Equity,NEE,Electric
+ES0173093024,REE SM Equity,REE.MC,Electric
+DK0060094928,DENERG DC Equity,DENERG.CO,Electric
+FR0000121972,SU FP Equity,SU.PA,Electrical Compo&Equip
+FR0010307819,LR FP Equity,LR.PA,Electrical Compo&Equip
+ES0143416115,GAM SM Equity,GAM.MC,Electrical Compo&Equip
+US2910111044,EMR UN Equity,EMR,Electrical Compo&Equip
+GB0004052071,HLMA LN Equity,HLMA.L,Electronics
+GB0003308607,SXS LN Equity,SXS.L,Electronics
+GB00BVFNZH21,ROR LN Equity,ROR.L,Electronics
+GB0003096442,ECM LN Equity,ECM.L,Electronics
+GB0007323586,RSW LN Equity,RSW.L,Electronics
+NL0000009538,PHIA NA Equity,PHIA.AS,Electronics
+US4385161066,HON UN Equity,HON,Electronics

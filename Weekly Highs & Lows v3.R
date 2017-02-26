@@ -305,12 +305,12 @@ breakOuts <- function(fileName, lookBack=40, endDate){
 }
 
 weeklyRun <- function(risk=500, endDate=Sys.Date()){
-  # Get the yahoo data and calculate ATR based stop-loss in 2 calls
-  # otherwise Yahoo servers stop allowing access
+  # Get the yahoo data and calculate ATR based stop-loss,
+  # called  three times otherwise Yahoo servers stop allowing access
   print("Updating Weekly Breakouts")
-  A <- breakOuts("Equity Universe A May 16.csv", 40, endDate)
-  B <- breakOuts("Equity Universe B May 16.csv", 40, endDate)
-  C <- breakOuts("ETF.csv", 40, endDate)
+  A <- breakOuts("Equity Universe A 2017.csv", 40, endDate)
+  B <- breakOuts("Equity Universe B 2017.csv", 40, endDate)
+  C <- breakOuts("Equity Universe C 2017.csv", 40, endDate)
   
   print("Calculating ATR & Risk")
   # Make the ATR a numeric value so can arrange/manipulate
@@ -342,20 +342,20 @@ weeklyRun <- function(risk=500, endDate=Sys.Date()){
 
 
 # DISPLAYING THE HIGH AND LOW RESULTS
-displayHigh <- function(i){
+# displayHigh <- function(i){
   # Requires a dataframe of results from the new results file generated earlier
-  highs <- filter(i, Type=="High")
-  nHigh <- group_by(highs, Industry)
-  nHigh <- summarise(nHigh, number=n())
+#  highs <- filter(i, Type=="High")
+#  nHigh <- group_by(highs, Industry)
+#  nHigh <- summarise(nHigh, number=n())
 
   # Order by number of breakouts per industry, highest-lowest
-  nHigh$Industry <- factor(nHigh$Industry,
-                           levels=nHigh$Industry[order(nHigh$number, decreasing = T)])
+#  nHigh$Industry <- factor(nHigh$Industry,
+#                           levels=nHigh$Industry[order(nHigh$number, decreasing = T)])
   # Plot the result
-  ggplot(nHigh, aes(x=Industry, y=number, color=number)) + geom_count() +
-    theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
-    xlab("Industry Group") + ylab("Number of New Highs")
-}
+#  ggplot(nHigh, aes(x=Industry, y=number, color=number)) + geom_count() +
+#    theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+#    xlab("Industry Group") + ylab("Number of New Highs")
+#}
 
 displayHL <- function(i, HL="Low"){
   # Displaying Results Lows
