@@ -73,9 +73,9 @@ toWeekly <- function(xtsDF, keepLast=FALSE) {
 }
 
 getLastFri <- function(dte){
-  # Accepts a date in character format. "%Y-%m-%d
-  # If it is uses the prior Friday
-  # Returns the date in numeric sequence suitable for Quantmod calls
+  # Accepts a date in format. "%Y-%m-%d
+  # Returns the date of the prior Friday unless the date specified is a Friday
+  # Returns as class date
   
   dte <- as.Date(dte)
   
@@ -87,56 +87,49 @@ getLastFri <- function(dte){
                      "Wednesday"=5,
                      "Thursday"=6,
                      "Friday"=0)
-  dte <- format(dte - subtract, format="%Y%m%d")
-  
-  # Convert and return
-  as.numeric(dte)
+  return(dte - subtract)
+
 }
 
-chartBreakout <- function(symbol, period=40, timeF="W", endDate=NA) {
+chartBreakout <- function(symbol, period=40, timeF="W", ed=Sys.Date()) {
   # Function to graph the breakout using Max & Min bands
   # symbol - yahoo ticker
   # period - period over which to draw Max & Min lines. Integer.
   # time - timeframe. Character "W" for weekly, "D" for daily
   
-  # Is the date specified? If not use todays date
-  if(is.na(endDate)){
-    # No specified end date so work out end and start dates
-    endDate <- getLastFri(Sys.Date()) # as character string
-    
-  } else {
-    # Date is specified so use this
-    endDate <- getLastFri(endDate)
-  }
+  endDate <- getLastFri(ed)
   
   if(timeF=="W") {
     # Work out the how much data to get for the weekly period specified
     # Get the data & turn into a weekly period
     
     # Weekly, so work out how far back to go
-    startDate <- as.Date(format(endDate), format="%Y%m%d") - (period * 28)
+    startDate <- endDate - (period * 28)
     startDate <- getLastFri(startDate) # as character string
     
     # Get the data from yahoo
-    symbolData <- getYahooData(symbol, startDate,
-                               endDate, adjust=TRUE)
+    symbolData <- getSymbols(symbol, env=NULL, src = 'yahoo',
+                             from=startDate, to=endDate, adjust=TRUE)
     
     # Convert to weekly format
+    names(symbolData) <- c("Open", "High", "Low", "Raw Close", "Volume", "Close")
     symbolData <- toWeekly(symbolData[,c("Open", "High", "Low", "Close", "Volume")],
                            keepLast=FALSE)
     
   } else if(timeF=="D"){
     # Work out the how much data to get for the daily period specified
-    startDate <- as.Date(format(endDate), format="%Y%m%d") - (period * 4)
+    startDate <- endDate - (period * 4)
     startDate <- getLastFri(startDate)
     
     # Get the data from yahoo
-    symbolData <- getYahooData(symbol, startDate,
-                               endDate, adjust=TRUE)
+    symbolData <- getSymbols(symbol, env = NULL, src = 'yahoo',
+                             from=sd, to=ed, adjust=TRUE)
+    names(symbolData) <- c("Open", "High", "Low", "Raw Close", "Volume", "Close")
     
   } else stop("Timeframe must be 'W' for weekly or 'D' for daily")
   
   # Plot the chart
+
   chartSeries(symbolData, name=symbol, TA=NULL)
   
   # Add Donchian Channel '1' means on main chart
@@ -172,10 +165,11 @@ returnSD <- function(symbol){
   
   # How many standard deviations is the last weeks return and ATR compared to past 40 weeks?
   endDate <- getLastFri(Sys.Date())
-  startDate <- as.Date(format(endDate), format="%Y%m%d") - 1120 # 40 * 28
+  startDate <- endDate - 1120 # 40 * 28
   startDate <- getLastFri(startDate)
   
-  symD <- getYahooData(symbol, startDate, endDate, adjust=TRUE)
+  symD <- getSymbols(symbol, env = NULL, src = 'yahoo',
+                     from=startDate, to=endDate, adjust=TRUE)
   
   symW <- toWeekly(symD, keepLast=F)
   
@@ -222,41 +216,61 @@ isNewHighLow <- function(ticker, lookBack=40, ed=Sys.Date()){
   result <- vector("list", 1)
   
   # Work out start and end dates & prepare the format for quantmod functions
-  endD <- getLastFri(ed)
-  endDate <- as.character(endD)
-  endDate <- as.Date(endDate, format="%Y%m%d")
+  # As of June 2017 format for Yahoo date calls is class date: YYYY-MM-DD
+  # Which is default return format of Sys.Date() function
+  endDate <- getLastFri(ed)
   
   startDate = endDate - (lookBack * 10)   # Enough daily data to convert into weeks
-  startD <- format(startDate, format="%Y%m%d") # Convert start date to character
-  startD <- as.numeric(startD)                 # and then numeric for quantmod call
   
   # Get the data from Yahoo
-  curStockData <- tryCatch(getYahooData(ticker, startD, endD, adjust=TRUE),
+  curStockData <- tryCatch(getSymbols(ticker, env = NULL, src = 'yahoo',
+                                      from=startDate, to=endDate, adjust=TRUE),
                            error = function(e){
-                             "error"
+                                      "error"
                            })
   
-  if(curStockData=="error"){
+  if(class(curStockData)[1] != "xts"){
     print("skipped")
     return(c(ticker, "skip", "skip", "skip"))
   }
   
-  # Store todays date to compare against
+  # Yahoo data often returns zeros or NA now so use na.fill and 'extend'
+  # to interpolate missing values.
+  # But need a decent number of rows to interpolate values from so check
+  names(curStockData) <- c("Open", "High", "Low", "Unadjust Close", "Volume", "Close")
+  naRows <- tabulate(as.factor(is.na(curStockData$Close)), nbins = 2)
+  
+  # Test that there is enough clean data
+  if( (naRows[1] < 0.5 * (naRows[1] + naRows[2])) | (nrow(curStockData) < 40)){
+    # Exit because more than 50% of the rows returned are NA
+    print("Not enough data")
+    return(c(ticker, "data", "data", "data"))
+  }
+  
+  # Now test Yahoo hasn't returned dates > last date called
+  curStockData <- curStockData[index(curStockData) < endDate,]
+  
+  # Don't want duplicate rows
+  curStockData <- curStockData[index(curStockData)==unique(unique(index(curStockData))), ]
+  
+  # Interpolate missing values
+  curStockData <- na.fill(curStockData, 'extend')
+
+  # Store last row (most recent observation) to compare against
   curDateRow <- tail(curStockData, 1)
   
   # Convert this dataframe to weekly data
   curStockData <- toWeekly(curStockData[,c("Open", "High", "Low", "Close", "Volume")],
                            keepLast=TRUE)
   
-  # Remove this row from the series & save to compare
+  # Remove the last row from the series & save to compare
   curStockData <- curStockData[-nrow(curStockData),]
-  curStockData$Close <- as.numeric(curStockData$Close)
   
   # Now test for highs & lows of the previous weeks
   # First check if have enough data to look back 40 weeks
   sr <- ifelse(nrow(curStockData) > 40, nrow(curStockData) - 40, 1)
-  curMax <- unique(seriesHi(curStockData$Close[sr:nrow(curStockData)]))
-  curMin <- unique(seriesLo(curStockData$Close[sr:nrow(curStockData)]))
+  curMax <- unique(seriesHi(as.numeric(curStockData$Close[sr:nrow(curStockData)])))
+  curMin <- unique(seriesLo(as.numeric(curStockData$Close[sr:nrow(curStockData)])))
   
   # Does current weekly close make a new high or low?
   if(curDateRow$Close >= curMax){
@@ -275,7 +289,7 @@ isNewHighLow <- function(ticker, lookBack=40, ed=Sys.Date()){
     # No new high or low made. Return the ticker and empty values
     result <- c(ticker, NA, NA, NA)
   }
-
+  
   return(result)
 }
 
@@ -297,7 +311,7 @@ breakOuts <- function(fileName, lookBack=40, endDate){
   
   # only want entries with results or 'skip'
   # meaning Yahoo data was incomplete
-  i <- which(df$Type=="High" | df$Type=="Low" | df$Type=="skip")
+  i <- which(df$Type=="High" | df$Type=="Low" | df$Type=="skip" | df$Type=="data")
   df <- df[i,]
   
   # return the final result
@@ -308,9 +322,9 @@ weeklyRun <- function(risk=500, endDate=Sys.Date()){
   # Get the yahoo data and calculate ATR based stop-loss,
   # called  three times otherwise Yahoo servers stop allowing access
   print("Updating Weekly Breakouts")
-  A <- breakOuts("Equity Universe A 2017.csv", 40, endDate)
-  B <- breakOuts("Equity Universe B 2017.csv", 40, endDate)
-  C <- breakOuts("Equity Universe C 2017.csv", 40, endDate)
+  A <- breakOuts("Equity Universes/Equity Universe A 2017.csv", 40, endDate)
+  B <- breakOuts("Equity Universes/Equity Universe B 2017.csv", 40, endDate)
+  C <- breakOuts("Equity Universes/Equity Universe C 2017.csv", 40, endDate)
   
   print("Calculating ATR & Risk")
   # Make the ATR a numeric value so can arrange/manipulate
@@ -335,7 +349,7 @@ weeklyRun <- function(risk=500, endDate=Sys.Date()){
   
   # Save the data frame
   print("Saving ideas to New Ideas.csv")
-  fileName <- paste0("Weekly Ideas/New Ideas ",getLastFri(Sys.Date()),".csv")
+  fileName <- paste0("Weekly Ideas/New Ideas ",getLastFri(endDate),".csv")
   write.csv(final, fileName, row.names=FALSE)
   final
 }
@@ -361,8 +375,10 @@ displayHL <- function(i, HL="Low"){
   # Displaying Results Lows
   lows <- filter(i, Type==HL)
   ggplot(lows) + geom_bar(mapping=aes(x=Industry)) +
-    theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+    theme(axis.text.x = element_text(angle = 90, hjust = 0.5,
+                                     vjust = 0.5)) +
     xlab("Industry Group") + ylab(HL)
+  
   # nLow <- group_by(lows, Industry)
   # nLow <- summarise(nLow, number=n())
   # Order by number of breakouts per industry, highest-lowest

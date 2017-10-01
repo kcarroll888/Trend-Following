@@ -19,9 +19,9 @@ getFiles <- function(path=".", extn=".csv"){
 
 weeklyCount <- function(filename){
   # For the given file count the number of highs vs lows
-  f <- read.csv(filename, stringsAsFactors = F)
-  tbl <- table(f$Type)
-  return(data.frame(High=tbl[[1]], Low=tbl[[2]], stringsAsFactors = F))
+  fn <- read.csv(filename, stringsAsFactors = F)
+  tbl <- table(fn$Type)
+  return(data.frame(High=tbl[grep("High", names(tbl))], Low=tbl[grep("Low", names(tbl))], stringsAsFactors = F))
 }
 
 extractNames <- function(v){
@@ -33,6 +33,9 @@ extractNames <- function(v){
   # remove the lines which don't have any numbers in them
   loc <- grepl("\\d", n)
   n <- n[loc]
+  
+  # remove any "-" from the names
+  n <- gsub("-", "", n)
   
   # now extract only the numbers as we know they're
   # in a sequence of 8
@@ -55,4 +58,4 @@ getHighLowCounts <- function(){
 c <- getHighLowCounts()
 ggplot(c, aes(x=Date, y=Diff)) +
   geom_bar(stat="identity") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(axis.text.x = element_text(angle = 60, hjust = 1))
