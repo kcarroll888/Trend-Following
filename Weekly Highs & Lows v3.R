@@ -110,7 +110,7 @@ returnSD <- function(symbol){
     
     symD <- getYahooData(symbol, startDate, endDate, adjust=TRUE)
     
-    symW <- toWeekly(symD, keepLast=TRUE)
+    symW <- toWeekly(symD, keepLast=F)
     
     returns <- dailyReturn(symW)
     
@@ -120,11 +120,12 @@ returnSD <- function(symbol){
     }
     
     # standard deviation of the weekly returns
-    sdRtn <- sd(returns, na.rm=TRUE)
+    # sdRtn <- sd(returns, na.rm=TRUE)
+    # Want z-scores (normalising) the data
+    zRtn <- scale(returns)
     
     # how does the last week return compare to the sd?
-    lastRtn <- abs(tail(returns, 1))[[1]]
-    lastRtn/sdRtn
+    tail(zRtn, 1)[[1]]
 }
 
 chartBreakout <- function(symbol, period=40, timeF="W", endDate=NA) {
@@ -157,7 +158,7 @@ chartBreakout <- function(symbol, period=40, timeF="W", endDate=NA) {
     
     # Convert to weekly format
     symbolData <- toWeekly(symbolData[,c("Open", "High", "Low", "Close", "Volume")],
-                           keepLast=TRUE)
+                           keepLast=FALSE)
     
   } else if(timeF=="D"){
     # Work out the how much data to get for the daily period specified
@@ -240,6 +241,11 @@ getBreakouts <- function(fileName, lookBack=40) {
         # Get current symbol
         curSymbol <- stockList[i,2]
         print(curSymbol)
+        if(curSymbol == "SAN.PA" | curSymbol == "JMAT.L"){
+            # Problem with the Yahoo Data so skip this(ese) symbol(s)
+            print("skipped")
+            next
+        }
         
         # Get daily data for current symbol from Yahoo
         curStockData <- getYahooData(curSymbol, startD, endD,
@@ -296,6 +302,26 @@ getBreakouts <- function(fileName, lookBack=40) {
     }
     
     return(newHighLow)
+}
+
+stopLossTriggered <- function(){
+    openPos <- c("AAPL", "ADM", "ADN.L", "ATK.L", "CBK.DE", "CNA.L", "DNLM.L", "ERM.L", "ETO.L",
+                 "GKN.L", "HSIC", "HP", "IBM", "IMI.L", "IPF.L", "ITRK.L", "LLOY.L", "LHA.DE", "MBLY",
+                 "NTG.L", "NXP", "PAG.L", "POP.MC", "RB.L", "RTO", "SYMC", "TDC", "TSCO.L", "TRV", "VWS.CO")
+    
+    closeOut <- data.frame(1, 1)
+    colnames(closeOut) <- c("Symbol", "RtnStdDev")
+    index <- 1
+    for(symb in openPos){
+        print(symb)
+        sd <- returnSD(symb)
+        if(sd >= 2){
+            closeOut[index, 1] <- symb
+            closeOut[index, 2] <- sd
+            index <- index + 1
+        }
+    }
+    closeOut
 }
 
 weeklyRun <- function(risk=500){
