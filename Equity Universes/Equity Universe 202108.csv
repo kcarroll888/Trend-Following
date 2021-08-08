@@ -1,1232 +1,1232 @@
-Bloomberg;Yahoo;Industry;Name
-LYB UN Equity;LYB;Materials;LyondellBasell Industries NV
-AXP UN Equity;AXP;Financials;American Express Co
-VZ UN Equity;VZ;Communication Services;Verizon Communications Inc
-AVGO UW Equity;AVGO;Information Technology;Broadcom Inc
-BA UN Equity;BA;Industrials;Boeing Co/The
-CAT UN Equity;CAT;Industrials;Caterpillar Inc
-JPM UN Equity;JPM;Financials;JPMorgan Chase & Co
-CVX UN Equity;CVX;Energy;Chevron Corp
-KO UN Equity;KO;Consumer Staples;Coca-Cola Co/The
-ABBV UN Equity;ABBV;Health Care;AbbVie Inc
-DIS UN Equity;DIS;Communication Services;Walt Disney Co/The
-FLT UN Equity;FLT;Information Technology;FleetCor Technologies Inc
-EXR UN Equity;EXR;Real Estate;Extra Space Storage Inc
-XOM UN Equity;XOM;Energy;Exxon Mobil Corp
-PSX UN Equity;PSX;Energy;Phillips 66
-GE UN Equity;GE;Industrials;General Electric Co
-HPQ UN Equity;HPQ;Information Technology;HP Inc
-HD UN Equity;HD;Consumer Discretionary;Home Depot Inc/The
-MPWR UW Equity;MPWR ;Information Technology;Monolithic Power Systems Inc
-IBM UN Equity;IBM;Information Technology;International Business Machines Corp
-JNJ UN Equity;JNJ;Health Care;Johnson & Johnson
-MCD UN Equity;MCD;Consumer Discretionary;McDonald's Corp
-MRK UN Equity;MRK;Health Care;Merck & Co Inc
-MMM UN Equity;MMM;Industrials;3M Co
-AWK UN Equity;AWK;Utilities;American Water Works Co Inc
-BAC UN Equity;BAC;Financials;Bank of America Corp
-BKR UN Equity;BKR;Energy;Baker Hughes Co
-PFE UN Equity;PFE;Health Care;Pfizer Inc
-PG UN Equity;PG;Consumer Staples;Procter & Gamble Co/The
-T UN Equity;T;Communication Services;AT&T Inc
-TRV UN Equity;TRV;Financials;Travelers Cos Inc/The
-RTX UN Equity;RTX;Industrials;Raytheon Technologies Corp
-ADI UW Equity;ADI;Information Technology;Analog Devices Inc
-WMT UN Equity;WMT;Consumer Staples;Walmart Inc
-CSCO UW Equity;CSCO;Information Technology;Cisco Systems Inc/Delaware
-INTC UW Equity;INTC;Information Technology;Intel Corp
-GM UN Equity;GM;Consumer Discretionary;General Motors Co
-MSFT UW Equity;MSFT;Information Technology;Microsoft Corp
-DG UN Equity;DG;Consumer Discretionary;Dollar General Corp
-CI UN Equity;CI;Health Care;Cigna Corp
-KMI UN Equity;KMI;Energy;Kinder Morgan Inc
-C UN Equity;C;Financials;Citigroup Inc
-AIG UN Equity;AIG;Financials;American International Group Inc
-MO UN Equity;MO;Consumer Staples;Altria Group Inc
-HCA UN Equity;HCA;Health Care;HCA Healthcare Inc
-UAA UN Equity;UAA;Consumer Discretionary;Under Armour Inc
-IP UN Equity;IP;Materials;International Paper Co
-HPE UN Equity;HPE;Information Technology;Hewlett Packard Enterprise Co
-ABT UN Equity;ABT;Health Care;Abbott Laboratories
-AFL UN Equity;AFL;Financials;Aflac Inc
-APD UN Equity;APD;Materials;Air Products and Chemicals Inc
-RCL UN Equity;RCL;Consumer Discretionary;Royal Caribbean Cruises Ltd
-HES UN Equity;HES;Energy;Hess Corp
-ADM UN Equity;ADM;Consumer Staples;Archer-Daniels-Midland Co
-ADP UW Equity;ADP;Information Technology;Automatic Data Processing Inc
-VRSK UW Equity;VRSK;Industrials;Verisk Analytics Inc
-AZO UN Equity;AZO;Consumer Discretionary;AutoZone Inc
-AVY UN Equity;AVY;Materials;Avery Dennison Corp
-ENPH UQ Equity;ENPH;Information Technology;Enphase Energy Inc
-MSCI UN Equity;MSCI;Financials;MSCI Inc
-BLL UN Equity;BLL;Materials;Ball Corp
-CARR UN Equity;CARR;Industrials;Carrier Global Corp
-BK UN Equity;BK;Financials;Bank of New York Mellon Corp/The
-OTIS UN Equity;OTIS;Industrials;Otis Worldwide Corp
-BAX UN Equity;BAX;Health Care;Baxter International Inc
-BDX UN Equity;BDX;Health Care;Becton Dickinson and Co
-BRK/B UN Equity;BRK-B;Financials;Berkshire Hathaway Inc
-BBY UN Equity;BBY;Consumer Discretionary;Best Buy Co Inc
-BSX UN Equity;BSX;Health Care;Boston Scientific Corp
-BMY UN Equity;BMY;Health Care;Bristol-Myers Squibb Co
-FBHS UN Equity;FBHS;Industrials;Fortune Brands Home & Security Inc
-BF/B UN Equity;BF-B;Consumer Staples;Brown-Forman Corp
-COG UN Equity;COG;Energy;Cabot Oil & Gas Corp
-CPB UN Equity;CPB;Consumer Staples;Campbell Soup Co
-KSU UN Equity;KSU;Industrials;Kansas City Southern
-HLT UN Equity;HLT;Consumer Discretionary;Hilton Worldwide Holdings Inc
-CCL UN Equity;CCL;Consumer Discretionary;Carnival Corp
-QRVO UW Equity;QRVO;Information Technology;Qorvo Inc
-LUMN UN Equity;LUMN;Communication Services;Lumen Technologies Inc
-UDR UN Equity;UDR;Real Estate;UDR Inc
-CLX UN Equity;CLX;Consumer Staples;Clorox Co/The
-PAYC UN Equity;PAYC;Information Technology;Paycom Software Inc
-CMS UN Equity;CMS;Utilities;CMS Energy Corp
-NWL UW Equity;NWL;Consumer Discretionary;Newell Brands Inc
-CL UN Equity;CL;Consumer Staples;Colgate-Palmolive Co
-CMA UN Equity;CMA;Financials;Comerica Inc
-IPGP UW Equity;IPGP;Information Technology;IPG Photonics Corp
-CAG UN Equity;CAG;Consumer Staples;Conagra Brands Inc
-ED UN Equity;ED;Utilities;Consolidated Edison Inc
-GLW UN Equity;GLW;Information Technology;Corning Inc
-CMI UN Equity;CMI;Industrials;Cummins Inc
-CZR UW Equity;CZR;Consumer Discretionary;Caesars Entertainment Inc
-DHR UN Equity;DHR;Health Care;Danaher Corp
-TGT UN Equity;TGT;Consumer Discretionary;Target Corp
-DE UN Equity;DE;Industrials;Deere & Co
-D UN Equity;D;Utilities;Dominion Energy Inc
-DOV UN Equity;DOV;Industrials;Dover Corp
-LNT UW Equity;LNT;Utilities;Alliant Energy Corp
-DUK UN Equity;DUK;Utilities;Duke Energy Corp
-REG UW Equity;REG;Real Estate;Regency Centers Corp
-ETN UN Equity;ETN;Industrials;Eaton Corp PLC
-ECL UN Equity;ECL;Materials;Ecolab Inc
-PKI UN Equity;PKI;Health Care;PerkinElmer Inc
-EMR UN Equity;EMR;Industrials;Emerson Electric Co
-EOG UN Equity;EOG;Energy;EOG Resources Inc
-AON UN Equity;AON;Financials;Aon PLC
-ETR UN Equity;ETR;Utilities;Entergy Corp
-EFX UN Equity;EFX;Industrials;Equifax Inc
-IQV UN Equity;IQV;Health Care;IQVIA Holdings Inc
-IT UN Equity;IT;Information Technology;Gartner Inc
-FDX UN Equity;FDX;Industrials;FedEx Corp
-FMC UN Equity;FMC;Materials;FMC Corp
-F UN Equity;F;Consumer Discretionary;Ford Motor Co
-NEE UN Equity;NEE;Utilities;NextEra Energy Inc
-BEN UN Equity;BEN;Financials;Franklin Resources Inc
-FCX UN Equity;FCX;Materials;Freeport-McMoRan Inc
-GPS UN Equity;GPS;Consumer Discretionary;Gap Inc/The
-DXCM UW Equity;DXCM;Health Care;Dexcom Inc
-GD UN Equity;GD;Industrials;General Dynamics Corp
-GIS UN Equity;GIS;Consumer Staples;General Mills Inc
-GPC UN Equity;GPC;Consumer Discretionary;Genuine Parts Co
-ATO UN Equity;ATO;Utilities;Atmos Energy Corp
-GWW UN Equity;GWW;Industrials;WW Grainger Inc
-HAL UN Equity;HAL;Energy;Halliburton Co
-LHX UN Equity;LHX;Industrials;L3Harris Technologies Inc
-PEAK UN Equity;PEAK;Real Estate;Healthpeak Properties Inc
-CTLT UN Equity;CTLT;Health Care;Catalent Inc
-FTV UN Equity;FTV;Industrials;Fortive Corp
-HSY UN Equity;HSY;Consumer Staples;Hershey Co/The
-SYF UN Equity;SYF;Financials;Synchrony Financial
-HRL UN Equity;HRL;Consumer Staples;Hormel Foods Corp
-AJG UN Equity;AJG;Financials;Arthur J Gallagher & Co
-MDLZ UW Equity;MDLZ;Consumer Staples;Mondelez International Inc
-CNP UN Equity;CNP;Utilities;CenterPoint Energy Inc
-HUM UN Equity;HUM;Health Care;Humana Inc
-WLTW UW Equity;WLTW;Financials;Willis Towers Watson PLC
-ITW UN Equity;ITW;Industrials;Illinois Tool Works Inc
-CDW UW Equity;CDW;Information Technology;CDW Corp/DE
-TT UN Equity;TT;Industrials;Trane Technologies PLC
-IPG UN Equity;IPG;Communication Services;Interpublic Group of Cos Inc/The
-IFF UN Equity;IFF;Materials;International Flavors & Fragrances Inc
-J UN Equity;J;Industrials;Jacobs Engineering Group Inc
-GNRC UN Equity;GNRC;Industrials;Generac Holdings Inc
-NXPI UW Equity;NXPI;Information Technology;NXP Semiconductors NV
-HBI UN Equity;HBI;Consumer Discretionary;Hanesbrands Inc
-K UN Equity;K;Consumer Staples;Kellogg Co
-BR UN Equity;BR;Information Technology;Broadridge Financial Solutions Inc
-PRGO UN Equity;PRGO;Health Care;Perrigo Co PLC
-KMB UN Equity;KMB;Consumer Staples;Kimberly-Clark Corp
-KIM UN Equity;KIM;Real Estate;Kimco Realty Corp
-ORCL UN Equity;ORCL;Information Technology;Oracle Corp
-KR UN Equity;KR;Consumer Staples;Kroger Co/The
-LEG UN Equity;LEG;Consumer Discretionary;Leggett & Platt Inc
-LEN UN Equity;LEN;Consumer Discretionary;Lennar Corp
-LLY UN Equity;LLY;Health Care;Eli Lilly & Co
-BBWI UN Equity;BBWI;Consumer Discretionary;Bath & Body Works Inc
-CHTR UW Equity;CHTR;Communication Services;Charter Communications Inc
-LNC UN Equity;LNC;Financials;Lincoln National Corp
-L UN Equity;L;Financials;Loews Corp
-LOW UN Equity;LOW;Consumer Discretionary;Lowe's Cos Inc
-IEX UN Equity;IEX;Industrials;IDEX Corp
-MMC UN Equity;MMC;Financials;Marsh & McLennan Cos Inc
-MAS UN Equity;MAS;Industrials;Masco Corp
-SPGI UN Equity;SPGI;Financials;S&P Global Inc
-MDT UN Equity;MDT;Health Care;Medtronic PLC
-VTRS UW Equity;VTRS;Health Care;Viatris Inc
-CVS UN Equity;CVS;Health Care;CVS Health Corp
-DD UN Equity;DD;Materials;DuPont de Nemours Inc
-MU UW Equity;MU;Information Technology;Micron Technology Inc
-MSI UN Equity;MSI;Information Technology;Motorola Solutions Inc
-CBOE UF Equity;CBOE;Financials;Cboe Global Markets Inc
-LH UN Equity;LH;Health Care;Laboratory Corp of America Holdings
-NEM UN Equity;NEM;Materials;Newmont Corp
-NKE UN Equity;NKE;Consumer Discretionary;NIKE Inc
-NI UN Equity;NI;Utilities;NiSource Inc
-NSC UN Equity;NSC;Industrials;Norfolk Southern Corp
-PFG UW Equity;PFG;Financials;Principal Financial Group Inc
-ES UN Equity;ES;Utilities;Eversource Energy
-NOC UN Equity;NOC;Industrials;Northrop Grumman Corp
-WFC UN Equity;WFC;Financials;Wells Fargo & Co
-NUE UN Equity;NUE;Materials;Nucor Corp
-PVH UN Equity;PVH;Consumer Discretionary;PVH Corp
-OXY UN Equity;OXY;Energy;Occidental Petroleum Corp
-OMC UN Equity;OMC;Communication Services;Omnicom Group Inc
-OKE UN Equity;OKE;Energy;ONEOK Inc
-RJF UN Equity;RJF;Financials;Raymond James Financial Inc
-PH UN Equity;PH;Industrials;Parker-Hannifin Corp
-ROL UN Equity;ROL;Industrials;Rollins Inc
-PPL UN Equity;PPL;Utilities;PPL Corp
-COP UN Equity;COP;Energy;ConocoPhillips
-PHM UN Equity;PHM;Consumer Discretionary;PulteGroup Inc
-PNW UN Equity;PNW;Utilities;Pinnacle West Capital Corp
-PNC UN Equity;PNC;Financials;PNC Financial Services Group Inc/The
-PPG UN Equity;PPG;Materials;PPG Industries Inc
-PGR UN Equity;PGR;Financials;Progressive Corp/The
-PEG UN Equity;PEG;Utilities;Public Service Enterprise Group Inc
-RHI UN Equity;RHI;Industrials;Robert Half International Inc
-EIX UN Equity;EIX;Utilities;Edison International
-SLB UN Equity;SLB;Energy;Schlumberger NV
-SCHW UN Equity;SCHW;Financials;Charles Schwab Corp/The
-SHW UN Equity;SHW;Materials;Sherwin-Williams Co/The
-WST UN Equity;WST;Health Care;West Pharmaceutical Services Inc
-SJM UN Equity;SJM;Consumer Staples;J M Smucker Co/The
-SNA UN Equity;SNA;Industrials;Snap-on Inc
-AME UN Equity;AME;Industrials;AMETEK Inc
-SO UN Equity;SO;Utilities;Southern Co/The
-TFC UN Equity;TFC;Financials;Truist Financial Corp
-LUV UN Equity;LUV;Industrials;Southwest Airlines Co
-WRB UN Equity;WRB;Financials;W R Berkley Corp
-SWK UN Equity;SWK;Industrials;Stanley Black & Decker Inc
-PSA UN Equity;PSA;Real Estate;Public Storage
-ANET UN Equity;ANET;Information Technology;Arista Networks Inc
-SYY UN Equity;SYY;Consumer Staples;Sysco Corp
-CTVA UN Equity;CTVA;Materials;Corteva Inc
-TXN UW Equity;TXN;Information Technology;Texas Instruments Inc
-TXT UN Equity;TXT;Industrials;Textron Inc
-TMO UN Equity;TMO;Health Care;Thermo Fisher Scientific Inc
-TJX UN Equity;TJX;Consumer Discretionary;TJX Cos Inc/The
-GL UN Equity;GL;Financials;Globe Life Inc
-JCI UN Equity;JCI;Industrials;Johnson Controls International plc
-ULTA UW Equity;ULTA;Consumer Discretionary;Ulta Beauty Inc
-UNP UN Equity;UNP;Industrials;Union Pacific Corp
-KEYS UN Equity;KEYS;Information Technology;Keysight Technologies Inc
-UNH UN Equity;UNH;Health Care;UnitedHealth Group Inc
-UNM UN Equity;UNM;Financials;Unum Group
-MRO UN Equity;MRO;Energy;Marathon Oil Corp
-BIO UN Equity;BIO;Health Care;Bio-Rad Laboratories Inc
-VTR UN Equity;VTR;Real Estate;Ventas Inc
-VFC UN Equity;VFC;Consumer Discretionary;VF Corp
-VNO UN Equity;VNO;Real Estate;Vornado Realty Trust
-VMC UN Equity;VMC;Materials;Vulcan Materials Co
-WY UN Equity;WY;Real Estate;Weyerhaeuser Co
-WHR UN Equity;WHR;Consumer Discretionary;Whirlpool Corp
-WMB UN Equity;WMB;Energy;Williams Cos Inc/The
-WEC UN Equity;WEC;Utilities;WEC Energy Group Inc
-ADBE UW Equity;ADBE;Information Technology;Adobe Inc
-AES UN Equity;AES;Utilities;AES Corp/The
-AMGN UW Equity;AMGN;Health Care;Amgen Inc
-AAPL UW Equity;AAPL;Information Technology;Apple Inc
-ADSK UW Equity;ADSK;Information Technology;Autodesk Inc
-CTAS UW Equity;CTAS;Industrials;Cintas Corp
-CMCSA UW Equity;CMCSA;Communication Services;Comcast Corp
-TAP UN Equity;TAP;Consumer Staples;Molson Coors Beverage Co
-KLAC UW Equity;KLAC;Information Technology;KLA Corp
-MAR UW Equity;MAR;Consumer Discretionary;Marriott International Inc/MD
-MKC UN Equity;MKC;Consumer Staples;McCormick & Co Inc/MD
-PCAR UW Equity;PCAR;Industrials;PACCAR Inc
-COST UW Equity;COST;Consumer Staples;Costco Wholesale Corp
-FRC UN Equity;FRC;Financials;First Republic Bank/CA
-SYK UN Equity;SYK;Health Care;Stryker Corp
-TSN UN Equity;TSN;Consumer Staples;Tyson Foods Inc
-LW UN Equity;LW;Consumer Staples;Lamb Weston Holdings Inc
-AMAT UW Equity;AMAT;Information Technology;Applied Materials Inc
-AAL UW Equity;AAL;Industrials;American Airlines Group Inc
-CAH UN Equity;CAH;Health Care;Cardinal Health Inc
-CERN UW Equity;CERN;Health Care;Cerner Corp
-CINF UW Equity;CINF;Financials;Cincinnati Financial Corp
-VIAC UW Equity;VIAC;Communication Services;ViacomCBS Inc
-DHI UN Equity;DHI;Consumer Discretionary;DR Horton Inc
-EA UW Equity;EA;Communication Services;Electronic Arts Inc
-EXPD UW Equity;EXPD;Industrials;Expeditors International of Washington I
-FAST UW Equity;FAST;Industrials;Fastenal Co
-MTB UN Equity;MTB;Financials;M&T Bank Corp
-XEL UW Equity;XEL;Utilities;Xcel Energy Inc
-FISV UW Equity;FISV;Information Technology;Fiserv Inc
-FITB UW Equity;FITB;Financials;Fifth Third Bancorp
-GILD UW Equity;GILD;Health Care;Gilead Sciences Inc
-HAS UW Equity;HAS;Consumer Discretionary;Hasbro Inc
-HBAN UW Equity;HBAN;Financials;Huntington Bancshares Inc/OH
-WELL UN Equity;WELL;Real Estate;Welltower Inc
-BIIB UW Equity;BIIB;Health Care;Biogen Inc
-NTRS UW Equity;NTRS;Financials;Northern Trust Corp
-PKG UN Equity;PKG;Materials;Packaging Corp of America
-PAYX UW Equity;PAYX;Information Technology;Paychex Inc
-PBCT UW Equity;PBCT;Financials;People's United Financial Inc
-QCOM UW Equity;QCOM;Information Technology;QUALCOMM Inc
-ROP UN Equity;ROP;Industrials;Roper Technologies Inc
-ROST UW Equity;ROST;Consumer Discretionary;Ross Stores Inc
-IDXX UW Equity;IDXX;Health Care;IDEXX Laboratories Inc
-SBUX UW Equity;SBUX;Consumer Discretionary;Starbucks Corp
-KEY UN Equity;KEY;Financials;KeyCorp
-FOXA UW Equity;FOXA;Communication Services;Fox Corp
-FOX UW Equity;FOX;Communication Services;Fox Corp
-STT UN Equity;STT;Financials;State Street Corp
-NCLH UN Equity;NCLH;Consumer Discretionary;Norwegian Cruise Line Holdings Ltd
-USB UN Equity;USB;Financials;US Bancorp
-AOS UN Equity;AOS;Industrials;A O Smith Corp
-NLOK UW Equity;NLOK;Information Technology;NortonLifeLock Inc
-TROW UW Equity;TROW;Financials;T Rowe Price Group Inc
-WM UN Equity;WM;Industrials;Waste Management Inc
-STZ UN Equity;STZ;Consumer Staples;Constellation Brands Inc
-XLNX UW Equity;XLNX;Information Technology;Xilinx Inc
-XRAY UW Equity;XRAY;Health Care;DENTSPLY SIRONA Inc
-ZION UW Equity;ZION;Financials;Zions Bancorp NA
-ALK UN Equity;ALK;Industrials;Alaska Air Group Inc
-IVZ UN Equity;IVZ;Financials;Invesco Ltd
-LIN UN Equity;LIN;Materials;Linde PLC
-INTU UW Equity;INTU;Information Technology;Intuit Inc
-MS UN Equity;MS;Financials;Morgan Stanley
-MCHP UW Equity;MCHP;Information Technology;Microchip Technology Inc
-CB UN Equity;CB;Financials;Chubb Ltd
-HOLX UW Equity;HOLX;Health Care;Hologic Inc
-CFG UN Equity;CFG;Financials;Citizens Financial Group Inc
-ORLY UW Equity;ORLY;Consumer Discretionary;O'Reilly Automotive Inc
-ALL UN Equity;ALL;Financials;Allstate Corp/The
-EQR UN Equity;EQR;Real Estate;Equity Residential
-BWA UN Equity;BWA;Consumer Discretionary;BorgWarner Inc
-OGN UN Equity;OGN;Health Care;Organon & Co
-HST UW Equity;HST;Real Estate;Host Hotels & Resorts Inc
-INCY UW Equity;INCY;Health Care;Incyte Corp
-SPG UN Equity;SPG;Real Estate;Simon Property Group Inc
-EMN UN Equity;EMN;Materials;Eastman Chemical Co
-TWTR UN Equity;TWTR;Communication Services;Twitter Inc
-AVB UN Equity;AVB;Real Estate;AvalonBay Communities Inc
-PRU UN Equity;PRU;Financials;Prudential Financial Inc
-UPS UN Equity;UPS;Industrials;United Parcel Service Inc
-WBA UW Equity;WBA;Consumer Staples;Walgreens Boots Alliance Inc
-STE UN Equity;STE;Health Care;STERIS PLC
-MCK UN Equity;MCK;Health Care;McKesson Corp
-LMT UN Equity;LMT;Industrials;Lockheed Martin Corp
-ABC UN Equity;ABC;Health Care;AmerisourceBergen Corp
-COF UN Equity;COF;Financials;Capital One Financial Corp
-WAT UN Equity;WAT;Health Care;Waters Corp
-DLTR UW Equity;DLTR;Consumer Discretionary;Dollar Tree Inc
-DRI UN Equity;DRI;Consumer Discretionary;Darden Restaurants Inc
-DPZ UN Equity;DPZ;Consumer Discretionary;Domino's Pizza Inc
-NVR UN Equity;NVR;Consumer Discretionary;NVR Inc
-NTAP UW Equity;NTAP;Information Technology;NetApp Inc
-CTXS UW Equity;CTXS;Information Technology;Citrix Systems Inc
-DXC UN Equity;DXC;Information Technology;DXC Technology Co
-ODFL UW Equity;ODFL;Industrials;Old Dominion Freight Line Inc
-DVA UN Equity;DVA;Health Care;DaVita Inc
-HIG UN Equity;HIG;Financials;Hartford Financial Services Group Inc/Th
-IRM UN Equity;IRM;Real Estate;Iron Mountain Inc
-EL UN Equity;EL;Consumer Staples;Estee Lauder Cos Inc/The
-CDNS UW Equity;CDNS;Information Technology;Cadence Design Systems Inc
-TYL UN Equity;TYL;Information Technology;Tyler Technologies Inc
-UHS UN Equity;UHS;Health Care;Universal Health Services Inc
-SWKS UW Equity;SWKS;Information Technology;Skyworks Solutions Inc
-NOV UN Equity;NOV;Energy;NOV Inc
-DGX UN Equity;DGX;Health Care;Quest Diagnostics Inc
-ATVI UW Equity;ATVI;Communication Services;Activision Blizzard Inc
-ROK UN Equity;ROK;Industrials;Rockwell Automation Inc
-KHC UW Equity;KHC;Consumer Staples;Kraft Heinz Co/The
-AMT UN Equity;AMT;Real Estate;American Tower Corp
-REGN UW Equity;REGN;Health Care;Regeneron Pharmaceuticals Inc
-AMZN UW Equity;AMZN;Consumer Discretionary;Amazon.com Inc
-JKHY UW Equity;JKHY;Information Technology;Jack Henry & Associates Inc
-RL UN Equity;RL;Consumer Discretionary;Ralph Lauren Corp
-BXP UN Equity;BXP;Real Estate;Boston Properties Inc
-APH UN Equity;APH;Information Technology;Amphenol Corp
-HWM UN Equity;HWM;Industrials;Howmet Aerospace Inc
-PXD UN Equity;PXD;Energy;Pioneer Natural Resources Co
-VLO UN Equity;VLO;Energy;Valero Energy Corp
-SNPS UW Equity;SNPS;Information Technology;Synopsys Inc
-WU UN Equity;WU;Information Technology;Western Union Co/The
-ETSY UW Equity;ETSY;Consumer Discretionary;Etsy Inc
-CHRW UW Equity;CHRW;Industrials;CH Robinson Worldwide Inc
-ACN UN Equity;ACN;Information Technology;Accenture PLC
-TDG UN Equity;TDG;Industrials;TransDigm Group Inc
-YUM UN Equity;YUM;Consumer Discretionary;Yum! Brands Inc
-PLD UN Equity;PLD;Real Estate;Prologis Inc
-FE UN Equity;FE;Utilities;FirstEnergy Corp
-VRSN UW Equity;VRSN;Information Technology;VeriSign Inc
-PWR UN Equity;PWR;Industrials;Quanta Services Inc
-HSIC UW Equity;HSIC;Health Care;Henry Schein Inc
-AEE UN Equity;AEE;Utilities;Ameren Corp
-ANSS UW Equity;ANSS;Information Technology;ANSYS Inc
-NVDA UW Equity;NVDA;Information Technology;NVIDIA Corp
-SEE UN Equity;SEE;Materials;Sealed Air Corp
-CTSH UW Equity;CTSH;Information Technology;Cognizant Technology Solutions Corp
-SIVB UW Equity;SIVB;Financials;SVB Financial Group
-ISRG UW Equity;ISRG;Health Care;Intuitive Surgical Inc
-TTWO UW Equity;TTWO;Communication Services;Take-Two Interactive Software Inc
-RSG UN Equity;RSG;Industrials;Republic Services Inc
-EBAY UW Equity;EBAY;Consumer Discretionary;eBay Inc
-GS UN Equity;GS;Financials;Goldman Sachs Group Inc/The
-SBAC UW Equity;SBAC;Real Estate;SBA Communications Corp
-SRE UN Equity;SRE;Utilities;Sempra Energy
-MCO UN Equity;MCO;Financials;Moody's Corp
-BKNG UW Equity;BKNG;Consumer Discretionary;Booking Holdings Inc
-FFIV UW Equity;FFIV;Information Technology;F5 Networks Inc
-AKAM UW Equity;AKAM;Information Technology;Akamai Technologies Inc
-CRL UN Equity;CRL;Health Care;Charles River Laboratories International
-MKTX UW Equity;MKTX;Financials;MarketAxess Holdings Inc
-DVN UN Equity;DVN;Energy;Devon Energy Corp
-GOOGL UW Equity;GOOGL;Communication Services;Alphabet Inc
-TFX UN Equity;TFX;Health Care;Teleflex Inc
-ALLE UN Equity;ALLE;Industrials;Allegion plc
-NFLX UW Equity;NFLX;Communication Services;Netflix Inc
-A UN Equity;A;Health Care;Agilent Technologies Inc
-TRMB UW Equity;TRMB;Information Technology;Trimble Inc
-ANTM UN Equity;ANTM;Health Care;Anthem Inc
-CME UW Equity;CME;Financials;CME Group Inc
-JNPR UN Equity;JNPR;Information Technology;Juniper Networks Inc
-BLK UN Equity;BLK;Financials;BlackRock Inc
-DTE UN Equity;DTE;Utilities;DTE Energy Co
-CE UN Equity;CE;Materials;Celanese Corp
-NDAQ UW Equity;NDAQ;Financials;Nasdaq Inc
-PM UN Equity;PM;Consumer Staples;Philip Morris International Inc
-IR UN Equity;IR;Industrials;Ingersoll Rand Inc
-CRM UN Equity;CRM;Information Technology;salesforce.com Inc
-HII UN Equity;HII;Industrials;Huntington Ingalls Industries Inc
-MET UN Equity;MET;Financials;MetLife Inc
-UA UN Equity;UA;Consumer Discretionary;Under Armour Inc
-TPR UN Equity;TPR;Consumer Discretionary;Tapestry Inc
-CSX UW Equity;CSX;Industrials;CSX Corp
-EW UN Equity;EW;Health Care;Edwards Lifesciences Corp
-AMP UN Equity;AMP;Financials;Ameriprise Financial Inc
-ZBRA UW Equity;ZBRA;Information Technology;Zebra Technologies Corp
-ZBH UN Equity;ZBH;Health Care;Zimmer Biomet Holdings Inc
-CBRE UN Equity;CBRE;Real Estate;CBRE Group Inc
-MA UN Equity;MA;Information Technology;Mastercard Inc
-KMX UN Equity;KMX;Consumer Discretionary;CarMax Inc
-ICE UN Equity;ICE;Financials;Intercontinental Exchange Inc
-FIS UN Equity;FIS;Information Technology;Fidelity National Information Services I
-CMG UN Equity;CMG;Consumer Discretionary;Chipotle Mexican Grill Inc
-WYNN UW Equity;WYNN;Consumer Discretionary;Wynn Resorts Ltd
-LYV UN Equity;LYV;Communication Services;Live Nation Entertainment Inc
-AIZ UN Equity;AIZ;Financials;Assurant Inc
-NRG UN Equity;NRG;Utilities;NRG Energy Inc
-MNST UW Equity;MNST;Consumer Staples;Monster Beverage Corp
-RF UN Equity;RF;Financials;Regions Financial Corp
-MOS UN Equity;MOS;Materials;Mosaic Co/The
-EXPE UW Equity;EXPE;Consumer Discretionary;Expedia Group Inc
-EVRG UN Equity;EVRG;Utilities;Evergy Inc
-DISCA UW Equity;DISCA;Communication Services;Discovery Inc
-CF UN Equity;CF;Materials;CF Industries Holdings Inc
-APA UW Equity;APA;Energy;APA Corp
-LDOS UN Equity;LDOS;Industrials;Leidos Holdings Inc
-GOOG UW Equity;GOOG;Communication Services;Alphabet Inc
-COO UN Equity;COO;Health Care;Cooper Cos Inc/The
-TEL UN Equity;TEL;Information Technology;TE Connectivity Ltd
-DFS UN Equity;DFS;Financials;Discover Financial Services
-V UN Equity;V;Information Technology;Visa Inc
-MAA UN Equity;MAA;Real Estate;Mid-America Apartment Communities Inc
-XYL UN Equity;XYL;Industrials;Xylem Inc/NY
-MPC UN Equity;MPC;Energy;Marathon Petroleum Corp
-AMD UW Equity;AMD;Information Technology;Advanced Micro Devices Inc
-TSCO UW Equity;TSCO;Consumer Discretionary;Tractor Supply Co
-RMD UN Equity;RMD;Health Care;ResMed Inc
-MTD UN Equity;MTD;Health Care;Mettler-Toledo International Inc
-CPRT UW Equity;CPRT;Industrials;Copart Inc
-FTNT UW Equity;FTNT;Information Technology;Fortinet Inc
-ALB UN Equity;ALB;Materials;Albemarle Corp
-MRNA UW Equity;MRNA;Health Care;Moderna Inc
-ESS UN Equity;ESS;Real Estate;Essex Property Trust Inc
-O UN Equity;O;Real Estate;Realty Income Corp
-WRK UN Equity;WRK;Materials;Westrock Co
-INFO UN Equity;INFO;Industrials;IHS Markit Ltd
-WAB UN Equity;WAB;Industrials;Westinghouse Air Brake Technologies Corp
-POOL UW Equity;POOL;Consumer Discretionary;Pool Corp
-WDC UW Equity;WDC;Information Technology;Western Digital Corp
-PEP UW Equity;PEP;Consumer Staples;PepsiCo Inc
-FANG UW Equity;FANG;Energy;Diamondback Energy Inc
-MXIM UW Equity;MXIM;Information Technology;Maxim Integrated Products Inc
-NOW UN Equity;NOW;Information Technology;ServiceNow Inc
-CHD UN Equity;CHD;Consumer Staples;Church & Dwight Co Inc
-DRE UN Equity;DRE;Real Estate;Duke Realty Corp
-FRT UN Equity;FRT;Real Estate;Federal Realty Investment Trust
-MGM UN Equity;MGM;Consumer Discretionary;MGM Resorts International
-AEP UW Equity;AEP;Utilities;American Electric Power Co Inc
-PTC UW Equity;PTC;Information Technology;PTC Inc
-JBHT UW Equity;JBHT;Industrials;JB Hunt Transport Services Inc
-LRCX UW Equity;LRCX;Information Technology;Lam Research Corp
-MHK UN Equity;MHK;Consumer Discretionary;Mohawk Industries Inc
-PNR UN Equity;PNR;Industrials;Pentair PLC
-VRTX UW Equity;VRTX;Health Care;Vertex Pharmaceuticals Inc
-AMCR UN Equity;AMCR;Materials;Amcor PLC
-FB UW Equity;FB;Communication Services;Facebook Inc
-TMUS UW Equity;TMUS;Communication Services;T-Mobile US Inc
-URI UN Equity;URI;Industrials;United Rentals Inc
-ARE UN Equity;ARE;Real Estate;Alexandria Real Estate Equities Inc
-HON UW Equity;HON;Industrials;Honeywell International Inc
-ABMD UW Equity;ABMD;Health Care;ABIOMED Inc
-DAL UN Equity;DAL;Industrials;Delta Air Lines Inc
-UAL UW Equity;UAL;Industrials;United Airlines Holdings Inc
-STX UW Equity;STX;Information Technology;Seagate Technology Holdings PLC
-NWS UW Equity;NWS;Communication Services;News Corp
-CNC UN Equity;CNC;Health Care;Centene Corp
-MLM UN Equity;MLM;Materials;Martin Marietta Materials Inc
-TER UW Equity;TER;Information Technology;Teradyne Inc
-PYPL UW Equity;PYPL;Information Technology;PayPal Holdings Inc
-TSLA UW Equity;TSLA;Consumer Discretionary;Tesla Inc
-DISH UW Equity;DISH;Communication Services;DISH Network Corp
-PENN UW Equity;PENN;Consumer Discretionary;Penn National Gaming Inc
-DOW UN Equity;DOW;Materials;Dow Inc
-RE UN Equity;RE;Financials;Everest Re Group Ltd
-TDY UN Equity;TDY;Industrials;Teledyne Technologies Inc
-NWSA UW Equity;NWSA;Communication Services;News Corp
-EXC UW Equity;EXC;Utilities;Exelon Corp
-GPN UN Equity;GPN;Information Technology;Global Payments Inc
-CCI UN Equity;CCI;Real Estate;Crown Castle International Corp
-APTV UN Equity;APTV;Consumer Discretionary;Aptiv PLC
-AAP UN Equity;AAP;Consumer Discretionary;Advance Auto Parts Inc
-ALGN UW Equity;ALGN;Health Care;Align Technology Inc
-ILMN UW Equity;ILMN;Health Care;Illumina Inc
-LKQ UW Equity;LKQ;Consumer Discretionary;LKQ Corp
-NLSN UN Equity;NLSN;Industrials;Nielsen Holdings PLC
-GRMN UW Equity;GRMN;Consumer Discretionary;Garmin Ltd
-ZTS UN Equity;ZTS;Health Care;Zoetis Inc
-DLR UN Equity;DLR;Real Estate;Digital Realty Trust Inc
-EQIX UW Equity;EQIX;Real Estate;Equinix Inc
-LVS UN Equity;LVS;Consumer Discretionary;Las Vegas Sands Corp
-DISCK UW Equity;DISCK;Communication Services;Discovery Inc
-MELI UW Equity;MELI;Consumer Discretionary;MercadoLibre Inc
-MXIM UW Equity;MXIM;Information Technology;Maxim Integrated Products Inc
-CDW UW Equity;CDW;Information Technology;CDW Corp/DE
-MDLZ UW Equity;MDLZ;Consumer Staples;Mondelez International Inc
-CPRT UW Equity;CPRT;Industrials;Copart Inc
-AMZN UW Equity;AMZN;Consumer Discretionary;Amazon.com Inc
-GOOG UW Equity;GOOG;Communication Services;Alphabet Inc
-IDXX UW Equity;IDXX;Health Care;IDEXX Laboratories Inc
-CHTR UW Equity;CHTR;Communication Services;Charter Communications Inc
-VRSN UW Equity;VRSN;Information Technology;VeriSign Inc
-CSCO UW Equity;CSCO;Information Technology;Cisco Systems Inc/Delaware
-MTCH UW Equity;MTCH;Communication Services;Match Group Inc
-INTC UW Equity;INTC;Information Technology;Intel Corp
-MSFT UW Equity;MSFT;Information Technology;Microsoft Corp
-NVDA UW Equity;NVDA;Information Technology;NVIDIA Corp
-CTSH UW Equity;CTSH;Information Technology;Cognizant Technology Solutions Corp
-ISRG UW Equity;ISRG;Health Care;Intuitive Surgical Inc
-ALGN UW Equity;ALGN;Health Care;Align Technology Inc
-EBAY UW Equity;EBAY;Consumer Discretionary;eBay Inc
-TEAM UW Equity;TEAM;Information Technology;Atlassian Corp PLC
-MRVL UW Equity;MRVL;Information Technology;Marvell Technology Inc
-INCY UW Equity;INCY;Health Care;Incyte Corp
-BKNG UW Equity;BKNG;Consumer Discretionary;Booking Holdings Inc
-ILMN UW Equity;ILMN;Health Care;Illumina Inc
-JD UW Equity;JD;Consumer Discretionary;JD.com Inc
-TXN UW Equity;TXN;Information Technology;Texas Instruments Inc
-KHC UW Equity;KHC;Consumer Staples;Kraft Heinz Co/The
-GOOGL UW Equity;GOOGL;Communication Services;Alphabet Inc
-DOCU UW Equity;DOCU;Information Technology;DocuSign Inc
-NFLX UW Equity;NFLX;Communication Services;Netflix Inc
-KDP UW Equity;KDP;Consumer Staples;Keurig Dr Pepper Inc
-ADP UW Equity;ADP;Information Technology;Automatic Data Processing Inc
-XEL UW Equity;XEL;Utilities;Xcel Energy Inc
-WBA UW Equity;WBA;Consumer Staples;Walgreens Boots Alliance Inc
-PDD UW Equity;PDD;Consumer Discretionary;Pinduoduo Inc
-AMD UW Equity;AMD;Information Technology;Advanced Micro Devices Inc
-ADBE UW Equity;ADBE;Information Technology;Adobe Inc
-AMGN UW Equity;AMGN;Health Care;Amgen Inc
-CSX UW Equity;CSX;Industrials;CSX Corp
-AAPL UW Equity;AAPL;Information Technology;Apple Inc
-ADSK UW Equity;ADSK;Information Technology;Autodesk Inc
-CTAS UW Equity;CTAS;Industrials;Cintas Corp
-CMCSA UW Equity;CMCSA;Communication Services;Comcast Corp
-AEP UW Equity;AEP;Utilities;American Electric Power Co Inc
-KLAC UW Equity;KLAC;Information Technology;KLA Corp
-AVGO UW Equity;AVGO;Information Technology;Broadcom Inc
-CDNS UW Equity;CDNS;Information Technology;Cadence Design Systems Inc
-PCAR UW Equity;PCAR;Industrials;PACCAR Inc
-COST UW Equity;COST;Consumer Staples;Costco Wholesale Corp
-REGN UW Equity;REGN;Health Care;Regeneron Pharmaceuticals Inc
-SWKS UW Equity;SWKS;Information Technology;Skyworks Solutions Inc
-ATVI UW Equity;ATVI;Communication Services;Activision Blizzard Inc
-AMAT UW Equity;AMAT;Information Technology;Applied Materials Inc
-LULU UW Equity;LULU;Consumer Discretionary;Lululemon Athletica Inc
-CERN UW Equity;CERN;Health Care;Cerner Corp
-NTES UW Equity;NTES;Communication Services;NetEase Inc
-SNPS UW Equity;SNPS;Information Technology;Synopsys Inc
-SPLK UW Equity;SPLK;Information Technology;Splunk Inc
-EA UW Equity;EA;Communication Services;Electronic Arts Inc
-FAST UW Equity;FAST;Industrials;Fastenal Co
-ANSS UW Equity;ANSS;Information Technology;ANSYS Inc
-FISV UW Equity;FISV;Information Technology;Fiserv Inc
-FB UW Equity;FB;Communication Services;Facebook Inc
-GILD UW Equity;GILD;Health Care;Gilead Sciences Inc
-SGEN UW Equity;SGEN;Health Care;Seagen Inc
-EXC UW Equity;EXC;Utilities;Exelon Corp
-LRCX UW Equity;LRCX;Information Technology;Lam Research Corp
-BIIB UW Equity;BIIB;Health Care;Biogen Inc
-VRTX UW Equity;VRTX;Health Care;Vertex Pharmaceuticals Inc
-PAYX UW Equity;PAYX;Information Technology;Paychex Inc
-ADI UW Equity;ADI;Information Technology;Analog Devices Inc
-PYPL UW Equity;PYPL;Information Technology;PayPal Holdings Inc
-QCOM UW Equity;QCOM;Information Technology;QUALCOMM Inc
-MAR UW Equity;MAR;Consumer Discretionary;Marriott International Inc/MD
-ROST UW Equity;ROST;Consumer Discretionary;Ross Stores Inc
-SBUX UW Equity;SBUX;Consumer Discretionary;Starbucks Corp
-PEP UW Equity;PEP;Consumer Staples;PepsiCo Inc
-XLNX UW Equity;XLNX;Information Technology;Xilinx Inc
-INTU UW Equity;INTU;Information Technology;Intuit Inc
-MCHP UW Equity;MCHP;Information Technology;Microchip Technology Inc
-MNST UW Equity;MNST;Consumer Staples;Monster Beverage Corp
-WDAY UW Equity;WDAY;Information Technology;Workday Inc
-CHKP UW Equity;CHKP;Information Technology;Check Point Software Technologies Ltd
-ORLY UW Equity;ORLY;Consumer Discretionary;O'Reilly Automotive Inc
-TSLA UW Equity;TSLA;Consumer Discretionary;Tesla Inc
-ASML UW Equity;ASML;Information Technology;ASML Holding NV
-TCOM UW Equity;TCOM;Consumer Discretionary;Trip.com Group Ltd
-NXPI UW Equity;NXPI;Information Technology;NXP Semiconductors NV
-HON UW Equity;HON;Industrials;Honeywell International Inc
-OKTA UW Equity;OKTA;Information Technology;Okta Inc
-MRNA UW Equity;MRNA;Health Care;Moderna Inc
-SIRI UW Equity;SIRI;Communication Services;Sirius XM Holdings Inc
-MU UW Equity;MU;Information Technology;Micron Technology Inc
-BIDU UW Equity;BIDU;Communication Services;Baidu Inc
-TMUS UW Equity;TMUS;Communication Services;T-Mobile US Inc
-VRSK UW Equity;VRSK;Industrials;Verisk Analytics Inc
-DLTR UW Equity;DLTR;Consumer Discretionary;Dollar Tree Inc
-FOXA UW Equity;FOXA;Communication Services;Fox Corp
-PTON UW Equity;PTON;Consumer Discretionary;Peloton Interactive Inc
-FOX UW Equity;FOX;Communication Services;Fox Corp
-ZM UW Equity;ZM;Information Technology;Zoom Video Communications Inc
-DXCM UW Equity;DXCM;Health Care;Dexcom Inc
-ENEL IM Equity;ENEL.MI;Utilities;Enel SpA
-ISP IM Equity;ISP.MI;Financials;Intesa Sanpaolo SpA
-CRH ID Equity;CRG.IR;Materials;CRH PLC
-ENI IM Equity;ENI.MI;Energy;Eni SpA
-FLTR ID Equity;FLTR.IR;Consumer Discretionary;Flutter Entertainment PLC
-ENR GY Equity;ENR.DE;Industrials;Siemens Energy AG
-MTX GY Equity;MTX.DE;Industrials;MTU Aero Engines AG
-LIN GY Equity;LIN.DE;Materials;Linde PLC
-DHER GY Equity;DHER.DE;Consumer Discretionary;Delivery Hero SE
-DWNI GY Equity;DWNI.DE;Real Estate;Deutsche Wohnen SE
-1COV GY Equity;1COV.DE;Materials;Covestro AG
-ALV GY Equity;ALV.DE;Financials;Allianz SE
-RWE GY Equity;RWE.DE;Utilities;RWE AG
-BAYN GY Equity;BAYN.DE;Health Care;Bayer AG
-BMW GY Equity;BMW.DE;Consumer Discretionary;Bayerische Motoren Werke AG
-DBK GY Equity;DBK.DE;Financials;Deutsche Bank AG
-BAS GY Equity;BAS.DE;Materials;BASF SE
-HEN3 GY Equity;HEN3.DE;Consumer Staples;Henkel AG & Co KGaA
-SIE GY Equity;SIE.DE;Industrials;Siemens AG
-VOW3 GY Equity;VOW3.DE;Consumer Discretionary;Volkswagen AG
-EOAN GY Equity;EOAN.DE;Utilities;E.ON SE
-HEI GY Equity;HEI.DE;Materials;HeidelbergCement AG
-MUV2 GY Equity;MUV2.DE;Financials;Munich Re
-FRE GY Equity;FRE.DE;Health Care;Fresenius SE & Co KGaA
-SAP GY Equity;SAP.DE;Information Technology;SAP SE
-MRK GY Equity;MRK.DE;Health Care;Merck KGaA
-ADS GY Equity;ADS.DE;Consumer Discretionary;adidas AG
-DTE GY Equity;DTE.DE;Communication Services;Deutsche Telekom AG
-DPW GY Equity;DPW.DE;Industrials;Deutsche Post AG
-FME GY Equity;FME.DE;Health Care;Fresenius Medical Care AG & Co KGaA
-DAI GY Equity;DAI.DE;Consumer Discretionary;Daimler AG
-IFX GY Equity;IFX.DE;Information Technology;Infineon Technologies AG
-DB1 GY Equity;DB1.DE;Financials;Deutsche Boerse AG
-VNA GY Equity;VNA.DE;Real Estate;Vonovia SE
-CON GY Equity;CON.DE;Consumer Discretionary;Continental AG
-AZN LN Equity;AZN.L;Health Care;AstraZeneca PLC
-ULVR LN Equity;ULVR.L;Consumer Staples;Unilever PLC
-HSBA LN Equity;HSBA.L;Financials;HSBC Holdings PLC
-DGE LN Equity;DGE.L;Consumer Staples;Diageo PLC
-GSK LN Equity;GSK.L;Health Care;GlaxoSmithKline PLC
-RIO LN Equity;RIO.L;Materials;Rio Tinto PLC
-BP/ LN Equity;BP.L;Energy;BP PLC
-RDSA LN Equity;RDSA.L;Energy;Royal Dutch Shell PLC
-BATS LN Equity;BATS.L;Consumer Staples;British American Tobacco PLC
-RDSB LN Equity;RDSB.L;Energy;Royal Dutch Shell PLC
-BHP LN Equity;BHP.L;Materials;BHP Group PLC
-AAL LN Equity;AAL.L;Materials;Anglo American PLC
-REL LN Equity;REL.L;Industrials;RELX PLC
-GLEN LN Equity;GLEN.L;Materials;Glencore PLC
-PRU LN Equity;PRU.L;Financials;Prudential PLC
-RKT LN Equity;RKT.L;Consumer Staples;Reckitt Benckiser Group PLC
-NG/ LN Equity;NG.L;Utilities;National Grid PLC
-VOD LN Equity;VOD.L;Communication Services;Vodafone Group PLC
-LLOY LN Equity;LLOY.L;Financials;Lloyds Banking Group PLC
-BARC LN Equity;BARC.L;Financials;Barclays PLC
-CRH LN Equity;CRH.L;Materials;CRH PLC
-LSEG LN Equity;LSEG.L;Financials;London Stock Exchange Group PLC
-EXPN LN Equity;EXPN.L;Industrials;Experian PLC
-CPG LN Equity;CPG.L;Consumer Discretionary;Compass Group PLC
-AHT LN Equity;AHT.L;Industrials;Ashtead Group PLC
-FERG LN Equity;FERG.L;Industrials;Ferguson PLC
-FLTR LN Equity;FLTR.L;Consumer Discretionary;Flutter Entertainment PLC
-SMT LN Equity;SMT.L;N/A;Scottish Mortgage Investment Trust PLC
-BA/ LN Equity;BA.L;Industrials;BAE Systems PLC
-TSCO LN Equity;TSCO.L;Consumer Staples;Tesco PLC
-LGEN LN Equity;LGEN.L;Financials;Legal & General Group PLC
-SSE LN Equity;SSE.L;Utilities;SSE PLC
-AV/ LN Equity;AV.L;Financials;Aviva PLC
-BT/A LN Equity;BT-A.L;Communication Services;BT Group PLC
-SGRO LN Equity;SGRO.L;Real Estate;Segro PLC
-IMB LN Equity;IMB.L;Consumer Staples;Imperial Brands PLC
-III LN Equity;III.L;Financials;3i Group PLC
-SN/ LN Equity;SN.L;Health Care;Smith & Nephew PLC
-JET LN Equity;JET.L;Consumer Discretionary;Just Eat Takeaway.com NV
-CRDA LN Equity;CRDA.L;Materials;Croda International PLC
-STAN LN Equity;STAN.L;Financials;Standard Chartered PLC
-WPP LN Equity;WPP.L;Communication Services;WPP PLC
-NWG LN Equity;NWG.L;Financials;Natwest Group PLC
-ENT LN Equity;ENT.L;Consumer Discretionary;Entain PLC
-SPX LN Equity;SPX.L;Industrials;Spirax-Sarco Engineering PLC
-HLMA LN Equity;HLMA.L;Information Technology;Halma PLC
-SKG LN Equity;SKG.L;Materials;Smurfit Kappa Group PLC
-RTO LN Equity;RTO.L;Industrials;Rentokil Initial PLC
-NXT LN Equity;NXT.L;Consumer Discretionary;Next PLC
-MNDI LN Equity;MNDI.L;Materials;Mondi PLC
-PSN LN Equity;PSN.L;Consumer Discretionary;Persimmon PLC
-BNZL LN Equity;BNZL.L;Industrials;Bunzl PLC
-OCDO LN Equity;OCDO.L;Consumer Discretionary;Ocado Group PLC
-BRBY LN Equity;BRBY.L;Consumer Discretionary;Burberry Group PLC
-IHG LN Equity;IHG.L;Consumer Discretionary;InterContinental Hotels Group PLC
-STJ LN Equity;STJ.L;Financials;St James's Place PLC
-ITRK LN Equity;ITRK.L;Industrials;Intertek Group PLC
-RR/ LN Equity;RR.L;Industrials;Rolls-Royce Holdings PLC
-MRO LN Equity;MRO.L;Industrials;Melrose Industries PLC
-SGE LN Equity;SGE.L;Information Technology;Sage Group PLC/The
-INF LN Equity;INF.L;Communication Services;Informa PLC
-KGF LN Equity;KGF.L;Consumer Discretionary;Kingfisher PLC
-BDEV LN Equity;BDEV.L;Consumer Discretionary;Barratt Developments PLC
-UU/ LN Equity;UU.L;Utilities;United Utilities Group PLC
-ADM LN Equity;ADM.L;Financials;Admiral Group PLC
-ABF LN Equity;ABF.L;Consumer Staples;Associated British Foods PLC
-SVT LN Equity;SVT.L;Utilities;Severn Trent PLC
-IAG LN Equity;IAG.L;Industrials;International Consolidated Airlines Grou
-WTB LN Equity;WTB.L;Consumer Discretionary;Whitbread PLC
-ABDN LN Equity;ABDN.L;Financials;Abrdn Plc
-TW/ LN Equity;TW.L;Consumer Discretionary;Taylor Wimpey PLC
-HL/ LN Equity;HL.L;Financials;Hargreaves Lansdown PLC
-MNG LN Equity;MNG.L;Financials;M&G PLC
-RMV LN Equity;RMV.L;Communication Services;Rightmove PLC
-AUTO LN Equity;AUTO.L;Communication Services;Auto Trader Group PLC
-ICP LN Equity;ICP.L;Financials;Intermediate Capital Group PLC
-DCC LN Equity;DCC.L;Industrials;DCC PLC
-PSON LN Equity;PSON.L;Communication Services;Pearson PLC
-SMIN LN Equity;SMIN.L;Industrials;Smiths Group PLC
-JMAT LN Equity;JMAT.L;Materials;Johnson Matthey PLC
-BKG LN Equity;BKG.L;Consumer Discretionary;Berkeley Group Holdings PLC
-SMDS LN Equity;SMDS.L;Materials;DS Smith PLC
-POLY LN Equity;POLY.L;Materials;Polymetal International PLC
-ANTO LN Equity;ANTO.L;Materials;Antofagasta PLC
-CCH LN Equity;CCH.L;Consumer Staples;Coca-Cola HBC AG
-LAND LN Equity;LAND.L;Real Estate;Land Securities Group PLC
-BME LN Equity;BME.L;Consumer Discretionary;B&M European Value Retail SA
-BLND LN Equity;BLND.L;Real Estate;British Land Co PLC/The
-SBRY LN Equity;SBRY.L;Consumer Staples;J Sainsbury PLC
-AVV LN Equity;AVV.L;Information Technology;AVEVA Group PLC
-JD/ LN Equity;JD.L;Consumer Discretionary;JD Sports Fashion PLC
-RMG LN Equity;RMG.L;Industrials;Royal Mail PLC
-WEIR LN Equity;WEIR.L;Industrials;Weir Group PLC/The
-ITV LN Equity;ITV.L;Communication Services;ITV PLC
-PHNX LN Equity;PHNX.L;Financials;Phoenix Group Holdings PLC
-SDR LN Equity;SDR.L;Financials;Schroders PLC
-PSH LN Equity;PSH.L;N/A;Pershing Square Holdings Ltd/Fund
-HIK LN Equity;HIK.L;Health Care;Hikma Pharmaceuticals PLC
-EVR LN Equity;EVR.L;Materials;Evraz PLC
-AVST LN Equity;AVST.L;Information Technology;Avast PLC
-FRES LN Equity;FRES.L;Materials;Fresnillo PLC
-MC FP Equity;MC.PA;Consumer Discretionary;LVMH Moet Hennessy Louis Vuitton SE
-OR FP Equity;OR.PA;Consumer Staples;L'Oreal SA
-SAN FP Equity;SAN.PA;Health Care;Sanofi
-TTE FP Equity;TTE.PA;Energy;TotalEnergies SE
-SU FP Equity;SU.PA;Industrials;Schneider Electric SE
-AI FP Equity;AI.PA;Materials;Air Liquide SA
-AIR FP Equity;AIR.PA;Industrials;Airbus SE
-BNP FP Equity;BNP.PA;Financials;BNP Paribas SA
-KER FP Equity;KER.PA;Consumer Discretionary;Kering SA
-EL FP Equity;EL.PA;Consumer Discretionary;EssilorLuxottica SA
-CS FP Equity;CS.PA;Financials;AXA SA
-DG FP Equity;DG.PA;Industrials;Vinci SA
-RMS FP Equity;RMS.PA;Consumer Discretionary;Hermes International
-BN FP Equity;BN.PA;Consumer Staples;Danone SA
-RI FP Equity;RI.PA;Consumer Staples;Pernod Ricard SA
-STLA FP Equity;STLA.PA;Consumer Discretionary;Stellantis NV
-SAF FP Equity;SAF.PA;Industrials;Safran SA
-DSY FP Equity;DSY.PA;Information Technology;Dassault Systemes SE
-SGO FP Equity;SGO.PA;Industrials;Cie de Saint-Gobain
-CAP FP Equity;CAP.PA;Information Technology;Capgemini SE
-LR FP Equity;LR.PA;Industrials;Legrand SA
-ML FP Equity;ML.PA;Consumer Discretionary;Michelin
-STM FP Equity;STM.PA;Information Technology;STMicroelectronics NV
-VIV FP Equity;VIV.PA;Communication Services;Vivendi SE
-GLE FP Equity;GLE.PA;Financials;Societe Generale SA
-ENGI FP Equity;ENGI.PA;Utilities;Engie SA
-TEP FP Equity;TEP.PA;Industrials;Teleperformance
-MT NA Equity;MT.AS;Materials;ArcelorMittal SA
-WLN FP Equity;WLN.PA;Information Technology;Worldline SA/France
-ORA FP Equity;ORA.PA;Communication Services;Orange SA
-VIE FP Equity;VIE.PA;Utilities;Veolia Environnement SA
-ACA FP Equity;ACA.PA;Financials;Credit Agricole SA
-PUB FP Equity;PUB.PA;Communication Services;Publicis Groupe SA
-ALO FP Equity;ALO.PA;Industrials;Alstom SA
-CA FP Equity;CA.PA;Consumer Staples;Carrefour SA
-HO FP Equity;HO.PA;Industrials;Thales SA
-URW NA Equity;URW.AS;Real Estate;Unibail-Rodamco-Westfield
-EN FP Equity;EN.PA;Industrials;Bouygues SA
-RNO FP Equity;RNO.PA;Consumer Discretionary;Renault SA
-ATO FP Equity;ATO.PA;Information Technology;Atos SE
-ASML NA Equity;ASML.AS;Information Technology;ASML Holding NV
-UNA NA Equity;UNA.AS;Consumer Staples;Unilever PLC
-RDSA NA Equity;RDSA.AS;Energy;Royal Dutch Shell PLC
-ADYEN NA Equity;ADYEN.AS;Information Technology;Adyen NV
-REN NA Equity;REN.AS;Industrials;RELX PLC
-INGA NA Equity;INGA.AS;Financials;ING Groep NV
-PHIA NA Equity;PHIA.AS;Health Care;Koninklijke Philips NV
-DSM NA Equity;DSM.AS;Materials;Koninklijke DSM NV
-PRX NA Equity;PRX.AS;Consumer Discretionary;Prosus NV
-AD NA Equity;AD.AS;Consumer Staples;Koninklijke Ahold Delhaize NV
-WKL NA Equity;WKL.AS;Industrials;Wolters Kluwer NV
-HEIA NA Equity;HEIA.AS;Consumer Staples;Heineken NV
-MT NA Equity;MT.AS;Materials;ArcelorMittal SA
-AKZA NA Equity;AKZA.AS;Materials;Akzo Nobel NV
-ASM NA Equity;ASM.AS;Information Technology;ASM International NV
-NN NA Equity;NN.AS;Financials;NN Group NV
-TKWY NA Equity;TKWY.AS;Consumer Discretionary;Just Eat Takeaway.com NV
-KPN NA Equity;KPN.AS;Communication Services;Koninklijke KPN NV
-URW NA Equity;URW.AS;Real Estate;Unibail-Rodamco-Westfield
-IMCD NA Equity;IMCD.AS;Industrials;IMCD NV
-RAND NA Equity;RAND.AS;Industrials;Randstad NV
-AGN NA Equity;AGN.AS;Financials;Aegon NV
-LIGHT NA Equity;LIGHT.AS;Industrials;Signify NV
-BESI NA Equity;BESI.AS;Information Technology;BE Semiconductor Industries NV
-ASRNL NA Equity;ASRNL.AS;Financials;ASR Nederland NV
-IBE SM Equity;IBE.MC;Utilities;Iberdrola SA
-SAN SM Equity;SAN.MC;Financials;Banco Santander SA
-ITX SM Equity;ITX.MC;Consumer Discretionary;Industria de Diseno Textil SA
-CLNX SM Equity;CLNX.MC;Communication Services;Cellnex Telecom SA
-BBVA SM Equity;BBVA.MC;Financials;Banco Bilbao Vizcaya Argentaria SA
-AMS SM Equity;AMS.MC;Information Technology;Amadeus IT Group SA
-TEF SM Equity;TEF.MC;Communication Services;Telefonica SA
-CABK SM Equity;CABK.MC;Financials;CaixaBank SA
-FER SM Equity;FER.MC;Industrials;Ferrovial SA
-AENA SM Equity;AENA.MC;Industrials;Aena SME SA
-REP SM Equity;REP.MC;Energy;Repsol SA
-IAG SM Equity;IAG.MC;Industrials;International Consolidated Airlines Grou
-REE SM Equity;REE.MC;Utilities;Red Electrica Corp SA
-GRF SM Equity;GRF.MC;Health Care;Grifols SA
-ELE SM Equity;ELE.MC;Utilities;Endesa SA
-NTGY SM Equity;NTGY.MC;Utilities;Naturgy Energy Group SA
-ACS SM Equity;ACS.MC;Industrials;ACS Actividades de Construccion y Servic
-SGRE SM Equity;SGRE.MC;Industrials;Siemens Gamesa Renewable Energy SA
-MTS SM Equity;MTS.MC;Materials;ArcelorMittal SA
-ANA SM Equity;ANA.MC;Utilities;Acciona SA
-FDR SM Equity;FDR.MC;Industrials;Fluidra SA
-ENG SM Equity;ENG.MC;Utilities;Enagas SA
-MRL SM Equity;MRL.MC;Real Estate;Merlin Properties Socimi SA
-BKT SM Equity;BKT.MC;Financials;Bankinter SA
-SAB SM Equity;SAB.MC;Financials;Banco de Sabadell SA
-MAP SM Equity;MAP.MC;Financials;Mapfre SA
-ACX SM Equity;ACX.MC;Materials;Acerinox SA
-COL SM Equity;COL.MC;Real Estate;Inmobiliaria Colonial Socimi SA
-VIS SM Equity;VIS.MC;Consumer Staples;Viscofan SA
-CIE SM Equity;CIE.MC;Consumer Discretionary;CIE Automotive SA
-SLR SM Equity;SLR.MC;Utilities;Solaria Energia y Medio Ambiente SA
-ALM SM Equity;ALM.MC;Health Care;Almirall SA
-IDR SM Equity;IDR.MC;Information Technology;Indra Sistemas SA
-PHM SM Equity;PHM.MC;Health Care;Pharma Mar SA
-MEL SM Equity;MEL.MC;Consumer Discretionary;Melia Hotels International SA
-GETIB SS Equity;GETI-B.ST;Health Care;Getinge AB
-ATCOA SS Equity;ATCO-A.ST;Industrials;Atlas Copco AB
-VOLVB SS Equity;VOLV-B.ST;Industrials;Volvo AB
-TEL2B SS Equity;TEL2-B.ST;Communication Services;Tele2 AB
-SINCH SS Equity;SINCH.ST;Information Technology;Sinch AB
-ELUXB SS Equity;ELUX-B.ST;Consumer Discretionary;Electrolux AB
-TELIA SS Equity;TELIA.ST;Communication Services;Telia Co AB
-HMB SS Equity;HM-B.ST;Consumer Discretionary;H & M Hennes & Mauritz AB
-SKAB SS Equity;SKA-B.ST;Industrials;Skanska AB
-ALFA SS Equity;ALFA.ST;Industrials;Alfa Laval AB
-ERICB SS Equity;ERIC-B.ST;Information Technology;Telefonaktiebolaget LM Ericsson
-EVO SS Equity;EVO.ST;Consumer Discretionary;Evolution AB
-SKFB SS Equity;SKF-B.ST;Industrials;SKF AB
-SAND SS Equity;SAND.ST;Industrials;Sandvik AB
-AZN SS Equity;AZN.ST;Health Care;AstraZeneca PLC
-INVEB SS Equity;INVE-B.ST;Financials;Investor AB
-ABB SS Equity;ABB.ST;Industrials;ABB Ltd
-SWMA SS Equity;SWMA.ST;Consumer Staples;Swedish Match AB
-SEBA SS Equity;SEB-A.ST;Financials;Skandinaviska Enskilda Banken AB
-SHBA SS Equity;SHB-A.ST;Financials;Svenska Handelsbanken AB
-SCAB SS Equity;SCA-B.ST;Materials;Svenska Cellulosa AB SCA
-ESSITYB SS Equity;ESSITY-B.ST;Consumer Staples;Essity AB
-ASSAB SS Equity;ASSA-B.ST;Industrials;Assa Abloy AB
-ALIV SS Equity;ALIV-SDB.ST;Consumer Discretionary;Autoliv Inc
-HEXAB SS Equity;HEXA-B.ST;Information Technology;Hexagon AB
-SWEDA SS Equity;SWED-A.ST;Financials;Swedbank AB
-ATCOB SS Equity;ATCO-B.ST;Industrials;Atlas Copco AB
-KINVB SS Equity;KINV-B.ST;Financials;Kinnevik AB
-BOL SS Equity;BOL.ST;Materials;Boliden AB
-NDA SS Equity;NDA-SE.ST;Financials;Nordea Bank Abp
-NETC DC Equity;NETC.CO;Information Technology;Netcompany Group A/S
-CARLB DC Equity;CARL-B.CO;Consumer Staples;Carlsberg AS
-COLOB DC Equity;COLO-B.CO;Health Care;Coloplast A/S
-ORSTED DC Equity;ORSTED.CO;Utilities;Orsted AS
-GN DC Equity;GN.CO;Health Care;GN Store Nord AS
-AMBUB DC Equity;AMBU-B.CO;Health Care;Ambu A/S
-CHR DC Equity;CHR.CO;Materials;Chr Hansen Holding A/S
-DEMANT DC Equity;DEMANT.CO;Health Care;Demant A/S
-ISS DC Equity;ISS.CO;Industrials;ISS A/S
-DSV DC Equity;DSV.CO;Industrials;DSV PANALPINA A/S
-NZYMB DC Equity;NZYM-B.CO;Materials;Novozymes A/S
-NOVOB DC Equity;NOVO-B.CO;Health Care;Novo Nordisk A/S
-RBREW DC Equity;RBREW.CO;Consumer Staples;Royal Unibrew A/S
-FLS DC Equity;FLS.CO;Industrials;FLSmidth & Co A/S
-LUN DC Equity;LUN.CO;Health Care;H Lundbeck A/S
-TRYG DC Equity;TRYG.CO;Financials;Tryg A/S
-PNDORA DC Equity;PNDORA.CO;Consumer Discretionary;Pandora A/S
-BAVA DC Equity;BAVA.CO;Health Care;Bavarian Nordic A/S
-MAERSKA DC Equity;MAERSK-A.CO;Industrials;AP Moller - Maersk A/S
-GMAB DC Equity;GMAB.CO;Health Care;Genmab A/S
-DANSKE DC Equity;DANSKE.CO;Financials;Danske Bank A/S
-SIM DC Equity;SIM.CO;Information Technology;SimCorp A/S
-ROCKB DC Equity;ROCK-B.CO;Industrials;ROCKWOOL International A/S
-VWS DC Equity;VWS.CO;Industrials;Vestas Wind Systems A/S
-MAERSKB DC Equity;MAERSK-B.CO;Industrials;AP Moller - Maersk A/S
-SCATC NO Equity;SCATC.OL;Utilities;Scatec ASA
-ENTRA NO Equity;ENTRA.OL;Real Estate;Entra ASA
-MOWI NO Equity;MOWI.OL;Consumer Staples;Mowi ASA
-GJF NO Equity;GJF.OL;Financials;Gjensidige Forsikring ASA
-NEL NO Equity;NEL.OL;Industrials;NEL ASA
-NOD NO Equity;NOD.OL;Information Technology;Nordic Semiconductor ASA
-AKER NO Equity;AKER.OL;Financials;Aker ASA
-DNB NO Equity;DNB.OL;Financials;DNB Bank ASA
-AKSO NO Equity;AKSO.OL;Energy;Aker Solutions ASA
-EQNR NO Equity;EQNR.OL;Energy;Equinor ASA
-TEL NO Equity;TEL.OL;Communication Services;Telenor ASA
-YAR NO Equity;YAR.OL;Materials;Yara International ASA
-SCHA NO Equity;SCHA.OL;Communication Services;Schibsted ASA
-TOM NO Equity;TOM.OL;Industrials;TOMRA Systems ASA
-LSG NO Equity;LSG.OL;Consumer Staples;Leroy Seafood Group ASA
-AKRBP NO Equity;AKRBP.OL;Energy;Aker BP ASA
-RECSI NO Equity;RECSI.OL;Information Technology;REC Silicon ASA
-STB NO Equity;STB.OL;Financials;Storebrand ASA
-ADE NO Equity;ADE.OL;Communication Services;Adevinta ASA
-BAKKA NO Equity;BAKKA.OL;Consumer Staples;Bakkafrost P/F
-SALM NO Equity;SALM.OL;Consumer Staples;Salmar ASA
-NHY NO Equity;NHY.OL;Materials;Norsk Hydro ASA
-ORK NO Equity;ORK.OL;Consumer Staples;Orkla ASA
-SUBC NO Equity;SUBC.OL;Energy;Subsea 7 SA
-TGS NO Equity;TGS.OL;Energy;TGS ASA
-PKO PW Equity;PKO.WS;Financials;Powszechna Kasa Oszczednosci Bank Polski
-KGH PW Equity;KGH.WS;Materials;KGHM Polska Miedz SA
-ALE PW Equity;ALE.WS;Consumer Discretionary;Allegro.eu SA
-PZU PW Equity;PZU.WS;Financials;Powszechny Zaklad Ubezpieczen SA
-PKN PW Equity;PKN.WS;Energy;Polski Koncern Naftowy ORLEN SA
-PEO PW Equity;PEO.WS;Financials;Bank Polska Kasa Opieki SA
-LPP PW Equity;LPP.WS;Consumer Discretionary;LPP SA
-DNP PW Equity;DNP.WS;Consumer Staples;Dino Polska SA
-CDR PW Equity;CDR.WS;Communication Services;CD Projekt SA
-PGN PW Equity;PGN.WS;Energy;Polskie Gornictwo Naftowe i Gazownictwo
-CPS PW Equity;CPS.WS;Communication Services;Cyfrowy Polsat SA
-SPL PW Equity;SPL.WS;Financials;Santander Bank Polska SA
-PGE PW Equity;PGE.WS;Utilities;PGE Polska Grupa Energetyczna SA
-OPL PW Equity;OPL.WS;Communication Services;Orange Polska SA
-CCC PW Equity;CCC.WS;Consumer Discretionary;CCC SA
-ACP PW Equity;ACP.WS;Information Technology;Asseco Poland SA
-LTS PW Equity;LTS.WS;Energy;Grupa Lotos SA
-TPE PW Equity;TPE.WS;Utilities;Tauron Polska Energia SA
-JSW PW Equity;JSW.WS;Materials;Jastrzebska Spolka Weglowa SA
-MRC PW Equity;MRC.WS;Health Care;Mercator Medical SA
-KBC BB Equity;KBC.BR;Financials;KBC Group NV
-ABI BB Equity;ABI.BR;Consumer Staples;Anheuser-Busch InBev SA/NV
-ARGX BB Equity;ARGX.BR;Health Care;Argenx SE
-UCB BB Equity;UCB.BR;Health Care;UCB SA
-UMI BB Equity;UMI.BR;Materials;Umicore SA
-GBLB BB Equity;GBLB.BR;Financials;Groupe Bruxelles Lambert SA
-AGS BB Equity;AGS.BR;Financials;Ageas SA/NV
-SOLB BB Equity;SOLB.BR;Materials;Solvay SA
-SOF BB Equity;SOF.BR;Financials;Sofina SA
-WDP BB Equity;WDP.BR;Real Estate;Warehouses De Pauw CVA
-AED BB Equity;AED.BR;Real Estate;Aedifica SA
-COFB BB Equity;COFB.BR;Real Estate;Cofinimmo SA
-ELI BB Equity;ELI.BR;Utilities;Elia Group SA/NV
-ACKB BB Equity;ACKB.BR;Financials;Ackermans & van Haaren NV
-PROX BB Equity;PROX.BR;Communication Services;Proximus SADP
-COLR BB Equity;COLR.BR;Consumer Staples;Etablissements Franz Colruyt NV
-APAM NA Equity;APAM.AS;Materials;APERAM SA
-GLPG NA Equity;GLPG.AS;Health Care;Galapagos NV
-MELE BB Equity;MELE.BR;Information Technology;Melexis NV
-TNET BB Equity;TNET.BR;Communication Services;Telenet Group Holding NV
-JMT PL Equity;JMT.LS;Consumer Staples;Jeronimo Martins SGPS SA
-EDPR PL Equity;EDPR.LS;Utilities;EDP Renovaveis SA
-EDP PL Equity;EDP.LS;Utilities;EDP - Energias de Portugal SA
-GALP PL Equity;GALP.LS;Energy;Galp Energia SGPS SA
-BCP PL Equity;BCP.LS;Financials;Banco Comercial Portugues SA
-RENE PL Equity;RENE.LS;Utilities;REN - Redes Energeticas Nacionais SGPS S
-SON PL Equity;SON.LS;Consumer Staples;Sonae SGPS SA
-NOS PL Equity;NOS.LS;Communication Services;NOS SGPS SA
-NVG PL Equity;NVG.LS;Materials;Navigator Co SA/The
-CTT PL Equity;CTT.LS;Industrials;CTT-Correios de Portugal SA
-COR PL Equity;COR.LS;Materials;Corticeira Amorim SGPS SA
-ALTR PL Equity;ALTR.LS;Materials;Altri SGPS SA
-SEM PL Equity;SEM.LS;Materials;Semapa-Sociedade de Investimento e Gesta
-EGL PL Equity;EGL.LS;Industrials;Mota-Engil SGPS SA
-IBS PL Equity;IBS.LS;Consumer Discretionary;Ibersol SGPS SA
-PHR PL Equity;PHR.LS;Communication Services;Pharol SGPS SA
-NBA PL Equity;NBA.LS;Information Technology;Novabase SGPS SA
-RAM PL Equity;RAM.LS;Materials;Ramada Investimentos E Industria SA
-MRW LN Equity;MRW.L;Consumer Staples;Wm Morrison Supermarkets PLC
-MGGT LN Equity;MGGT.L;Industrials;Meggitt PLC
-HWDN LN Equity;HWDN.L;Industrials;Howden Joinery Group PLC
-DPH LN Equity;DPH.L;Health Care;Dechra Pharmaceuticals PLC
-ECM LN Equity;ECM.L;Industrials;Electrocomponents PLC
-FCIT LN Equity;FCIT.L;N/A;F&C Investment Trust PLC
-IMI LN Equity;IMI.L;Industrials;IMI PLC
-SXS LN Equity;SXS.L;Information Technology;Spectris PLC
-DLG LN Equity;DLG.L;Financials;Direct Line Insurance Group PLC
-BWY LN Equity;BWY.L;Consumer Discretionary;Bellway PLC
-FUTR LN Equity;FUTR.L;Communication Services;Future PLC
-WIZZ LN Equity;WIZZ.L;Industrials;Wizz Air Holdings Plc
-TPK LN Equity;TPK.L;Industrials;Travis Perkins PLC
-UTG LN Equity;UTG.L;Real Estate;UNITE Group PLC/The
-GAW LN Equity;GAW.L;Consumer Discretionary;Games Workshop Group PLC
-DLN LN Equity;DLN.L;Real Estate;Derwent London PLC
-BBOX LN Equity;BBOX.L;Real Estate;Tritax Big Box REIT PLC
-GNS LN Equity;GNS.L;Health Care;Genus PLC
-CTEC LN Equity;CTEC.L;Health Care;ConvaTec Group PLC
-DPLM LN Equity;DPLM.L;Industrials;Diploma PLC
-PNN LN Equity;PNN.L;Utilities;Pennon Group PLC
-INCH LN Equity;INCH.L;Consumer Discretionary;Inchcape PLC
-TATE LN Equity;TATE.L;Consumer Staples;Tate & Lyle PLC
-RCP LN Equity;RCP.L;N/A;RIT Capital Partners PLC/Fund
-PCT LN Equity;PCT.L;N/A;Polar Capital Technology Trust PLC
-HICL LN Equity;HICL.L;N/A;Hicl Infrastructure PLC
-MNKS LN Equity;MNKS.L;N/A;Monks Investment Trust PLC/The
-IGG LN Equity;IGG.L;Financials;IG Group Holdings PLC
-ATST LN Equity;ATST.L;N/A;Alliance Trust PLC
-HSX LN Equity;HSX.L;Financials;Hiscox Ltd
-EMG LN Equity;EMG.L;Financials;Man Group PLC/Jersey
-GFTU LN Equity;GFTU.L;Industrials;Grafton Group PLC
-ROR LN Equity;ROR.L;Industrials;Rotork PLC
-CNA LN Equity;CNA.L;Utilities;Centrica PLC
-GRG LN Equity;GRG.L;Consumer Discretionary;Greggs PLC
-SSON LN Equity;SSON.L;N/A;Smithson Investment Trust PLC
-EZJ LN Equity;EZJ.L;Industrials;easyJet PLC
-QLT LN Equity;QLT.L;Financials;Quilter PLC
-TRIG LN Equity;TRIG.L;Utilities;Renewables Infrastructure Group Ltd/The
-CSP LN Equity;CSP.L;Consumer Discretionary;Countryside Properties PLC
-MKS LN Equity;MKS.L;Consumer Discretionary;Marks & Spencer Group PLC
-INPP LN Equity;INPP.L;N/A;International Public Partnerships Ltd
-UKW LN Equity;UKW.L;Utilities;Greencoat UK Wind PLC/Funds
-VTY LN Equity;VTY.L;Consumer Discretionary;Vistry Group PLC
-BVIC LN Equity;BVIC.L;Consumer Staples;Britvic PLC
-HSV LN Equity;HSV.L;Industrials;HomeServe PLC
-VMUK LN Equity;VMUK.L;Financials;Virgin Money UK PLC
-SCT LN Equity;SCT.L;Information Technology;Softcat PLC
-BEZ LN Equity;BEZ.L;Financials;Beazley PLC
-TUI LN Equity;TUI.L;Consumer Discretionary;TUI AG
-BYG LN Equity;BYG.L;Real Estate;Big Yellow Group PLC
-WWH LN Equity;WWH.L;N/A;Worldwide Healthcare Trust PLC/Fund
-CBG LN Equity;CBG.L;Financials;Close Brothers Group PLC
-HAS LN Equity;HAS.L;Industrials;Hays PLC
-WOSG LN Equity;WOSG.L;Consumer Discretionary;Watches of Switzerland Group PLC
-IWG LN Equity;IWG.L;Real Estate;IWG PLC
-MRC LN Equity;MRC.L;N/A;Mercantile Investment Trust PLC
-LMP LN Equity;LMP.L;Real Estate;LondonMetric Property PLC
-SAFE LN Equity;SAFE.L;Real Estate;Safestore Holdings PLC
-PETS LN Equity;PETS.L;Consumer Discretionary;Pets at Home Group Plc
-TEM LN Equity;TEM.L;N/A;Templeton Emerging Markets Investment Tr
-PHP LN Equity;PHP.L;Real Estate;Primary Health Properties PLC
-VCT LN Equity;VCT.L;Materials;Victrex PLC
-ULE LN Equity;ULE.L;Industrials;Ultra Electronics Holdings PLC
-CWK LN Equity;CWK.L;Consumer Staples;Cranswick PLC
-AGK LN Equity;AGK.L;Industrials;Aggreko PLC
-SMWH LN Equity;SMWH.L;Consumer Discretionary;WH Smith PLC
-AGR LN Equity;AGR.L;Real Estate;Assura PLC
-FGT LN Equity;FGT.L;N/A;Finsbury Growth & Income Trust PLC/Fund
-BBY LN Equity;BBY.L;Industrials;Balfour Beatty PLC
-GRI LN Equity;GRI.L;Real Estate;Grainger PLC
-CCL LN Equity;CCL.L;Consumer Discretionary;Carnival PLC
-SEQI LN Equity;SEQI.L;N/A;Sequoia Economic Infrastructure Income F
-GPOR LN Equity;GPOR.L;Real Estate;Great Portland Estates PLC
-JLG LN Equity;JLG.L;Industrials;John Laing Group PLC
-DOM LN Equity;DOM.L;Consumer Discretionary;Domino's Pizza Group PLC
-CCC LN Equity;CCC.L;Information Technology;Computacenter PLC
-PAGE LN Equity;PAGE.L;Industrials;Pagegroup PLC
-SSPG LN Equity;SSPG.L;Consumer Discretionary;SSP Group Plc
-WTAN LN Equity;WTAN.L;N/A;Witan Investment Trust PLC
-QQ/ LN Equity;QQ.L;Industrials;QinetiQ Group PLC
-INVP LN Equity;INVP.L;Financials;Investec PLC
-HVPE LN Equity;HVPE.L;N/A;HarbourVest Global Private Equity Ltd
-3IN LN Equity;3IN.L;N/A;3i Infrastructure PLC
-OSB LN Equity;OSB.L;Financials;OSB Group PLC
-ASHM LN Equity;ASHM.L;Financials;Ashmore Group PLC
-RSW LN Equity;RSW.L;Information Technology;Renishaw PLC
-SHB LN Equity;SHB.L;Real Estate;Shaftesbury PLC
-SYNT LN Equity;SYNT.L;Materials;Synthomer PLC
-CTY LN Equity;CTY.L;N/A;City of London Investment Trust PLC/The
-BOY LN Equity;BOY.L;Industrials;Bodycote PLC
-SRP LN Equity;SRP.L;Industrials;Serco Group PLC
-ASCL LN Equity;ASCL.L;Communication Services;Ascential PLC
-DOCS LN Equity;DOCS.L;Consumer Discretionary;Dr. Martens Plc
-TRN LN Equity;TRN.L;Consumer Discretionary;Trainline PLC
-NETW LN Equity;NETW.L;Information Technology;Network International Holdings PLC
-DRX LN Equity;DRX.L;Utilities;Drax Group PLC
-LRE LN Equity;LRE.L;Financials;Lancashire Holdings Ltd
-TCAP LN Equity;TCAP.L;Financials;TP ICAP Group PLC
-SVS LN Equity;SVS.L;Real Estate;Savills PLC
-SPT LN Equity;SPT.L;Information Technology;Spirent Communications PLC
-HGT LN Equity;HGT.L;N/A;HgCapital Trust PLC/Fund
-JMG LN Equity;JMG.L;N/A;JPMorgan Emerging Markets Investment Tru
-TRY LN Equity;TRY.L;N/A;TR Property Investment Trust PLC - Ordin
-HRI LN Equity;HRI.L;N/A;Herald Investment Trust PLC
-BNKR LN Equity;BNKR.L;N/A;Bankers Investment Trust PLC/The
-WG/ LN Equity;WG.L;Energy;John Wood Group PLC
-HMSO LN Equity;HMSO.L;Real Estate;Hammerson PLC
-GYS LN Equity;GYS.L;Consumer Discretionary;Gamesys Group PLC
-RDW LN Equity;RDW.L;Consumer Discretionary;Redrow PLC
-PNL LN Equity;PNL.L;N/A;Personal Assets Trust PLC/Fund
-GEN LN Equity;GEN.L;Industrials;Genuit Group PLC
-MSLH LN Equity;MSLH.L;Materials;Marshalls PLC
-IHP LN Equity;IHP.L;Financials;IntegraFin Holdings PLC
-DNLM LN Equity;DNLM.L;Consumer Discretionary;Dunelm Group PLC
-NEX LN Equity;NEX.L;Industrials;National Express Group PLC
-PIN LN Equity;PIN.L;N/A;Pantheon International PLC/The Fund
-BAB LN Equity;BAB.L;Industrials;Babcock International Group PLC
-CHRY LN Equity;CHRY.L;N/A;Chrysalis Investments Ltd
-MYI LN Equity;MYI.L;N/A;Murray International Trust PLC
-PAG LN Equity;PAG.L;Financials;Paragon Banking Group PLC
-ASL LN Equity;ASL.L;N/A;Aberforth Smaller Companies Trust PLC
-PLUS LN Equity;PLUS.L;Financials;Plus500 Ltd
-SNN LN Equity;SNN.L;Financials;Sanne Group PLC
-IEM LN Equity;IEM.L;N/A;Impax Environmental Markets PLC
-AML LN Equity;AML.L;Consumer Discretionary;Aston Martin Lagonda Global Holdings PLC
-DC/ LN Equity;DC.L;Consumer Discretionary;Dixons Carphone PLC
-OXIG LN Equity;OXIG.L;Information Technology;Oxford Instruments PLC
-MCRO LN Equity;MCRO.L;Information Technology;Micro Focus International PLC
-VEIL LN Equity;VEIL.L;N/A;Vietnam Enterprise Investments Ltd
-MONY LN Equity;MONY.L;Consumer Discretionary;Moneysupermarket.com Group PLC
-SONG LN Equity;SONG.L;N/A;Hipgnosis Songs Fund Ltd/The Fund
-JAM LN Equity;JAM.L;N/A;JPMorgan American Investment Trust PLC/F
-FEV LN Equity;FEV.L;N/A;Fidelity European Trust PLC
-CAPC LN Equity;CAPC.L;Real Estate;Capital & Counties Properties PLC
-EWI LN Equity;EWI.L;N/A;Edinburgh Worldwide Investment Trust PLC
-HILS LN Equity;HILS.L;Materials;Hill & Smith Holdings PLC
-ATT LN Equity;ATT.L;N/A;Allianz Technology Trust PLC
-FXPO LN Equity;FXPO.L;Materials;Ferrexpo PLC
-LIO LN Equity;LIO.L;Financials;Liontrust Asset Management PLC
-IPO LN Equity;IPO.L;Financials;IP Group PLC
-AJB LN Equity;AJB.L;Financials;AJ Bell PLC
-FCSS LN Equity;FCSS.L;N/A;Fidelity China Special Situations PLC
-WKP LN Equity;WKP.L;Real Estate;Workspace Group PLC
-JUP LN Equity;JUP.L;Financials;Jupiter Fund Management PLC
-INDV LN Equity;INDV.L;Health Care;Indivior PLC
-VSVS LN Equity;VSVS.L;Industrials;Vesuvius PLC
-SRE LN Equity;SRE.L;Real Estate;Sirius Real Estate Ltd
-BBGI LN Equity;BBGI.L;N/A;BBGI Global Infrastructure S.A.
-PTEC LN Equity;PTEC.L;Consumer Discretionary;Playtech Plc
-MGAM LN Equity;MGAM.L;Industrials;Morgan Advanced Materials PLC
-RAT LN Equity;RAT.L;Financials;Rathbone Brothers PLC
-RCH LN Equity;RCH.L;Communication Services;Reach PLC
-RHIM LN Equity;RHIM.L;Materials;RHI Magnesita NV
-ERM LN Equity;ERM.L;Communication Services;Euromoney Institutional Investor PLC
-FGP LN Equity;FGP.L;Industrials;Firstgroup PLC
-BRWM LN Equity;BRWM.L;N/A;BlackRock World Mining Trust PLC
-CEY LN Equity;CEY.L;Materials;Centamin PLC
-FRAS LN Equity;FRAS.L;Consumer Discretionary;Frasers Group PLC
-BRW LN Equity;BRW.L;Financials;Brewin Dolphin Holdings PLC
-MUT LN Equity;MUT.L;N/A;Murray Income Trust PLC
-MDC LN Equity;MDC.L;Health Care;Mediclinic International PLC
-CLDN LN Equity;CLDN.L;N/A;Caledonia Investments PLC
-GSS LN Equity;GSS.L;N/A;Genesis Emerging Markets Fund Ltd
-USA LN Equity;USA.L;N/A;Baillie Gifford US Growth Trust PLC
-REDD LN Equity;REDD.L;Industrials;Redde Northgate PLC
-JUST LN Equity;JUST.L;Financials;Just Group PLC
-888 LN Equity;888.L;Consumer Discretionary;888 Holdings PLC
-COA LN Equity;COA.L;Consumer Discretionary;Coats Group PLC
-EDIN LN Equity;EDIN.L;N/A;Edinburgh Investment Trust PLC/The
-BBH LN Equity;BBH.L;N/A;BB Healthcare Trust Plc
-FDM LN Equity;FDM.L;Information Technology;FDM Group Holdings PLC
-HTWS LN Equity;HTWS.L;Communication Services;Helios Towers PLC
-CRST LN Equity;CRST.L;Consumer Discretionary;Crest Nicholson Holdings plc
-SYNC LN Equity;SYNC.L;N/A;Syncona Limited
-AGT LN Equity;AGT.L;N/A;Avi Global Trust PLC
-BRSC LN Equity;BRSC.L;N/A;BlackRock Smaller Cos Trust PLC
-JFJ LN Equity;JFJ.L;N/A;JPMorgan Japanese Investment Trust PLC/F
-SDP LN Equity;SDP.L;N/A;Schroder AsiaPacific Fund PLC
-KNOS LN Equity;KNOS.L;Information Technology;Kainos Group PLC
-HSL LN Equity;HSL.L;N/A;Henderson Smaller Companies Investment T
-JDW LN Equity;JDW.L;Consumer Discretionary;J D Wetherspoon PLC
-VEC LN Equity;VEC.L;Health Care;Vectura Group PLC
-BYIT LN Equity;BYIT.L;Information Technology;Bytes Technology Group PLC
-DIGS LN Equity;DIGS.L;Real Estate;GCP Student Living PLC
-BGSC LN Equity;BGSC.L;N/A;BMO Global Smaller Companies PLC/Fund
-MGNS LN Equity;MGNS.L;Industrials;Morgan Sindall Group PLC
-BGFD LN Equity;BGFD.L;N/A;Baillie Gifford Japan Trust PLC/The
-LWDB LN Equity;LWDB.L;Financials;Law Debenture Corp PLC/fund
-GCP LN Equity;GCP.L;N/A;GCP Infrastructure Investments Ltd
-AAF LN Equity;AAF.L;Communication Services;Airtel Africa PLC
-FAN LN Equity;FAN.L;Industrials;Volution Group PLC
-CCR LN Equity;CCR.L;Consumer Staples;C&C Group PLC
-LXI LN Equity;LXI.L;Real Estate;LXI REIT Plc
-TIFS LN Equity;TIFS.L;Consumer Discretionary;TI Fluid Systems PLC
-CHG LN Equity;CHG.L;Industrials;Chemring Group PLC
-SAIN LN Equity;SAIN.L;N/A;Scottish American Investment Co PLC/The
-IBST LN Equity;IBST.L;Materials;Ibstock PLC
-RTN LN Equity;RTN.L;Consumer Discretionary;Restaurant Group PLC/The
-MTO LN Equity;MTO.L;Industrials;Mitie Group PLC
-ELM LN Equity;ELM.L;Materials;Elementis PLC
-ESNT LN Equity;ESNT.L;Materials;Essentra PLC
-JEO LN Equity;JEO.L;N/A;European Opportunities Trust PLC
-TYMN LN Equity;TYMN.L;Industrials;Tyman PLC
-JEDT LN Equity;JEDT.L;N/A;JPMorgan European Discovery Trust PLC
-NCC LN Equity;NCC.L;Information Technology;NCC Group PLC
-CNE LN Equity;CNE.L;Energy;Cairn Energy PLC
-OXB LN Equity;OXB.L;Health Care;Oxford Biomedica PLC
-ENOG LN Equity;ENOG.L;Energy;Energean PLC
-CKN LN Equity;CKN.L;Industrials;Clarkson PLC
-BIFF LN Equity;BIFF.L;Industrials;Biffa PLC
-XPP LN Equity;XPP.L;Industrials;XP Power Ltd
-ICGT LN Equity;ICGT.L;N/A;ICG Enterprise Trust PLC
-AVON LN Equity;AVON.L;Industrials;Avon Protection PLC
-JTC LN Equity;JTC.L;Financials;JTC PLC
-APAX LN Equity;APAX.L;N/A;Apax Global Alpha Ltd
-VOF LN Equity;VOF.L;N/A;VinaCapital Vietnam Opportunity Fund Ltd
-PFD LN Equity;PFD.L;Consumer Staples;Premier Foods PLC
-N91 LN Equity;N91.L;Financials;Ninety One PLC
-FOUR LN Equity;FOUR.L;Communication Services;4imprint Group PLC
-CSH LN Equity;CSH.L;Real Estate;Civitas Social Housing PLC
-SOI LN Equity;SOI.L;N/A;Schroder Oriental Income Fund Ltd
-BGS LN Equity;BGS.L;N/A;Baillie Gifford Shin Nippon PLC
-TMPL LN Equity;TMPL.L;N/A;Temple Bar Investment Trust PLC
-MAB LN Equity;MAB.L;Consumer Discretionary;Mitchells & Butlers PLC
-HFG LN Equity;HFG.L;Consumer Staples;Hilton Food Group PLC
-DEC LN Equity;DEC.L;Energy;Diversified Energy Co PLC
-ATG LN Equity;ATG.L;Consumer Discretionary;Auction Technology Group PLC
-TRST LN Equity;TRST.L;Communication Services;Trustpilot Group PLC
-GNC LN Equity;GNC.L;Consumer Staples;Greencore Group PLC
-TLW LN Equity;TLW.L;Energy;Tullow Oil PLC
-CPI LN Equity;CPI.L;Information Technology;Capita PLC
-CINE LN Equity;CINE.L;Communication Services;Cineworld Group PLC
-TEP LN Equity;TEP.L;Utilities;Telecom Plus PLC
-AO/ LN Equity;AO.L;Consumer Discretionary;AO World PLC
-WIX LN Equity;WIX.L;Consumer Discretionary;Wickes Group PLC
-POG LN Equity;POG.L;Materials;Petropavlovsk PLC
-SPI LN Equity;SPI.L;Health Care;Spire Healthcare Group PLC
-FSV LN Equity;FSV.L;N/A;Fidelity Special Values PLC
-UKCM LN Equity;UKCM.L;Real Estate;UK Commercial Property REIT Ltd
-MOON LN Equity;MOON.L;Consumer Discretionary;Moonpig Group PLC
-PRTC LN Equity;PRTC.L;Health Care;PureTech Health PLC
-HOC LN Equity;HOC.L;Materials;Hochschild Mining PLC
-PZC LN Equity;PZC.L;Consumer Staples;PZ Cussons PLC
-CMCX LN Equity;CMCX.L;Financials;CMC Markets PLC
-VVO LN Equity;VVO.L;Consumer Discretionary;Vivo Energy PLC
-CLI LN Equity;CLI.L;Real Estate;CLS Holdings PLC
-RNK LN Equity;RNK.L;Consumer Discretionary;Rank Group PLC
-GLO LN Equity;GLO.L;Utilities;ContourGlobal PLC
-HBR LN Equity;HBR.L;Energy;Harbour Energy PLC
+Bloomberg,Yahoo,Industry,Name,Curncy
+LYB UN Equity,LYB,Materials,LyondellBasell Industries NV,USD
+AXP UN Equity,AXP,Financials,American Express Co,USD
+VZ UN Equity,VZ,Communication Services,Verizon Communications Inc,USD
+AVGO UW Equity,AVGO,Information Technology,Broadcom Inc,USD
+BA UN Equity,BA,Industrials,Boeing Co/The,USD
+CAT UN Equity,CAT,Industrials,Caterpillar Inc,USD
+JPM UN Equity,JPM,Financials,JPMorgan Chase & Co,USD
+CVX UN Equity,CVX,Energy,Chevron Corp,USD
+KO UN Equity,KO,Consumer Staples,Coca-Cola Co/The,USD
+ABBV UN Equity,ABBV,Health Care,AbbVie Inc,USD
+DIS UN Equity,DIS,Communication Services,Walt Disney Co/The,USD
+FLT UN Equity,FLT,Information Technology,FleetCor Technologies Inc,USD
+EXR UN Equity,EXR,Real Estate,Extra Space Storage Inc,USD
+XOM UN Equity,XOM,Energy,Exxon Mobil Corp,USD
+PSX UN Equity,PSX,Energy,Phillips 66,USD
+GE UN Equity,GE,Industrials,General Electric Co,USD
+HPQ UN Equity,HPQ,Information Technology,HP Inc,USD
+HD UN Equity,HD,Consumer Discretionary,Home Depot Inc/The,USD
+MPWR UW Equity,MPWR ,Information Technology,Monolithic Power Systems Inc,USD
+IBM UN Equity,IBM,Information Technology,International Business Machines Corp,USD
+JNJ UN Equity,JNJ,Health Care,Johnson & Johnson,USD
+MCD UN Equity,MCD,Consumer Discretionary,McDonald's Corp,USD
+MRK UN Equity,MRK,Health Care,Merck & Co Inc,USD
+MMM UN Equity,MMM,Industrials,3M Co,USD
+AWK UN Equity,AWK,Utilities,American Water Works Co Inc,USD
+BAC UN Equity,BAC,Financials,Bank of America Corp,USD
+BKR UN Equity,BKR,Energy,Baker Hughes Co,USD
+PFE UN Equity,PFE,Health Care,Pfizer Inc,USD
+PG UN Equity,PG,Consumer Staples,Procter & Gamble Co/The,USD
+T UN Equity,T,Communication Services,AT&T Inc,USD
+TRV UN Equity,TRV,Financials,Travelers Cos Inc/The,USD
+RTX UN Equity,RTX,Industrials,Raytheon Technologies Corp,USD
+ADI UW Equity,ADI,Information Technology,Analog Devices Inc,USD
+WMT UN Equity,WMT,Consumer Staples,Walmart Inc,USD
+CSCO UW Equity,CSCO,Information Technology,Cisco Systems Inc/Delaware,USD
+INTC UW Equity,INTC,Information Technology,Intel Corp,USD
+GM UN Equity,GM,Consumer Discretionary,General Motors Co,USD
+MSFT UW Equity,MSFT,Information Technology,Microsoft Corp,USD
+DG UN Equity,DG,Consumer Discretionary,Dollar General Corp,USD
+CI UN Equity,CI,Health Care,Cigna Corp,USD
+KMI UN Equity,KMI,Energy,Kinder Morgan Inc,USD
+C UN Equity,C,Financials,Citigroup Inc,USD
+AIG UN Equity,AIG,Financials,American International Group Inc,USD
+MO UN Equity,MO,Consumer Staples,Altria Group Inc,USD
+HCA UN Equity,HCA,Health Care,HCA Healthcare Inc,USD
+UAA UN Equity,UAA,Consumer Discretionary,Under Armour Inc,USD
+IP UN Equity,IP,Materials,International Paper Co,USD
+HPE UN Equity,HPE,Information Technology,Hewlett Packard Enterprise Co,USD
+ABT UN Equity,ABT,Health Care,Abbott Laboratories,USD
+AFL UN Equity,AFL,Financials,Aflac Inc,USD
+APD UN Equity,APD,Materials,Air Products and Chemicals Inc,USD
+RCL UN Equity,RCL,Consumer Discretionary,Royal Caribbean Cruises Ltd,USD
+HES UN Equity,HES,Energy,Hess Corp,USD
+ADM UN Equity,ADM,Consumer Staples,Archer-Daniels-Midland Co,USD
+ADP UW Equity,ADP,Information Technology,Automatic Data Processing Inc,USD
+VRSK UW Equity,VRSK,Industrials,Verisk Analytics Inc,USD
+AZO UN Equity,AZO,Consumer Discretionary,AutoZone Inc,USD
+AVY UN Equity,AVY,Materials,Avery Dennison Corp,USD
+ENPH UQ Equity,ENPH,Information Technology,Enphase Energy Inc,USD
+MSCI UN Equity,MSCI,Financials,MSCI Inc,USD
+BLL UN Equity,BLL,Materials,Ball Corp,USD
+CARR UN Equity,CARR,Industrials,Carrier Global Corp,USD
+BK UN Equity,BK,Financials,Bank of New York Mellon Corp/The,USD
+OTIS UN Equity,OTIS,Industrials,Otis Worldwide Corp,USD
+BAX UN Equity,BAX,Health Care,Baxter International Inc,USD
+BDX UN Equity,BDX,Health Care,Becton Dickinson and Co,USD
+BRK/B UN Equity,BRK-B,Financials,Berkshire Hathaway Inc,USD
+BBY UN Equity,BBY,Consumer Discretionary,Best Buy Co Inc,USD
+BSX UN Equity,BSX,Health Care,Boston Scientific Corp,USD
+BMY UN Equity,BMY,Health Care,Bristol-Myers Squibb Co,USD
+FBHS UN Equity,FBHS,Industrials,Fortune Brands Home & Security Inc,USD
+BF/B UN Equity,BF-B,Consumer Staples,Brown-Forman Corp,USD
+COG UN Equity,COG,Energy,Cabot Oil & Gas Corp,USD
+CPB UN Equity,CPB,Consumer Staples,Campbell Soup Co,USD
+KSU UN Equity,KSU,Industrials,Kansas City Southern,USD
+HLT UN Equity,HLT,Consumer Discretionary,Hilton Worldwide Holdings Inc,USD
+CCL UN Equity,CCL,Consumer Discretionary,Carnival Corp,USD
+QRVO UW Equity,QRVO,Information Technology,Qorvo Inc,USD
+LUMN UN Equity,LUMN,Communication Services,Lumen Technologies Inc,USD
+UDR UN Equity,UDR,Real Estate,UDR Inc,USD
+CLX UN Equity,CLX,Consumer Staples,Clorox Co/The,USD
+PAYC UN Equity,PAYC,Information Technology,Paycom Software Inc,USD
+CMS UN Equity,CMS,Utilities,CMS Energy Corp,USD
+NWL UW Equity,NWL,Consumer Discretionary,Newell Brands Inc,USD
+CL UN Equity,CL,Consumer Staples,Colgate-Palmolive Co,USD
+CMA UN Equity,CMA,Financials,Comerica Inc,USD
+IPGP UW Equity,IPGP,Information Technology,IPG Photonics Corp,USD
+CAG UN Equity,CAG,Consumer Staples,Conagra Brands Inc,USD
+ED UN Equity,ED,Utilities,Consolidated Edison Inc,USD
+GLW UN Equity,GLW,Information Technology,Corning Inc,USD
+CMI UN Equity,CMI,Industrials,Cummins Inc,USD
+CZR UW Equity,CZR,Consumer Discretionary,Caesars Entertainment Inc,USD
+DHR UN Equity,DHR,Health Care,Danaher Corp,USD
+TGT UN Equity,TGT,Consumer Discretionary,Target Corp,USD
+DE UN Equity,DE,Industrials,Deere & Co,USD
+D UN Equity,D,Utilities,Dominion Energy Inc,USD
+DOV UN Equity,DOV,Industrials,Dover Corp,USD
+LNT UW Equity,LNT,Utilities,Alliant Energy Corp,USD
+DUK UN Equity,DUK,Utilities,Duke Energy Corp,USD
+REG UW Equity,REG,Real Estate,Regency Centers Corp,USD
+ETN UN Equity,ETN,Industrials,Eaton Corp PLC,USD
+ECL UN Equity,ECL,Materials,Ecolab Inc,USD
+PKI UN Equity,PKI,Health Care,PerkinElmer Inc,USD
+EMR UN Equity,EMR,Industrials,Emerson Electric Co,USD
+EOG UN Equity,EOG,Energy,EOG Resources Inc,USD
+AON UN Equity,AON,Financials,Aon PLC,USD
+ETR UN Equity,ETR,Utilities,Entergy Corp,USD
+EFX UN Equity,EFX,Industrials,Equifax Inc,USD
+IQV UN Equity,IQV,Health Care,IQVIA Holdings Inc,USD
+IT UN Equity,IT,Information Technology,Gartner Inc,USD
+FDX UN Equity,FDX,Industrials,FedEx Corp,USD
+FMC UN Equity,FMC,Materials,FMC Corp,USD
+F UN Equity,F,Consumer Discretionary,Ford Motor Co,USD
+NEE UN Equity,NEE,Utilities,NextEra Energy Inc,USD
+BEN UN Equity,BEN,Financials,Franklin Resources Inc,USD
+FCX UN Equity,FCX,Materials,Freeport-McMoRan Inc,USD
+GPS UN Equity,GPS,Consumer Discretionary,Gap Inc/The,USD
+DXCM UW Equity,DXCM,Health Care,Dexcom Inc,USD
+GD UN Equity,GD,Industrials,General Dynamics Corp,USD
+GIS UN Equity,GIS,Consumer Staples,General Mills Inc,USD
+GPC UN Equity,GPC,Consumer Discretionary,Genuine Parts Co,USD
+ATO UN Equity,ATO,Utilities,Atmos Energy Corp,USD
+GWW UN Equity,GWW,Industrials,WW Grainger Inc,USD
+HAL UN Equity,HAL,Energy,Halliburton Co,USD
+LHX UN Equity,LHX,Industrials,L3Harris Technologies Inc,USD
+PEAK UN Equity,PEAK,Real Estate,Healthpeak Properties Inc,USD
+CTLT UN Equity,CTLT,Health Care,Catalent Inc,USD
+FTV UN Equity,FTV,Industrials,Fortive Corp,USD
+HSY UN Equity,HSY,Consumer Staples,Hershey Co/The,USD
+SYF UN Equity,SYF,Financials,Synchrony Financial,USD
+HRL UN Equity,HRL,Consumer Staples,Hormel Foods Corp,USD
+AJG UN Equity,AJG,Financials,Arthur J Gallagher & Co,USD
+MDLZ UW Equity,MDLZ,Consumer Staples,Mondelez International Inc,USD
+CNP UN Equity,CNP,Utilities,CenterPoint Energy Inc,USD
+HUM UN Equity,HUM,Health Care,Humana Inc,USD
+WLTW UW Equity,WLTW,Financials,Willis Towers Watson PLC,USD
+ITW UN Equity,ITW,Industrials,Illinois Tool Works Inc,USD
+CDW UW Equity,CDW,Information Technology,CDW Corp/DE,USD
+TT UN Equity,TT,Industrials,Trane Technologies PLC,USD
+IPG UN Equity,IPG,Communication Services,Interpublic Group of Cos Inc/The,USD
+IFF UN Equity,IFF,Materials,International Flavors & Fragrances Inc,USD
+J UN Equity,J,Industrials,Jacobs Engineering Group Inc,USD
+GNRC UN Equity,GNRC,Industrials,Generac Holdings Inc,USD
+NXPI UW Equity,NXPI,Information Technology,NXP Semiconductors NV,USD
+HBI UN Equity,HBI,Consumer Discretionary,Hanesbrands Inc,USD
+K UN Equity,K,Consumer Staples,Kellogg Co,USD
+BR UN Equity,BR,Information Technology,Broadridge Financial Solutions Inc,USD
+PRGO UN Equity,PRGO,Health Care,Perrigo Co PLC,USD
+KMB UN Equity,KMB,Consumer Staples,Kimberly-Clark Corp,USD
+KIM UN Equity,KIM,Real Estate,Kimco Realty Corp,USD
+ORCL UN Equity,ORCL,Information Technology,Oracle Corp,USD
+KR UN Equity,KR,Consumer Staples,Kroger Co/The,USD
+LEG UN Equity,LEG,Consumer Discretionary,Leggett & Platt Inc,USD
+LEN UN Equity,LEN,Consumer Discretionary,Lennar Corp,USD
+LLY UN Equity,LLY,Health Care,Eli Lilly & Co,USD
+BBWI UN Equity,BBWI,Consumer Discretionary,Bath & Body Works Inc,USD
+CHTR UW Equity,CHTR,Communication Services,Charter Communications Inc,USD
+LNC UN Equity,LNC,Financials,Lincoln National Corp,USD
+L UN Equity,L,Financials,Loews Corp,USD
+LOW UN Equity,LOW,Consumer Discretionary,Lowe's Cos Inc,USD
+IEX UN Equity,IEX,Industrials,IDEX Corp,USD
+MMC UN Equity,MMC,Financials,Marsh & McLennan Cos Inc,USD
+MAS UN Equity,MAS,Industrials,Masco Corp,USD
+SPGI UN Equity,SPGI,Financials,S&P Global Inc,USD
+MDT UN Equity,MDT,Health Care,Medtronic PLC,USD
+VTRS UW Equity,VTRS,Health Care,Viatris Inc,USD
+CVS UN Equity,CVS,Health Care,CVS Health Corp,USD
+DD UN Equity,DD,Materials,DuPont de Nemours Inc,USD
+MU UW Equity,MU,Information Technology,Micron Technology Inc,USD
+MSI UN Equity,MSI,Information Technology,Motorola Solutions Inc,USD
+CBOE UF Equity,CBOE,Financials,Cboe Global Markets Inc,USD
+LH UN Equity,LH,Health Care,Laboratory Corp of America Holdings,USD
+NEM UN Equity,NEM,Materials,Newmont Corp,USD
+NKE UN Equity,NKE,Consumer Discretionary,NIKE Inc,USD
+NI UN Equity,NI,Utilities,NiSource Inc,USD
+NSC UN Equity,NSC,Industrials,Norfolk Southern Corp,USD
+PFG UW Equity,PFG,Financials,Principal Financial Group Inc,USD
+ES UN Equity,ES,Utilities,Eversource Energy,USD
+NOC UN Equity,NOC,Industrials,Northrop Grumman Corp,USD
+WFC UN Equity,WFC,Financials,Wells Fargo & Co,USD
+NUE UN Equity,NUE,Materials,Nucor Corp,USD
+PVH UN Equity,PVH,Consumer Discretionary,PVH Corp,USD
+OXY UN Equity,OXY,Energy,Occidental Petroleum Corp,USD
+OMC UN Equity,OMC,Communication Services,Omnicom Group Inc,USD
+OKE UN Equity,OKE,Energy,ONEOK Inc,USD
+RJF UN Equity,RJF,Financials,Raymond James Financial Inc,USD
+PH UN Equity,PH,Industrials,Parker-Hannifin Corp,USD
+ROL UN Equity,ROL,Industrials,Rollins Inc,USD
+PPL UN Equity,PPL,Utilities,PPL Corp,USD
+COP UN Equity,COP,Energy,ConocoPhillips,USD
+PHM UN Equity,PHM,Consumer Discretionary,PulteGroup Inc,USD
+PNW UN Equity,PNW,Utilities,Pinnacle West Capital Corp,USD
+PNC UN Equity,PNC,Financials,PNC Financial Services Group Inc/The,USD
+PPG UN Equity,PPG,Materials,PPG Industries Inc,USD
+PGR UN Equity,PGR,Financials,Progressive Corp/The,USD
+PEG UN Equity,PEG,Utilities,Public Service Enterprise Group Inc,USD
+RHI UN Equity,RHI,Industrials,Robert Half International Inc,USD
+EIX UN Equity,EIX,Utilities,Edison International,USD
+SLB UN Equity,SLB,Energy,Schlumberger NV,USD
+SCHW UN Equity,SCHW,Financials,Charles Schwab Corp/The,USD
+SHW UN Equity,SHW,Materials,Sherwin-Williams Co/The,USD
+WST UN Equity,WST,Health Care,West Pharmaceutical Services Inc,USD
+SJM UN Equity,SJM,Consumer Staples,J M Smucker Co/The,USD
+SNA UN Equity,SNA,Industrials,Snap-on Inc,USD
+AME UN Equity,AME,Industrials,AMETEK Inc,USD
+SO UN Equity,SO,Utilities,Southern Co/The,USD
+TFC UN Equity,TFC,Financials,Truist Financial Corp,USD
+LUV UN Equity,LUV,Industrials,Southwest Airlines Co,USD
+WRB UN Equity,WRB,Financials,W R Berkley Corp,USD
+SWK UN Equity,SWK,Industrials,Stanley Black & Decker Inc,USD
+PSA UN Equity,PSA,Real Estate,Public Storage,USD
+ANET UN Equity,ANET,Information Technology,Arista Networks Inc,USD
+SYY UN Equity,SYY,Consumer Staples,Sysco Corp,USD
+CTVA UN Equity,CTVA,Materials,Corteva Inc,USD
+TXN UW Equity,TXN,Information Technology,Texas Instruments Inc,USD
+TXT UN Equity,TXT,Industrials,Textron Inc,USD
+TMO UN Equity,TMO,Health Care,Thermo Fisher Scientific Inc,USD
+TJX UN Equity,TJX,Consumer Discretionary,TJX Cos Inc/The,USD
+GL UN Equity,GL,Financials,Globe Life Inc,USD
+JCI UN Equity,JCI,Industrials,Johnson Controls International plc,USD
+ULTA UW Equity,ULTA,Consumer Discretionary,Ulta Beauty Inc,USD
+UNP UN Equity,UNP,Industrials,Union Pacific Corp,USD
+KEYS UN Equity,KEYS,Information Technology,Keysight Technologies Inc,USD
+UNH UN Equity,UNH,Health Care,UnitedHealth Group Inc,USD
+UNM UN Equity,UNM,Financials,Unum Group,USD
+MRO UN Equity,MRO,Energy,Marathon Oil Corp,USD
+BIO UN Equity,BIO,Health Care,Bio-Rad Laboratories Inc,USD
+VTR UN Equity,VTR,Real Estate,Ventas Inc,USD
+VFC UN Equity,VFC,Consumer Discretionary,VF Corp,USD
+VNO UN Equity,VNO,Real Estate,Vornado Realty Trust,USD
+VMC UN Equity,VMC,Materials,Vulcan Materials Co,USD
+WY UN Equity,WY,Real Estate,Weyerhaeuser Co,USD
+WHR UN Equity,WHR,Consumer Discretionary,Whirlpool Corp,USD
+WMB UN Equity,WMB,Energy,Williams Cos Inc/The,USD
+WEC UN Equity,WEC,Utilities,WEC Energy Group Inc,USD
+ADBE UW Equity,ADBE,Information Technology,Adobe Inc,USD
+AES UN Equity,AES,Utilities,AES Corp/The,USD
+AMGN UW Equity,AMGN,Health Care,Amgen Inc,USD
+AAPL UW Equity,AAPL,Information Technology,Apple Inc,USD
+ADSK UW Equity,ADSK,Information Technology,Autodesk Inc,USD
+CTAS UW Equity,CTAS,Industrials,Cintas Corp,USD
+CMCSA UW Equity,CMCSA,Communication Services,Comcast Corp,USD
+TAP UN Equity,TAP,Consumer Staples,Molson Coors Beverage Co,USD
+KLAC UW Equity,KLAC,Information Technology,KLA Corp,USD
+MAR UW Equity,MAR,Consumer Discretionary,Marriott International Inc/MD,USD
+MKC UN Equity,MKC,Consumer Staples,McCormick & Co Inc/MD,USD
+PCAR UW Equity,PCAR,Industrials,PACCAR Inc,USD
+COST UW Equity,COST,Consumer Staples,Costco Wholesale Corp,USD
+FRC UN Equity,FRC,Financials,First Republic Bank/CA,USD
+SYK UN Equity,SYK,Health Care,Stryker Corp,USD
+TSN UN Equity,TSN,Consumer Staples,Tyson Foods Inc,USD
+LW UN Equity,LW,Consumer Staples,Lamb Weston Holdings Inc,USD
+AMAT UW Equity,AMAT,Information Technology,Applied Materials Inc,USD
+AAL UW Equity,AAL,Industrials,American Airlines Group Inc,USD
+CAH UN Equity,CAH,Health Care,Cardinal Health Inc,USD
+CERN UW Equity,CERN,Health Care,Cerner Corp,USD
+CINF UW Equity,CINF,Financials,Cincinnati Financial Corp,USD
+VIAC UW Equity,VIAC,Communication Services,ViacomCBS Inc,USD
+DHI UN Equity,DHI,Consumer Discretionary,DR Horton Inc,USD
+EA UW Equity,EA,Communication Services,Electronic Arts Inc,USD
+EXPD UW Equity,EXPD,Industrials,Expeditors International of Washington I,USD
+FAST UW Equity,FAST,Industrials,Fastenal Co,USD
+MTB UN Equity,MTB,Financials,M&T Bank Corp,USD
+XEL UW Equity,XEL,Utilities,Xcel Energy Inc,USD
+FISV UW Equity,FISV,Information Technology,Fiserv Inc,USD
+FITB UW Equity,FITB,Financials,Fifth Third Bancorp,USD
+GILD UW Equity,GILD,Health Care,Gilead Sciences Inc,USD
+HAS UW Equity,HAS,Consumer Discretionary,Hasbro Inc,USD
+HBAN UW Equity,HBAN,Financials,Huntington Bancshares Inc/OH,USD
+WELL UN Equity,WELL,Real Estate,Welltower Inc,USD
+BIIB UW Equity,BIIB,Health Care,Biogen Inc,USD
+NTRS UW Equity,NTRS,Financials,Northern Trust Corp,USD
+PKG UN Equity,PKG,Materials,Packaging Corp of America,USD
+PAYX UW Equity,PAYX,Information Technology,Paychex Inc,USD
+PBCT UW Equity,PBCT,Financials,People's United Financial Inc,USD
+QCOM UW Equity,QCOM,Information Technology,QUALCOMM Inc,USD
+ROP UN Equity,ROP,Industrials,Roper Technologies Inc,USD
+ROST UW Equity,ROST,Consumer Discretionary,Ross Stores Inc,USD
+IDXX UW Equity,IDXX,Health Care,IDEXX Laboratories Inc,USD
+SBUX UW Equity,SBUX,Consumer Discretionary,Starbucks Corp,USD
+KEY UN Equity,KEY,Financials,KeyCorp,USD
+FOXA UW Equity,FOXA,Communication Services,Fox Corp,USD
+FOX UW Equity,FOX,Communication Services,Fox Corp,USD
+STT UN Equity,STT,Financials,State Street Corp,USD
+NCLH UN Equity,NCLH,Consumer Discretionary,Norwegian Cruise Line Holdings Ltd,USD
+USB UN Equity,USB,Financials,US Bancorp,USD
+AOS UN Equity,AOS,Industrials,A O Smith Corp,USD
+NLOK UW Equity,NLOK,Information Technology,NortonLifeLock Inc,USD
+TROW UW Equity,TROW,Financials,T Rowe Price Group Inc,USD
+WM UN Equity,WM,Industrials,Waste Management Inc,USD
+STZ UN Equity,STZ,Consumer Staples,Constellation Brands Inc,USD
+XLNX UW Equity,XLNX,Information Technology,Xilinx Inc,USD
+XRAY UW Equity,XRAY,Health Care,DENTSPLY SIRONA Inc,USD
+ZION UW Equity,ZION,Financials,Zions Bancorp NA,USD
+ALK UN Equity,ALK,Industrials,Alaska Air Group Inc,USD
+IVZ UN Equity,IVZ,Financials,Invesco Ltd,USD
+LIN UN Equity,LIN,Materials,Linde PLC,USD
+INTU UW Equity,INTU,Information Technology,Intuit Inc,USD
+MS UN Equity,MS,Financials,Morgan Stanley,USD
+MCHP UW Equity,MCHP,Information Technology,Microchip Technology Inc,USD
+CB UN Equity,CB,Financials,Chubb Ltd,USD
+HOLX UW Equity,HOLX,Health Care,Hologic Inc,USD
+CFG UN Equity,CFG,Financials,Citizens Financial Group Inc,USD
+ORLY UW Equity,ORLY,Consumer Discretionary,O'Reilly Automotive Inc,USD
+ALL UN Equity,ALL,Financials,Allstate Corp/The,USD
+EQR UN Equity,EQR,Real Estate,Equity Residential,USD
+BWA UN Equity,BWA,Consumer Discretionary,BorgWarner Inc,USD
+OGN UN Equity,OGN,Health Care,Organon & Co,USD
+HST UW Equity,HST,Real Estate,Host Hotels & Resorts Inc,USD
+INCY UW Equity,INCY,Health Care,Incyte Corp,USD
+SPG UN Equity,SPG,Real Estate,Simon Property Group Inc,USD
+EMN UN Equity,EMN,Materials,Eastman Chemical Co,USD
+TWTR UN Equity,TWTR,Communication Services,Twitter Inc,USD
+AVB UN Equity,AVB,Real Estate,AvalonBay Communities Inc,USD
+PRU UN Equity,PRU,Financials,Prudential Financial Inc,USD
+UPS UN Equity,UPS,Industrials,United Parcel Service Inc,USD
+WBA UW Equity,WBA,Consumer Staples,Walgreens Boots Alliance Inc,USD
+STE UN Equity,STE,Health Care,STERIS PLC,USD
+MCK UN Equity,MCK,Health Care,McKesson Corp,USD
+LMT UN Equity,LMT,Industrials,Lockheed Martin Corp,USD
+ABC UN Equity,ABC,Health Care,AmerisourceBergen Corp,USD
+COF UN Equity,COF,Financials,Capital One Financial Corp,USD
+WAT UN Equity,WAT,Health Care,Waters Corp,USD
+DLTR UW Equity,DLTR,Consumer Discretionary,Dollar Tree Inc,USD
+DRI UN Equity,DRI,Consumer Discretionary,Darden Restaurants Inc,USD
+DPZ UN Equity,DPZ,Consumer Discretionary,Domino's Pizza Inc,USD
+NVR UN Equity,NVR,Consumer Discretionary,NVR Inc,USD
+NTAP UW Equity,NTAP,Information Technology,NetApp Inc,USD
+CTXS UW Equity,CTXS,Information Technology,Citrix Systems Inc,USD
+DXC UN Equity,DXC,Information Technology,DXC Technology Co,USD
+ODFL UW Equity,ODFL,Industrials,Old Dominion Freight Line Inc,USD
+DVA UN Equity,DVA,Health Care,DaVita Inc,USD
+HIG UN Equity,HIG,Financials,Hartford Financial Services Group Inc/Th,USD
+IRM UN Equity,IRM,Real Estate,Iron Mountain Inc,USD
+EL UN Equity,EL,Consumer Staples,Estee Lauder Cos Inc/The,USD
+CDNS UW Equity,CDNS,Information Technology,Cadence Design Systems Inc,USD
+TYL UN Equity,TYL,Information Technology,Tyler Technologies Inc,USD
+UHS UN Equity,UHS,Health Care,Universal Health Services Inc,USD
+SWKS UW Equity,SWKS,Information Technology,Skyworks Solutions Inc,USD
+NOV UN Equity,NOV,Energy,NOV Inc,USD
+DGX UN Equity,DGX,Health Care,Quest Diagnostics Inc,USD
+ATVI UW Equity,ATVI,Communication Services,Activision Blizzard Inc,USD
+ROK UN Equity,ROK,Industrials,Rockwell Automation Inc,USD
+KHC UW Equity,KHC,Consumer Staples,Kraft Heinz Co/The,USD
+AMT UN Equity,AMT,Real Estate,American Tower Corp,USD
+REGN UW Equity,REGN,Health Care,Regeneron Pharmaceuticals Inc,USD
+AMZN UW Equity,AMZN,Consumer Discretionary,Amazon.com Inc,USD
+JKHY UW Equity,JKHY,Information Technology,Jack Henry & Associates Inc,USD
+RL UN Equity,RL,Consumer Discretionary,Ralph Lauren Corp,USD
+BXP UN Equity,BXP,Real Estate,Boston Properties Inc,USD
+APH UN Equity,APH,Information Technology,Amphenol Corp,USD
+HWM UN Equity,HWM,Industrials,Howmet Aerospace Inc,USD
+PXD UN Equity,PXD,Energy,Pioneer Natural Resources Co,USD
+VLO UN Equity,VLO,Energy,Valero Energy Corp,USD
+SNPS UW Equity,SNPS,Information Technology,Synopsys Inc,USD
+WU UN Equity,WU,Information Technology,Western Union Co/The,USD
+ETSY UW Equity,ETSY,Consumer Discretionary,Etsy Inc,USD
+CHRW UW Equity,CHRW,Industrials,CH Robinson Worldwide Inc,USD
+ACN UN Equity,ACN,Information Technology,Accenture PLC,USD
+TDG UN Equity,TDG,Industrials,TransDigm Group Inc,USD
+YUM UN Equity,YUM,Consumer Discretionary,Yum! Brands Inc,USD
+PLD UN Equity,PLD,Real Estate,Prologis Inc,USD
+FE UN Equity,FE,Utilities,FirstEnergy Corp,USD
+VRSN UW Equity,VRSN,Information Technology,VeriSign Inc,USD
+PWR UN Equity,PWR,Industrials,Quanta Services Inc,USD
+HSIC UW Equity,HSIC,Health Care,Henry Schein Inc,USD
+AEE UN Equity,AEE,Utilities,Ameren Corp,USD
+ANSS UW Equity,ANSS,Information Technology,ANSYS Inc,USD
+NVDA UW Equity,NVDA,Information Technology,NVIDIA Corp,USD
+SEE UN Equity,SEE,Materials,Sealed Air Corp,USD
+CTSH UW Equity,CTSH,Information Technology,Cognizant Technology Solutions Corp,USD
+SIVB UW Equity,SIVB,Financials,SVB Financial Group,USD
+ISRG UW Equity,ISRG,Health Care,Intuitive Surgical Inc,USD
+TTWO UW Equity,TTWO,Communication Services,Take-Two Interactive Software Inc,USD
+RSG UN Equity,RSG,Industrials,Republic Services Inc,USD
+EBAY UW Equity,EBAY,Consumer Discretionary,eBay Inc,USD
+GS UN Equity,GS,Financials,Goldman Sachs Group Inc/The,USD
+SBAC UW Equity,SBAC,Real Estate,SBA Communications Corp,USD
+SRE UN Equity,SRE,Utilities,Sempra Energy,USD
+MCO UN Equity,MCO,Financials,Moody's Corp,USD
+BKNG UW Equity,BKNG,Consumer Discretionary,Booking Holdings Inc,USD
+FFIV UW Equity,FFIV,Information Technology,F5 Networks Inc,USD
+AKAM UW Equity,AKAM,Information Technology,Akamai Technologies Inc,USD
+CRL UN Equity,CRL,Health Care,Charles River Laboratories International,USD
+MKTX UW Equity,MKTX,Financials,MarketAxess Holdings Inc,USD
+DVN UN Equity,DVN,Energy,Devon Energy Corp,USD
+GOOGL UW Equity,GOOGL,Communication Services,Alphabet Inc,USD
+TFX UN Equity,TFX,Health Care,Teleflex Inc,USD
+ALLE UN Equity,ALLE,Industrials,Allegion plc,USD
+NFLX UW Equity,NFLX,Communication Services,Netflix Inc,USD
+A UN Equity,A,Health Care,Agilent Technologies Inc,USD
+TRMB UW Equity,TRMB,Information Technology,Trimble Inc,USD
+ANTM UN Equity,ANTM,Health Care,Anthem Inc,USD
+CME UW Equity,CME,Financials,CME Group Inc,USD
+JNPR UN Equity,JNPR,Information Technology,Juniper Networks Inc,USD
+BLK UN Equity,BLK,Financials,BlackRock Inc,USD
+DTE UN Equity,DTE,Utilities,DTE Energy Co,USD
+CE UN Equity,CE,Materials,Celanese Corp,USD
+NDAQ UW Equity,NDAQ,Financials,Nasdaq Inc,USD
+PM UN Equity,PM,Consumer Staples,Philip Morris International Inc,USD
+IR UN Equity,IR,Industrials,Ingersoll Rand Inc,USD
+CRM UN Equity,CRM,Information Technology,salesforce.com Inc,USD
+HII UN Equity,HII,Industrials,Huntington Ingalls Industries Inc,USD
+MET UN Equity,MET,Financials,MetLife Inc,USD
+UA UN Equity,UA,Consumer Discretionary,Under Armour Inc,USD
+TPR UN Equity,TPR,Consumer Discretionary,Tapestry Inc,USD
+CSX UW Equity,CSX,Industrials,CSX Corp,USD
+EW UN Equity,EW,Health Care,Edwards Lifesciences Corp,USD
+AMP UN Equity,AMP,Financials,Ameriprise Financial Inc,USD
+ZBRA UW Equity,ZBRA,Information Technology,Zebra Technologies Corp,USD
+ZBH UN Equity,ZBH,Health Care,Zimmer Biomet Holdings Inc,USD
+CBRE UN Equity,CBRE,Real Estate,CBRE Group Inc,USD
+MA UN Equity,MA,Information Technology,Mastercard Inc,USD
+KMX UN Equity,KMX,Consumer Discretionary,CarMax Inc,USD
+ICE UN Equity,ICE,Financials,Intercontinental Exchange Inc,USD
+FIS UN Equity,FIS,Information Technology,Fidelity National Information Services I,USD
+CMG UN Equity,CMG,Consumer Discretionary,Chipotle Mexican Grill Inc,USD
+WYNN UW Equity,WYNN,Consumer Discretionary,Wynn Resorts Ltd,USD
+LYV UN Equity,LYV,Communication Services,Live Nation Entertainment Inc,USD
+AIZ UN Equity,AIZ,Financials,Assurant Inc,USD
+NRG UN Equity,NRG,Utilities,NRG Energy Inc,USD
+MNST UW Equity,MNST,Consumer Staples,Monster Beverage Corp,USD
+RF UN Equity,RF,Financials,Regions Financial Corp,USD
+MOS UN Equity,MOS,Materials,Mosaic Co/The,USD
+EXPE UW Equity,EXPE,Consumer Discretionary,Expedia Group Inc,USD
+EVRG UN Equity,EVRG,Utilities,Evergy Inc,USD
+DISCA UW Equity,DISCA,Communication Services,Discovery Inc,USD
+CF UN Equity,CF,Materials,CF Industries Holdings Inc,USD
+APA UW Equity,APA,Energy,APA Corp,USD
+LDOS UN Equity,LDOS,Industrials,Leidos Holdings Inc,USD
+GOOG UW Equity,GOOG,Communication Services,Alphabet Inc,USD
+COO UN Equity,COO,Health Care,Cooper Cos Inc/The,USD
+TEL UN Equity,TEL,Information Technology,TE Connectivity Ltd,USD
+DFS UN Equity,DFS,Financials,Discover Financial Services,USD
+V UN Equity,V,Information Technology,Visa Inc,USD
+MAA UN Equity,MAA,Real Estate,Mid-America Apartment Communities Inc,USD
+XYL UN Equity,XYL,Industrials,Xylem Inc/NY,USD
+MPC UN Equity,MPC,Energy,Marathon Petroleum Corp,USD
+AMD UW Equity,AMD,Information Technology,Advanced Micro Devices Inc,USD
+TSCO UW Equity,TSCO,Consumer Discretionary,Tractor Supply Co,USD
+RMD UN Equity,RMD,Health Care,ResMed Inc,USD
+MTD UN Equity,MTD,Health Care,Mettler-Toledo International Inc,USD
+CPRT UW Equity,CPRT,Industrials,Copart Inc,USD
+FTNT UW Equity,FTNT,Information Technology,Fortinet Inc,USD
+ALB UN Equity,ALB,Materials,Albemarle Corp,USD
+MRNA UW Equity,MRNA,Health Care,Moderna Inc,USD
+ESS UN Equity,ESS,Real Estate,Essex Property Trust Inc,USD
+O UN Equity,O,Real Estate,Realty Income Corp,USD
+WRK UN Equity,WRK,Materials,Westrock Co,USD
+INFO UN Equity,INFO,Industrials,IHS Markit Ltd,USD
+WAB UN Equity,WAB,Industrials,Westinghouse Air Brake Technologies Corp,USD
+POOL UW Equity,POOL,Consumer Discretionary,Pool Corp,USD
+WDC UW Equity,WDC,Information Technology,Western Digital Corp,USD
+PEP UW Equity,PEP,Consumer Staples,PepsiCo Inc,USD
+FANG UW Equity,FANG,Energy,Diamondback Energy Inc,USD
+MXIM UW Equity,MXIM,Information Technology,Maxim Integrated Products Inc,USD
+NOW UN Equity,NOW,Information Technology,ServiceNow Inc,USD
+CHD UN Equity,CHD,Consumer Staples,Church & Dwight Co Inc,USD
+DRE UN Equity,DRE,Real Estate,Duke Realty Corp,USD
+FRT UN Equity,FRT,Real Estate,Federal Realty Investment Trust,USD
+MGM UN Equity,MGM,Consumer Discretionary,MGM Resorts International,USD
+AEP UW Equity,AEP,Utilities,American Electric Power Co Inc,USD
+PTC UW Equity,PTC,Information Technology,PTC Inc,USD
+JBHT UW Equity,JBHT,Industrials,JB Hunt Transport Services Inc,USD
+LRCX UW Equity,LRCX,Information Technology,Lam Research Corp,USD
+MHK UN Equity,MHK,Consumer Discretionary,Mohawk Industries Inc,USD
+PNR UN Equity,PNR,Industrials,Pentair PLC,USD
+VRTX UW Equity,VRTX,Health Care,Vertex Pharmaceuticals Inc,USD
+AMCR UN Equity,AMCR,Materials,Amcor PLC,USD
+FB UW Equity,FB,Communication Services,Facebook Inc,USD
+TMUS UW Equity,TMUS,Communication Services,T-Mobile US Inc,USD
+URI UN Equity,URI,Industrials,United Rentals Inc,USD
+ARE UN Equity,ARE,Real Estate,Alexandria Real Estate Equities Inc,USD
+HON UW Equity,HON,Industrials,Honeywell International Inc,USD
+ABMD UW Equity,ABMD,Health Care,ABIOMED Inc,USD
+DAL UN Equity,DAL,Industrials,Delta Air Lines Inc,USD
+UAL UW Equity,UAL,Industrials,United Airlines Holdings Inc,USD
+STX UW Equity,STX,Information Technology,Seagate Technology Holdings PLC,USD
+NWS UW Equity,NWS,Communication Services,News Corp,USD
+CNC UN Equity,CNC,Health Care,Centene Corp,USD
+MLM UN Equity,MLM,Materials,Martin Marietta Materials Inc,USD
+TER UW Equity,TER,Information Technology,Teradyne Inc,USD
+PYPL UW Equity,PYPL,Information Technology,PayPal Holdings Inc,USD
+TSLA UW Equity,TSLA,Consumer Discretionary,Tesla Inc,USD
+DISH UW Equity,DISH,Communication Services,DISH Network Corp,USD
+PENN UW Equity,PENN,Consumer Discretionary,Penn National Gaming Inc,USD
+DOW UN Equity,DOW,Materials,Dow Inc,USD
+RE UN Equity,RE,Financials,Everest Re Group Ltd,USD
+TDY UN Equity,TDY,Industrials,Teledyne Technologies Inc,USD
+NWSA UW Equity,NWSA,Communication Services,News Corp,USD
+EXC UW Equity,EXC,Utilities,Exelon Corp,USD
+GPN UN Equity,GPN,Information Technology,Global Payments Inc,USD
+CCI UN Equity,CCI,Real Estate,Crown Castle International Corp,USD
+APTV UN Equity,APTV,Consumer Discretionary,Aptiv PLC,USD
+AAP UN Equity,AAP,Consumer Discretionary,Advance Auto Parts Inc,USD
+ALGN UW Equity,ALGN,Health Care,Align Technology Inc,USD
+ILMN UW Equity,ILMN,Health Care,Illumina Inc,USD
+LKQ UW Equity,LKQ,Consumer Discretionary,LKQ Corp,USD
+NLSN UN Equity,NLSN,Industrials,Nielsen Holdings PLC,USD
+GRMN UW Equity,GRMN,Consumer Discretionary,Garmin Ltd,USD
+ZTS UN Equity,ZTS,Health Care,Zoetis Inc,USD
+DLR UN Equity,DLR,Real Estate,Digital Realty Trust Inc,USD
+EQIX UW Equity,EQIX,Real Estate,Equinix Inc,USD
+LVS UN Equity,LVS,Consumer Discretionary,Las Vegas Sands Corp,USD
+DISCK UW Equity,DISCK,Communication Services,Discovery Inc,USD
+MELI UW Equity,MELI,Consumer Discretionary,MercadoLibre Inc,USD
+MXIM UW Equity,MXIM,Information Technology,Maxim Integrated Products Inc,USD
+CDW UW Equity,CDW,Information Technology,CDW Corp/DE,USD
+MDLZ UW Equity,MDLZ,Consumer Staples,Mondelez International Inc,USD
+CPRT UW Equity,CPRT,Industrials,Copart Inc,USD
+AMZN UW Equity,AMZN,Consumer Discretionary,Amazon.com Inc,USD
+GOOG UW Equity,GOOG,Communication Services,Alphabet Inc,USD
+IDXX UW Equity,IDXX,Health Care,IDEXX Laboratories Inc,USD
+CHTR UW Equity,CHTR,Communication Services,Charter Communications Inc,USD
+VRSN UW Equity,VRSN,Information Technology,VeriSign Inc,USD
+CSCO UW Equity,CSCO,Information Technology,Cisco Systems Inc/Delaware,USD
+MTCH UW Equity,MTCH,Communication Services,Match Group Inc,USD
+INTC UW Equity,INTC,Information Technology,Intel Corp,USD
+MSFT UW Equity,MSFT,Information Technology,Microsoft Corp,USD
+NVDA UW Equity,NVDA,Information Technology,NVIDIA Corp,USD
+CTSH UW Equity,CTSH,Information Technology,Cognizant Technology Solutions Corp,USD
+ISRG UW Equity,ISRG,Health Care,Intuitive Surgical Inc,USD
+ALGN UW Equity,ALGN,Health Care,Align Technology Inc,USD
+EBAY UW Equity,EBAY,Consumer Discretionary,eBay Inc,USD
+TEAM UW Equity,TEAM,Information Technology,Atlassian Corp PLC,USD
+MRVL UW Equity,MRVL,Information Technology,Marvell Technology Inc,USD
+INCY UW Equity,INCY,Health Care,Incyte Corp,USD
+BKNG UW Equity,BKNG,Consumer Discretionary,Booking Holdings Inc,USD
+ILMN UW Equity,ILMN,Health Care,Illumina Inc,USD
+JD UW Equity,JD,Consumer Discretionary,JD.com Inc,USD
+TXN UW Equity,TXN,Information Technology,Texas Instruments Inc,USD
+KHC UW Equity,KHC,Consumer Staples,Kraft Heinz Co/The,USD
+GOOGL UW Equity,GOOGL,Communication Services,Alphabet Inc,USD
+DOCU UW Equity,DOCU,Information Technology,DocuSign Inc,USD
+NFLX UW Equity,NFLX,Communication Services,Netflix Inc,USD
+KDP UW Equity,KDP,Consumer Staples,Keurig Dr Pepper Inc,USD
+ADP UW Equity,ADP,Information Technology,Automatic Data Processing Inc,USD
+XEL UW Equity,XEL,Utilities,Xcel Energy Inc,USD
+WBA UW Equity,WBA,Consumer Staples,Walgreens Boots Alliance Inc,USD
+PDD UW Equity,PDD,Consumer Discretionary,Pinduoduo Inc,USD
+AMD UW Equity,AMD,Information Technology,Advanced Micro Devices Inc,USD
+ADBE UW Equity,ADBE,Information Technology,Adobe Inc,USD
+AMGN UW Equity,AMGN,Health Care,Amgen Inc,USD
+CSX UW Equity,CSX,Industrials,CSX Corp,USD
+AAPL UW Equity,AAPL,Information Technology,Apple Inc,USD
+ADSK UW Equity,ADSK,Information Technology,Autodesk Inc,USD
+CTAS UW Equity,CTAS,Industrials,Cintas Corp,USD
+CMCSA UW Equity,CMCSA,Communication Services,Comcast Corp,USD
+AEP UW Equity,AEP,Utilities,American Electric Power Co Inc,USD
+KLAC UW Equity,KLAC,Information Technology,KLA Corp,USD
+AVGO UW Equity,AVGO,Information Technology,Broadcom Inc,USD
+CDNS UW Equity,CDNS,Information Technology,Cadence Design Systems Inc,USD
+PCAR UW Equity,PCAR,Industrials,PACCAR Inc,USD
+COST UW Equity,COST,Consumer Staples,Costco Wholesale Corp,USD
+REGN UW Equity,REGN,Health Care,Regeneron Pharmaceuticals Inc,USD
+SWKS UW Equity,SWKS,Information Technology,Skyworks Solutions Inc,USD
+ATVI UW Equity,ATVI,Communication Services,Activision Blizzard Inc,USD
+AMAT UW Equity,AMAT,Information Technology,Applied Materials Inc,USD
+LULU UW Equity,LULU,Consumer Discretionary,Lululemon Athletica Inc,USD
+CERN UW Equity,CERN,Health Care,Cerner Corp,USD
+NTES UW Equity,NTES,Communication Services,NetEase Inc,USD
+SNPS UW Equity,SNPS,Information Technology,Synopsys Inc,USD
+SPLK UW Equity,SPLK,Information Technology,Splunk Inc,USD
+EA UW Equity,EA,Communication Services,Electronic Arts Inc,USD
+FAST UW Equity,FAST,Industrials,Fastenal Co,USD
+ANSS UW Equity,ANSS,Information Technology,ANSYS Inc,USD
+FISV UW Equity,FISV,Information Technology,Fiserv Inc,USD
+FB UW Equity,FB,Communication Services,Facebook Inc,USD
+GILD UW Equity,GILD,Health Care,Gilead Sciences Inc,USD
+SGEN UW Equity,SGEN,Health Care,Seagen Inc,USD
+EXC UW Equity,EXC,Utilities,Exelon Corp,USD
+LRCX UW Equity,LRCX,Information Technology,Lam Research Corp,USD
+BIIB UW Equity,BIIB,Health Care,Biogen Inc,USD
+VRTX UW Equity,VRTX,Health Care,Vertex Pharmaceuticals Inc,USD
+PAYX UW Equity,PAYX,Information Technology,Paychex Inc,USD
+ADI UW Equity,ADI,Information Technology,Analog Devices Inc,USD
+PYPL UW Equity,PYPL,Information Technology,PayPal Holdings Inc,USD
+QCOM UW Equity,QCOM,Information Technology,QUALCOMM Inc,USD
+MAR UW Equity,MAR,Consumer Discretionary,Marriott International Inc/MD,USD
+ROST UW Equity,ROST,Consumer Discretionary,Ross Stores Inc,USD
+SBUX UW Equity,SBUX,Consumer Discretionary,Starbucks Corp,USD
+PEP UW Equity,PEP,Consumer Staples,PepsiCo Inc,USD
+XLNX UW Equity,XLNX,Information Technology,Xilinx Inc,USD
+INTU UW Equity,INTU,Information Technology,Intuit Inc,USD
+MCHP UW Equity,MCHP,Information Technology,Microchip Technology Inc,USD
+MNST UW Equity,MNST,Consumer Staples,Monster Beverage Corp,USD
+WDAY UW Equity,WDAY,Information Technology,Workday Inc,USD
+CHKP UW Equity,CHKP,Information Technology,Check Point Software Technologies Ltd,USD
+ORLY UW Equity,ORLY,Consumer Discretionary,O'Reilly Automotive Inc,USD
+TSLA UW Equity,TSLA,Consumer Discretionary,Tesla Inc,USD
+ASML UW Equity,ASML,Information Technology,ASML Holding NV,USD
+TCOM UW Equity,TCOM,Consumer Discretionary,Trip.com Group Ltd,USD
+NXPI UW Equity,NXPI,Information Technology,NXP Semiconductors NV,USD
+HON UW Equity,HON,Industrials,Honeywell International Inc,USD
+OKTA UW Equity,OKTA,Information Technology,Okta Inc,USD
+MRNA UW Equity,MRNA,Health Care,Moderna Inc,USD
+SIRI UW Equity,SIRI,Communication Services,Sirius XM Holdings Inc,USD
+MU UW Equity,MU,Information Technology,Micron Technology Inc,USD
+BIDU UW Equity,BIDU,Communication Services,Baidu Inc,USD
+TMUS UW Equity,TMUS,Communication Services,T-Mobile US Inc,USD
+VRSK UW Equity,VRSK,Industrials,Verisk Analytics Inc,USD
+DLTR UW Equity,DLTR,Consumer Discretionary,Dollar Tree Inc,USD
+FOXA UW Equity,FOXA,Communication Services,Fox Corp,USD
+PTON UW Equity,PTON,Consumer Discretionary,Peloton Interactive Inc,USD
+FOX UW Equity,FOX,Communication Services,Fox Corp,USD
+ZM UW Equity,ZM,Information Technology,Zoom Video Communications Inc,USD
+DXCM UW Equity,DXCM,Health Care,Dexcom Inc,USD
+ENEL IM Equity,ENEL.MI,Utilities,Enel SpA,EUR
+ISP IM Equity,ISP.MI,Financials,Intesa Sanpaolo SpA,EUR
+CRH ID Equity,CRG.IR,Materials,CRH PLC,EUR
+ENI IM Equity,ENI.MI,Energy,Eni SpA,EUR
+FLTR ID Equity,FLTR.IR,Consumer Discretionary,Flutter Entertainment PLC,EUR
+ENR GY Equity,ENR.DE,Industrials,Siemens Energy AG,EUR
+MTX GY Equity,MTX.DE,Industrials,MTU Aero Engines AG,EUR
+LIN GY Equity,LIN.DE,Materials,Linde PLC,EUR
+DHER GY Equity,DHER.DE,Consumer Discretionary,Delivery Hero SE,EUR
+DWNI GY Equity,DWNI.DE,Real Estate,Deutsche Wohnen SE,EUR
+1COV GY Equity,1COV.DE,Materials,Covestro AG,EUR
+ALV GY Equity,ALV.DE,Financials,Allianz SE,EUR
+RWE GY Equity,RWE.DE,Utilities,RWE AG,EUR
+BAYN GY Equity,BAYN.DE,Health Care,Bayer AG,EUR
+BMW GY Equity,BMW.DE,Consumer Discretionary,Bayerische Motoren Werke AG,EUR
+DBK GY Equity,DBK.DE,Financials,Deutsche Bank AG,EUR
+BAS GY Equity,BAS.DE,Materials,BASF SE,EUR
+HEN3 GY Equity,HEN3.DE,Consumer Staples,Henkel AG & Co KGaA,EUR
+SIE GY Equity,SIE.DE,Industrials,Siemens AG,EUR
+VOW3 GY Equity,VOW3.DE,Consumer Discretionary,Volkswagen AG,EUR
+EOAN GY Equity,EOAN.DE,Utilities,E.ON SE,EUR
+HEI GY Equity,HEI.DE,Materials,HeidelbergCement AG,EUR
+MUV2 GY Equity,MUV2.DE,Financials,Munich Re,EUR
+FRE GY Equity,FRE.DE,Health Care,Fresenius SE & Co KGaA,EUR
+SAP GY Equity,SAP.DE,Information Technology,SAP SE,EUR
+MRK GY Equity,MRK.DE,Health Care,Merck KGaA,EUR
+ADS GY Equity,ADS.DE,Consumer Discretionary,adidas AG,EUR
+DTE GY Equity,DTE.DE,Communication Services,Deutsche Telekom AG,EUR
+DPW GY Equity,DPW.DE,Industrials,Deutsche Post AG,EUR
+FME GY Equity,FME.DE,Health Care,Fresenius Medical Care AG & Co KGaA,EUR
+DAI GY Equity,DAI.DE,Consumer Discretionary,Daimler AG,EUR
+IFX GY Equity,IFX.DE,Information Technology,Infineon Technologies AG,EUR
+DB1 GY Equity,DB1.DE,Financials,Deutsche Boerse AG,EUR
+VNA GY Equity,VNA.DE,Real Estate,Vonovia SE,EUR
+CON GY Equity,CON.DE,Consumer Discretionary,Continental AG,EUR
+AZN LN Equity,AZN.L,Health Care,AstraZeneca PLC,GBp
+ULVR LN Equity,ULVR.L,Consumer Staples,Unilever PLC,GBp
+HSBA LN Equity,HSBA.L,Financials,HSBC Holdings PLC,GBp
+DGE LN Equity,DGE.L,Consumer Staples,Diageo PLC,GBp
+GSK LN Equity,GSK.L,Health Care,GlaxoSmithKline PLC,GBp
+RIO LN Equity,RIO.L,Materials,Rio Tinto PLC,GBp
+BP/ LN Equity,BP.L,Energy,BP PLC,GBp
+RDSA LN Equity,RDSA.L,Energy,Royal Dutch Shell PLC,GBp
+BATS LN Equity,BATS.L,Consumer Staples,British American Tobacco PLC,GBp
+RDSB LN Equity,RDSB.L,Energy,Royal Dutch Shell PLC,GBp
+BHP LN Equity,BHP.L,Materials,BHP Group PLC,GBp
+AAL LN Equity,AAL.L,Materials,Anglo American PLC,GBp
+REL LN Equity,REL.L,Industrials,RELX PLC,GBp
+GLEN LN Equity,GLEN.L,Materials,Glencore PLC,GBp
+PRU LN Equity,PRU.L,Financials,Prudential PLC,GBp
+RKT LN Equity,RKT.L,Consumer Staples,Reckitt Benckiser Group PLC,GBp
+NG/ LN Equity,NG.L,Utilities,National Grid PLC,GBp
+VOD LN Equity,VOD.L,Communication Services,Vodafone Group PLC,GBp
+LLOY LN Equity,LLOY.L,Financials,Lloyds Banking Group PLC,GBp
+BARC LN Equity,BARC.L,Financials,Barclays PLC,GBp
+CRH LN Equity,CRH.L,Materials,CRH PLC,GBp
+LSEG LN Equity,LSEG.L,Financials,London Stock Exchange Group PLC,GBp
+EXPN LN Equity,EXPN.L,Industrials,Experian PLC,GBp
+CPG LN Equity,CPG.L,Consumer Discretionary,Compass Group PLC,GBp
+AHT LN Equity,AHT.L,Industrials,Ashtead Group PLC,GBp
+FERG LN Equity,FERG.L,Industrials,Ferguson PLC,GBp
+FLTR LN Equity,FLTR.L,Consumer Discretionary,Flutter Entertainment PLC,GBp
+SMT LN Equity,SMT.L,N/A,Scottish Mortgage Investment Trust PLC,GBp
+BA/ LN Equity,BA.L,Industrials,BAE Systems PLC,GBp
+TSCO LN Equity,TSCO.L,Consumer Staples,Tesco PLC,GBp
+LGEN LN Equity,LGEN.L,Financials,Legal & General Group PLC,GBp
+SSE LN Equity,SSE.L,Utilities,SSE PLC,GBp
+AV/ LN Equity,AV.L,Financials,Aviva PLC,GBp
+BT/A LN Equity,BT-A.L,Communication Services,BT Group PLC,GBp
+SGRO LN Equity,SGRO.L,Real Estate,Segro PLC,GBp
+IMB LN Equity,IMB.L,Consumer Staples,Imperial Brands PLC,GBp
+III LN Equity,III.L,Financials,3i Group PLC,GBp
+SN/ LN Equity,SN.L,Health Care,Smith & Nephew PLC,GBp
+JET LN Equity,JET.L,Consumer Discretionary,Just Eat Takeaway.com NV,GBp
+CRDA LN Equity,CRDA.L,Materials,Croda International PLC,GBp
+STAN LN Equity,STAN.L,Financials,Standard Chartered PLC,GBp
+WPP LN Equity,WPP.L,Communication Services,WPP PLC,GBp
+NWG LN Equity,NWG.L,Financials,Natwest Group PLC,GBp
+ENT LN Equity,ENT.L,Consumer Discretionary,Entain PLC,GBp
+SPX LN Equity,SPX.L,Industrials,Spirax-Sarco Engineering PLC,GBp
+HLMA LN Equity,HLMA.L,Information Technology,Halma PLC,GBp
+SKG LN Equity,SKG.L,Materials,Smurfit Kappa Group PLC,GBp
+RTO LN Equity,RTO.L,Industrials,Rentokil Initial PLC,GBp
+NXT LN Equity,NXT.L,Consumer Discretionary,Next PLC,GBp
+MNDI LN Equity,MNDI.L,Materials,Mondi PLC,GBp
+PSN LN Equity,PSN.L,Consumer Discretionary,Persimmon PLC,GBp
+BNZL LN Equity,BNZL.L,Industrials,Bunzl PLC,GBp
+OCDO LN Equity,OCDO.L,Consumer Discretionary,Ocado Group PLC,GBp
+BRBY LN Equity,BRBY.L,Consumer Discretionary,Burberry Group PLC,GBp
+IHG LN Equity,IHG.L,Consumer Discretionary,InterContinental Hotels Group PLC,GBp
+STJ LN Equity,STJ.L,Financials,St James's Place PLC,GBp
+ITRK LN Equity,ITRK.L,Industrials,Intertek Group PLC,GBp
+RR/ LN Equity,RR.L,Industrials,Rolls-Royce Holdings PLC,GBp
+MRO LN Equity,MRO.L,Industrials,Melrose Industries PLC,GBp
+SGE LN Equity,SGE.L,Information Technology,Sage Group PLC/The,GBp
+INF LN Equity,INF.L,Communication Services,Informa PLC,GBp
+KGF LN Equity,KGF.L,Consumer Discretionary,Kingfisher PLC,GBp
+BDEV LN Equity,BDEV.L,Consumer Discretionary,Barratt Developments PLC,GBp
+UU/ LN Equity,UU.L,Utilities,United Utilities Group PLC,GBp
+ADM LN Equity,ADM.L,Financials,Admiral Group PLC,GBp
+ABF LN Equity,ABF.L,Consumer Staples,Associated British Foods PLC,GBp
+SVT LN Equity,SVT.L,Utilities,Severn Trent PLC,GBp
+IAG LN Equity,IAG.L,Industrials,International Consolidated Airlines Grou,GBp
+WTB LN Equity,WTB.L,Consumer Discretionary,Whitbread PLC,GBp
+ABDN LN Equity,ABDN.L,Financials,Abrdn Plc,GBp
+TW/ LN Equity,TW.L,Consumer Discretionary,Taylor Wimpey PLC,GBp
+HL/ LN Equity,HL.L,Financials,Hargreaves Lansdown PLC,GBp
+MNG LN Equity,MNG.L,Financials,M&G PLC,GBp
+RMV LN Equity,RMV.L,Communication Services,Rightmove PLC,GBp
+AUTO LN Equity,AUTO.L,Communication Services,Auto Trader Group PLC,GBp
+ICP LN Equity,ICP.L,Financials,Intermediate Capital Group PLC,GBp
+DCC LN Equity,DCC.L,Industrials,DCC PLC,GBp
+PSON LN Equity,PSON.L,Communication Services,Pearson PLC,GBp
+SMIN LN Equity,SMIN.L,Industrials,Smiths Group PLC,GBp
+JMAT LN Equity,JMAT.L,Materials,Johnson Matthey PLC,GBp
+BKG LN Equity,BKG.L,Consumer Discretionary,Berkeley Group Holdings PLC,GBp
+SMDS LN Equity,SMDS.L,Materials,DS Smith PLC,GBp
+POLY LN Equity,POLY.L,Materials,Polymetal International PLC,GBp
+ANTO LN Equity,ANTO.L,Materials,Antofagasta PLC,GBp
+CCH LN Equity,CCH.L,Consumer Staples,Coca-Cola HBC AG,GBp
+LAND LN Equity,LAND.L,Real Estate,Land Securities Group PLC,GBp
+BME LN Equity,BME.L,Consumer Discretionary,B&M European Value Retail SA,GBp
+BLND LN Equity,BLND.L,Real Estate,British Land Co PLC/The,GBp
+SBRY LN Equity,SBRY.L,Consumer Staples,J Sainsbury PLC,GBp
+AVV LN Equity,AVV.L,Information Technology,AVEVA Group PLC,GBp
+JD/ LN Equity,JD.L,Consumer Discretionary,JD Sports Fashion PLC,GBp
+RMG LN Equity,RMG.L,Industrials,Royal Mail PLC,GBp
+WEIR LN Equity,WEIR.L,Industrials,Weir Group PLC/The,GBp
+ITV LN Equity,ITV.L,Communication Services,ITV PLC,GBp
+PHNX LN Equity,PHNX.L,Financials,Phoenix Group Holdings PLC,GBp
+SDR LN Equity,SDR.L,Financials,Schroders PLC,GBp
+PSH LN Equity,PSH.L,N/A,Pershing Square Holdings Ltd/Fund,GBp
+HIK LN Equity,HIK.L,Health Care,Hikma Pharmaceuticals PLC,GBp
+EVR LN Equity,EVR.L,Materials,Evraz PLC,GBp
+AVST LN Equity,AVST.L,Information Technology,Avast PLC,GBp
+FRES LN Equity,FRES.L,Materials,Fresnillo PLC,GBp
+MC FP Equity,MC.PA,Consumer Discretionary,LVMH Moet Hennessy Louis Vuitton SE,EUR
+OR FP Equity,OR.PA,Consumer Staples,L'Oreal SA,EUR
+SAN FP Equity,SAN.PA,Health Care,Sanofi,EUR
+TTE FP Equity,TTE.PA,Energy,TotalEnergies SE,EUR
+SU FP Equity,SU.PA,Industrials,Schneider Electric SE,EUR
+AI FP Equity,AI.PA,Materials,Air Liquide SA,EUR
+AIR FP Equity,AIR.PA,Industrials,Airbus SE,EUR
+BNP FP Equity,BNP.PA,Financials,BNP Paribas SA,EUR
+KER FP Equity,KER.PA,Consumer Discretionary,Kering SA,EUR
+EL FP Equity,EL.PA,Consumer Discretionary,EssilorLuxottica SA,EUR
+CS FP Equity,CS.PA,Financials,AXA SA,EUR
+DG FP Equity,DG.PA,Industrials,Vinci SA,EUR
+RMS FP Equity,RMS.PA,Consumer Discretionary,Hermes International,EUR
+BN FP Equity,BN.PA,Consumer Staples,Danone SA,EUR
+RI FP Equity,RI.PA,Consumer Staples,Pernod Ricard SA,EUR
+STLA FP Equity,STLA.PA,Consumer Discretionary,Stellantis NV,EUR
+SAF FP Equity,SAF.PA,Industrials,Safran SA,EUR
+DSY FP Equity,DSY.PA,Information Technology,Dassault Systemes SE,EUR
+SGO FP Equity,SGO.PA,Industrials,Cie de Saint-Gobain,EUR
+CAP FP Equity,CAP.PA,Information Technology,Capgemini SE,EUR
+LR FP Equity,LR.PA,Industrials,Legrand SA,EUR
+ML FP Equity,ML.PA,Consumer Discretionary,Michelin,EUR
+STM FP Equity,STM.PA,Information Technology,STMicroelectronics NV,EUR
+VIV FP Equity,VIV.PA,Communication Services,Vivendi SE,EUR
+GLE FP Equity,GLE.PA,Financials,Societe Generale SA,EUR
+ENGI FP Equity,ENGI.PA,Utilities,Engie SA,EUR
+TEP FP Equity,TEP.PA,Industrials,Teleperformance,EUR
+MT NA Equity,MT.AS,Materials,ArcelorMittal SA,EUR
+WLN FP Equity,WLN.PA,Information Technology,Worldline SA/France,EUR
+ORA FP Equity,ORA.PA,Communication Services,Orange SA,EUR
+VIE FP Equity,VIE.PA,Utilities,Veolia Environnement SA,EUR
+ACA FP Equity,ACA.PA,Financials,Credit Agricole SA,EUR
+PUB FP Equity,PUB.PA,Communication Services,Publicis Groupe SA,EUR
+ALO FP Equity,ALO.PA,Industrials,Alstom SA,EUR
+CA FP Equity,CA.PA,Consumer Staples,Carrefour SA,EUR
+HO FP Equity,HO.PA,Industrials,Thales SA,EUR
+URW NA Equity,URW.AS,Real Estate,Unibail-Rodamco-Westfield,EUR
+EN FP Equity,EN.PA,Industrials,Bouygues SA,EUR
+RNO FP Equity,RNO.PA,Consumer Discretionary,Renault SA,EUR
+ATO FP Equity,ATO.PA,Information Technology,Atos SE,EUR
+ASML NA Equity,ASML.AS,Information Technology,ASML Holding NV,EUR
+UNA NA Equity,UNA.AS,Consumer Staples,Unilever PLC,EUR
+RDSA NA Equity,RDSA.AS,Energy,Royal Dutch Shell PLC,EUR
+ADYEN NA Equity,ADYEN.AS,Information Technology,Adyen NV,EUR
+REN NA Equity,REN.AS,Industrials,RELX PLC,EUR
+INGA NA Equity,INGA.AS,Financials,ING Groep NV,EUR
+PHIA NA Equity,PHIA.AS,Health Care,Koninklijke Philips NV,EUR
+DSM NA Equity,DSM.AS,Materials,Koninklijke DSM NV,EUR
+PRX NA Equity,PRX.AS,Consumer Discretionary,Prosus NV,EUR
+AD NA Equity,AD.AS,Consumer Staples,Koninklijke Ahold Delhaize NV,EUR
+WKL NA Equity,WKL.AS,Industrials,Wolters Kluwer NV,EUR
+HEIA NA Equity,HEIA.AS,Consumer Staples,Heineken NV,EUR
+MT NA Equity,MT.AS,Materials,ArcelorMittal SA,EUR
+AKZA NA Equity,AKZA.AS,Materials,Akzo Nobel NV,EUR
+ASM NA Equity,ASM.AS,Information Technology,ASM International NV,EUR
+NN NA Equity,NN.AS,Financials,NN Group NV,EUR
+TKWY NA Equity,TKWY.AS,Consumer Discretionary,Just Eat Takeaway.com NV,EUR
+KPN NA Equity,KPN.AS,Communication Services,Koninklijke KPN NV,EUR
+URW NA Equity,URW.AS,Real Estate,Unibail-Rodamco-Westfield,EUR
+IMCD NA Equity,IMCD.AS,Industrials,IMCD NV,EUR
+RAND NA Equity,RAND.AS,Industrials,Randstad NV,EUR
+AGN NA Equity,AGN.AS,Financials,Aegon NV,EUR
+LIGHT NA Equity,LIGHT.AS,Industrials,Signify NV,EUR
+BESI NA Equity,BESI.AS,Information Technology,BE Semiconductor Industries NV,EUR
+ASRNL NA Equity,ASRNL.AS,Financials,ASR Nederland NV,EUR
+IBE SM Equity,IBE.MC,Utilities,Iberdrola SA,EUR
+SAN SM Equity,SAN.MC,Financials,Banco Santander SA,EUR
+ITX SM Equity,ITX.MC,Consumer Discretionary,Industria de Diseno Textil SA,EUR
+CLNX SM Equity,CLNX.MC,Communication Services,Cellnex Telecom SA,EUR
+BBVA SM Equity,BBVA.MC,Financials,Banco Bilbao Vizcaya Argentaria SA,EUR
+AMS SM Equity,AMS.MC,Information Technology,Amadeus IT Group SA,EUR
+TEF SM Equity,TEF.MC,Communication Services,Telefonica SA,EUR
+CABK SM Equity,CABK.MC,Financials,CaixaBank SA,EUR
+FER SM Equity,FER.MC,Industrials,Ferrovial SA,EUR
+AENA SM Equity,AENA.MC,Industrials,Aena SME SA,EUR
+REP SM Equity,REP.MC,Energy,Repsol SA,EUR
+IAG SM Equity,IAG.MC,Industrials,International Consolidated Airlines Grou,EUR
+REE SM Equity,REE.MC,Utilities,Red Electrica Corp SA,EUR
+GRF SM Equity,GRF.MC,Health Care,Grifols SA,EUR
+ELE SM Equity,ELE.MC,Utilities,Endesa SA,EUR
+NTGY SM Equity,NTGY.MC,Utilities,Naturgy Energy Group SA,EUR
+ACS SM Equity,ACS.MC,Industrials,ACS Actividades de Construccion y Servic,EUR
+SGRE SM Equity,SGRE.MC,Industrials,Siemens Gamesa Renewable Energy SA,EUR
+MTS SM Equity,MTS.MC,Materials,ArcelorMittal SA,EUR
+ANA SM Equity,ANA.MC,Utilities,Acciona SA,EUR
+FDR SM Equity,FDR.MC,Industrials,Fluidra SA,EUR
+ENG SM Equity,ENG.MC,Utilities,Enagas SA,EUR
+MRL SM Equity,MRL.MC,Real Estate,Merlin Properties Socimi SA,EUR
+BKT SM Equity,BKT.MC,Financials,Bankinter SA,EUR
+SAB SM Equity,SAB.MC,Financials,Banco de Sabadell SA,EUR
+MAP SM Equity,MAP.MC,Financials,Mapfre SA,EUR
+ACX SM Equity,ACX.MC,Materials,Acerinox SA,EUR
+COL SM Equity,COL.MC,Real Estate,Inmobiliaria Colonial Socimi SA,EUR
+VIS SM Equity,VIS.MC,Consumer Staples,Viscofan SA,EUR
+CIE SM Equity,CIE.MC,Consumer Discretionary,CIE Automotive SA,EUR
+SLR SM Equity,SLR.MC,Utilities,Solaria Energia y Medio Ambiente SA,EUR
+ALM SM Equity,ALM.MC,Health Care,Almirall SA,EUR
+IDR SM Equity,IDR.MC,Information Technology,Indra Sistemas SA,EUR
+PHM SM Equity,PHM.MC,Health Care,Pharma Mar SA,EUR
+MEL SM Equity,MEL.MC,Consumer Discretionary,Melia Hotels International SA,EUR
+GETIB SS Equity,GETI-B.ST,Health Care,Getinge AB,SEK
+ATCOA SS Equity,ATCO-A.ST,Industrials,Atlas Copco AB,SEK
+VOLVB SS Equity,VOLV-B.ST,Industrials,Volvo AB,SEK
+TEL2B SS Equity,TEL2-B.ST,Communication Services,Tele2 AB,SEK
+SINCH SS Equity,SINCH.ST,Information Technology,Sinch AB,SEK
+ELUXB SS Equity,ELUX-B.ST,Consumer Discretionary,Electrolux AB,SEK
+TELIA SS Equity,TELIA.ST,Communication Services,Telia Co AB,SEK
+HMB SS Equity,HM-B.ST,Consumer Discretionary,H & M Hennes & Mauritz AB,SEK
+SKAB SS Equity,SKA-B.ST,Industrials,Skanska AB,SEK
+ALFA SS Equity,ALFA.ST,Industrials,Alfa Laval AB,SEK
+ERICB SS Equity,ERIC-B.ST,Information Technology,Telefonaktiebolaget LM Ericsson,SEK
+EVO SS Equity,EVO.ST,Consumer Discretionary,Evolution AB,SEK
+SKFB SS Equity,SKF-B.ST,Industrials,SKF AB,SEK
+SAND SS Equity,SAND.ST,Industrials,Sandvik AB,SEK
+AZN SS Equity,AZN.ST,Health Care,AstraZeneca PLC,SEK
+INVEB SS Equity,INVE-B.ST,Financials,Investor AB,SEK
+ABB SS Equity,ABB.ST,Industrials,ABB Ltd,SEK
+SWMA SS Equity,SWMA.ST,Consumer Staples,Swedish Match AB,SEK
+SEBA SS Equity,SEB-A.ST,Financials,Skandinaviska Enskilda Banken AB,SEK
+SHBA SS Equity,SHB-A.ST,Financials,Svenska Handelsbanken AB,SEK
+SCAB SS Equity,SCA-B.ST,Materials,Svenska Cellulosa AB SCA,SEK
+ESSITYB SS Equity,ESSITY-B.ST,Consumer Staples,Essity AB,SEK
+ASSAB SS Equity,ASSA-B.ST,Industrials,Assa Abloy AB,SEK
+ALIV SS Equity,ALIV-SDB.ST,Consumer Discretionary,Autoliv Inc,SEK
+HEXAB SS Equity,HEXA-B.ST,Information Technology,Hexagon AB,SEK
+SWEDA SS Equity,SWED-A.ST,Financials,Swedbank AB,SEK
+ATCOB SS Equity,ATCO-B.ST,Industrials,Atlas Copco AB,SEK
+KINVB SS Equity,KINV-B.ST,Financials,Kinnevik AB,SEK
+BOL SS Equity,BOL.ST,Materials,Boliden AB,SEK
+NDA SS Equity,NDA-SE.ST,Financials,Nordea Bank Abp,SEK
+NETC DC Equity,NETC.CO,Information Technology,Netcompany Group A/S,DKK
+CARLB DC Equity,CARL-B.CO,Consumer Staples,Carlsberg AS,DKK
+COLOB DC Equity,COLO-B.CO,Health Care,Coloplast A/S,DKK
+ORSTED DC Equity,ORSTED.CO,Utilities,Orsted AS,DKK
+GN DC Equity,GN.CO,Health Care,GN Store Nord AS,DKK
+AMBUB DC Equity,AMBU-B.CO,Health Care,Ambu A/S,DKK
+CHR DC Equity,CHR.CO,Materials,Chr Hansen Holding A/S,DKK
+DEMANT DC Equity,DEMANT.CO,Health Care,Demant A/S,DKK
+ISS DC Equity,ISS.CO,Industrials,ISS A/S,DKK
+DSV DC Equity,DSV.CO,Industrials,DSV PANALPINA A/S,DKK
+NZYMB DC Equity,NZYM-B.CO,Materials,Novozymes A/S,DKK
+NOVOB DC Equity,NOVO-B.CO,Health Care,Novo Nordisk A/S,DKK
+RBREW DC Equity,RBREW.CO,Consumer Staples,Royal Unibrew A/S,DKK
+FLS DC Equity,FLS.CO,Industrials,FLSmidth & Co A/S,DKK
+LUN DC Equity,LUN.CO,Health Care,H Lundbeck A/S,DKK
+TRYG DC Equity,TRYG.CO,Financials,Tryg A/S,DKK
+PNDORA DC Equity,PNDORA.CO,Consumer Discretionary,Pandora A/S,DKK
+BAVA DC Equity,BAVA.CO,Health Care,Bavarian Nordic A/S,DKK
+MAERSKA DC Equity,MAERSK-A.CO,Industrials,AP Moller - Maersk A/S,DKK
+GMAB DC Equity,GMAB.CO,Health Care,Genmab A/S,DKK
+DANSKE DC Equity,DANSKE.CO,Financials,Danske Bank A/S,DKK
+SIM DC Equity,SIM.CO,Information Technology,SimCorp A/S,DKK
+ROCKB DC Equity,ROCK-B.CO,Industrials,ROCKWOOL International A/S,DKK
+VWS DC Equity,VWS.CO,Industrials,Vestas Wind Systems A/S,DKK
+MAERSKB DC Equity,MAERSK-B.CO,Industrials,AP Moller - Maersk A/S,DKK
+SCATC NO Equity,SCATC.OL,Utilities,Scatec ASA,NOK
+ENTRA NO Equity,ENTRA.OL,Real Estate,Entra ASA,NOK
+MOWI NO Equity,MOWI.OL,Consumer Staples,Mowi ASA,NOK
+GJF NO Equity,GJF.OL,Financials,Gjensidige Forsikring ASA,NOK
+NEL NO Equity,NEL.OL,Industrials,NEL ASA,NOK
+NOD NO Equity,NOD.OL,Information Technology,Nordic Semiconductor ASA,NOK
+AKER NO Equity,AKER.OL,Financials,Aker ASA,NOK
+DNB NO Equity,DNB.OL,Financials,DNB Bank ASA,NOK
+AKSO NO Equity,AKSO.OL,Energy,Aker Solutions ASA,NOK
+EQNR NO Equity,EQNR.OL,Energy,Equinor ASA,NOK
+TEL NO Equity,TEL.OL,Communication Services,Telenor ASA,NOK
+YAR NO Equity,YAR.OL,Materials,Yara International ASA,NOK
+SCHA NO Equity,SCHA.OL,Communication Services,Schibsted ASA,NOK
+TOM NO Equity,TOM.OL,Industrials,TOMRA Systems ASA,NOK
+LSG NO Equity,LSG.OL,Consumer Staples,Leroy Seafood Group ASA,NOK
+AKRBP NO Equity,AKRBP.OL,Energy,Aker BP ASA,NOK
+RECSI NO Equity,RECSI.OL,Information Technology,REC Silicon ASA,NOK
+STB NO Equity,STB.OL,Financials,Storebrand ASA,NOK
+ADE NO Equity,ADE.OL,Communication Services,Adevinta ASA,NOK
+BAKKA NO Equity,BAKKA.OL,Consumer Staples,Bakkafrost P/F,NOK
+SALM NO Equity,SALM.OL,Consumer Staples,Salmar ASA,NOK
+NHY NO Equity,NHY.OL,Materials,Norsk Hydro ASA,NOK
+ORK NO Equity,ORK.OL,Consumer Staples,Orkla ASA,NOK
+SUBC NO Equity,SUBC.OL,Energy,Subsea 7 SA,NOK
+TGS NO Equity,TGS.OL,Energy,TGS ASA,NOK
+PKO PW Equity,PKO.WA,Financials,Powszechna Kasa Oszczednosci Bank Polski,PLN
+KGH PW Equity,KGH.WA,Materials,KGHM Polska Miedz SA,PLN
+ALE PW Equity,ALE.WA,Consumer Discretionary,Allegro.eu SA,PLN
+PZU PW Equity,PZU.WA,Financials,Powszechny Zaklad Ubezpieczen SA,PLN
+PKN PW Equity,PKN.WA,Energy,Polski Koncern Naftowy ORLEN SA,PLN
+PEO PW Equity,PEO.WA,Financials,Bank Polska Kasa Opieki SA,PLN
+LPP PW Equity,LPP.WA,Consumer Discretionary,LPP SA,PLN
+DNP PW Equity,DNP.WA,Consumer Staples,Dino Polska SA,PLN
+CDR PW Equity,CDR.WA,Communication Services,CD Projekt SA,PLN
+PGN PW Equity,PGN.WA,Energy,Polskie Gornictwo Naftowe i Gazownictwo,PLN
+CPS PW Equity,CPS.WA,Communication Services,Cyfrowy Polsat SA,PLN
+SPL PW Equity,SPL.WA,Financials,Santander Bank Polska SA,PLN
+PGE PW Equity,PGE.WA,Utilities,PGE Polska Grupa Energetyczna SA,PLN
+OPL PW Equity,OPL.WA,Communication Services,Orange Polska SA,PLN
+CCC PW Equity,CCC.WA,Consumer Discretionary,CCC SA,PLN
+ACP PW Equity,ACP.WA,Information Technology,Asseco Poland SA,PLN
+LTS PW Equity,LTS.WA,Energy,Grupa Lotos SA,PLN
+TPE PW Equity,TPE.WA,Utilities,Tauron Polska Energia SA,PLN
+JSW PW Equity,JSW.WA,Materials,Jastrzebska Spolka Weglowa SA,PLN
+MRC PW Equity,MRC.WA,Health Care,Mercator Medical SA,PLN
+KBC BB Equity,KBC.BR,Financials,KBC Group NV,EUR
+ABI BB Equity,ABI.BR,Consumer Staples,Anheuser-Busch InBev SA/NV,EUR
+ARGX BB Equity,ARGX.BR,Health Care,Argenx SE,EUR
+UCB BB Equity,UCB.BR,Health Care,UCB SA,EUR
+UMI BB Equity,UMI.BR,Materials,Umicore SA,EUR
+GBLB BB Equity,GBLB.BR,Financials,Groupe Bruxelles Lambert SA,EUR
+AGS BB Equity,AGS.BR,Financials,Ageas SA/NV,EUR
+SOLB BB Equity,SOLB.BR,Materials,Solvay SA,EUR
+SOF BB Equity,SOF.BR,Financials,Sofina SA,EUR
+WDP BB Equity,WDP.BR,Real Estate,Warehouses De Pauw CVA,EUR
+AED BB Equity,AED.BR,Real Estate,Aedifica SA,EUR
+COFB BB Equity,COFB.BR,Real Estate,Cofinimmo SA,EUR
+ELI BB Equity,ELI.BR,Utilities,Elia Group SA/NV,EUR
+ACKB BB Equity,ACKB.BR,Financials,Ackermans & van Haaren NV,EUR
+PROX BB Equity,PROX.BR,Communication Services,Proximus SADP,EUR
+COLR BB Equity,COLR.BR,Consumer Staples,Etablissements Franz Colruyt NV,EUR
+APAM NA Equity,APAM.AS,Materials,APERAM SA,EUR
+GLPG NA Equity,GLPG.AS,Health Care,Galapagos NV,EUR
+MELE BB Equity,MELE.BR,Information Technology,Melexis NV,EUR
+TNET BB Equity,TNET.BR,Communication Services,Telenet Group Holding NV,EUR
+JMT PL Equity,JMT.LS,Consumer Staples,Jeronimo Martins SGPS SA,EUR
+EDPR PL Equity,EDPR.LS,Utilities,EDP Renovaveis SA,EUR
+EDP PL Equity,EDP.LS,Utilities,EDP - Energias de Portugal SA,EUR
+GALP PL Equity,GALP.LS,Energy,Galp Energia SGPS SA,EUR
+BCP PL Equity,BCP.LS,Financials,Banco Comercial Portugues SA,EUR
+RENE PL Equity,RENE.LS,Utilities,REN - Redes Energeticas Nacionais SGPS S,EUR
+SON PL Equity,SON.LS,Consumer Staples,Sonae SGPS SA,EUR
+NOS PL Equity,NOS.LS,Communication Services,NOS SGPS SA,EUR
+NVG PL Equity,NVG.LS,Materials,Navigator Co SA/The,EUR
+CTT PL Equity,CTT.LS,Industrials,CTT-Correios de Portugal SA,EUR
+COR PL Equity,COR.LS,Materials,Corticeira Amorim SGPS SA,EUR
+ALTR PL Equity,ALTR.LS,Materials,Altri SGPS SA,EUR
+SEM PL Equity,SEM.LS,Materials,Semapa-Sociedade de Investimento e Gesta,EUR
+EGL PL Equity,EGL.LS,Industrials,Mota-Engil SGPS SA,EUR
+IBS PL Equity,IBS.LS,Consumer Discretionary,Ibersol SGPS SA,EUR
+PHR PL Equity,PHR.LS,Communication Services,Pharol SGPS SA,EUR
+NBA PL Equity,NBA.LS,Information Technology,Novabase SGPS SA,EUR
+RAM PL Equity,RAM.LS,Materials,Ramada Investimentos E Industria SA,EUR
+MRW LN Equity,MRW.L,Consumer Staples,Wm Morrison Supermarkets PLC,GBp
+MGGT LN Equity,MGGT.L,Industrials,Meggitt PLC,GBp
+HWDN LN Equity,HWDN.L,Industrials,Howden Joinery Group PLC,GBp
+DPH LN Equity,DPH.L,Health Care,Dechra Pharmaceuticals PLC,GBp
+ECM LN Equity,ECM.L,Industrials,Electrocomponents PLC,GBp
+FCIT LN Equity,FCIT.L,N/A,F&C Investment Trust PLC,GBp
+IMI LN Equity,IMI.L,Industrials,IMI PLC,GBp
+SXS LN Equity,SXS.L,Information Technology,Spectris PLC,GBp
+DLG LN Equity,DLG.L,Financials,Direct Line Insurance Group PLC,GBp
+BWY LN Equity,BWY.L,Consumer Discretionary,Bellway PLC,GBp
+FUTR LN Equity,FUTR.L,Communication Services,Future PLC,GBp
+WIZZ LN Equity,WIZZ.L,Industrials,Wizz Air Holdings Plc,GBp
+TPK LN Equity,TPK.L,Industrials,Travis Perkins PLC,GBp
+UTG LN Equity,UTG.L,Real Estate,UNITE Group PLC/The,GBp
+GAW LN Equity,GAW.L,Consumer Discretionary,Games Workshop Group PLC,GBp
+DLN LN Equity,DLN.L,Real Estate,Derwent London PLC,GBp
+BBOX LN Equity,BBOX.L,Real Estate,Tritax Big Box REIT PLC,GBp
+GNS LN Equity,GNS.L,Health Care,Genus PLC,GBp
+CTEC LN Equity,CTEC.L,Health Care,ConvaTec Group PLC,GBp
+DPLM LN Equity,DPLM.L,Industrials,Diploma PLC,GBp
+PNN LN Equity,PNN.L,Utilities,Pennon Group PLC,GBp
+INCH LN Equity,INCH.L,Consumer Discretionary,Inchcape PLC,GBp
+TATE LN Equity,TATE.L,Consumer Staples,Tate & Lyle PLC,GBp
+RCP LN Equity,RCP.L,N/A,RIT Capital Partners PLC/Fund,GBp
+PCT LN Equity,PCT.L,N/A,Polar Capital Technology Trust PLC,GBp
+HICL LN Equity,HICL.L,N/A,Hicl Infrastructure PLC,GBp
+MNKS LN Equity,MNKS.L,N/A,Monks Investment Trust PLC/The,GBp
+IGG LN Equity,IGG.L,Financials,IG Group Holdings PLC,GBp
+ATST LN Equity,ATST.L,N/A,Alliance Trust PLC,GBp
+HSX LN Equity,HSX.L,Financials,Hiscox Ltd,GBp
+EMG LN Equity,EMG.L,Financials,Man Group PLC/Jersey,GBp
+GFTU LN Equity,GFTU.L,Industrials,Grafton Group PLC,GBp
+ROR LN Equity,ROR.L,Industrials,Rotork PLC,GBp
+CNA LN Equity,CNA.L,Utilities,Centrica PLC,GBp
+GRG LN Equity,GRG.L,Consumer Discretionary,Greggs PLC,GBp
+SSON LN Equity,SSON.L,N/A,Smithson Investment Trust PLC,GBp
+EZJ LN Equity,EZJ.L,Industrials,easyJet PLC,GBp
+QLT LN Equity,QLT.L,Financials,Quilter PLC,GBp
+TRIG LN Equity,TRIG.L,Utilities,Renewables Infrastructure Group Ltd/The,GBp
+CSP LN Equity,CSP.L,Consumer Discretionary,Countryside Properties PLC,GBp
+MKS LN Equity,MKS.L,Consumer Discretionary,Marks & Spencer Group PLC,GBp
+INPP LN Equity,INPP.L,N/A,International Public Partnerships Ltd,GBp
+UKW LN Equity,UKW.L,Utilities,Greencoat UK Wind PLC/Funds,GBp
+VTY LN Equity,VTY.L,Consumer Discretionary,Vistry Group PLC,GBp
+BVIC LN Equity,BVIC.L,Consumer Staples,Britvic PLC,GBp
+HSV LN Equity,HSV.L,Industrials,HomeServe PLC,GBp
+VMUK LN Equity,VMUK.L,Financials,Virgin Money UK PLC,GBp
+SCT LN Equity,SCT.L,Information Technology,Softcat PLC,GBp
+BEZ LN Equity,BEZ.L,Financials,Beazley PLC,GBp
+TUI LN Equity,TUI.L,Consumer Discretionary,TUI AG,GBp
+BYG LN Equity,BYG.L,Real Estate,Big Yellow Group PLC,GBp
+WWH LN Equity,WWH.L,N/A,Worldwide Healthcare Trust PLC/Fund,GBp
+CBG LN Equity,CBG.L,Financials,Close Brothers Group PLC,GBp
+HAS LN Equity,HAS.L,Industrials,Hays PLC,GBp
+WOSG LN Equity,WOSG.L,Consumer Discretionary,Watches of Switzerland Group PLC,GBp
+IWG LN Equity,IWG.L,Real Estate,IWG PLC,GBp
+MRC LN Equity,MRC.L,N/A,Mercantile Investment Trust PLC,GBp
+LMP LN Equity,LMP.L,Real Estate,LondonMetric Property PLC,GBp
+SAFE LN Equity,SAFE.L,Real Estate,Safestore Holdings PLC,GBp
+PETS LN Equity,PETS.L,Consumer Discretionary,Pets at Home Group Plc,GBp
+TEM LN Equity,TEM.L,N/A,Templeton Emerging Markets Investment Tr,GBp
+PHP LN Equity,PHP.L,Real Estate,Primary Health Properties PLC,GBp
+VCT LN Equity,VCT.L,Materials,Victrex PLC,GBp
+ULE LN Equity,ULE.L,Industrials,Ultra Electronics Holdings PLC,GBp
+CWK LN Equity,CWK.L,Consumer Staples,Cranswick PLC,GBp
+AGK LN Equity,AGK.L,Industrials,Aggreko PLC,GBp
+SMWH LN Equity,SMWH.L,Consumer Discretionary,WH Smith PLC,GBp
+AGR LN Equity,AGR.L,Real Estate,Assura PLC,GBp
+FGT LN Equity,FGT.L,N/A,Finsbury Growth & Income Trust PLC/Fund,GBp
+BBY LN Equity,BBY.L,Industrials,Balfour Beatty PLC,GBp
+GRI LN Equity,GRI.L,Real Estate,Grainger PLC,GBp
+CCL LN Equity,CCL.L,Consumer Discretionary,Carnival PLC,GBp
+SEQI LN Equity,SEQI.L,N/A,Sequoia Economic Infrastructure Income F,GBp
+GPOR LN Equity,GPOR.L,Real Estate,Great Portland Estates PLC,GBp
+JLG LN Equity,JLG.L,Industrials,John Laing Group PLC,GBp
+DOM LN Equity,DOM.L,Consumer Discretionary,Domino's Pizza Group PLC,GBp
+CCC LN Equity,CCC.L,Information Technology,Computacenter PLC,GBp
+PAGE LN Equity,PAGE.L,Industrials,Pagegroup PLC,GBp
+SSPG LN Equity,SSPG.L,Consumer Discretionary,SSP Group Plc,GBp
+WTAN LN Equity,WTAN.L,N/A,Witan Investment Trust PLC,GBp
+QQ/ LN Equity,QQ.L,Industrials,QinetiQ Group PLC,GBp
+INVP LN Equity,INVP.L,Financials,Investec PLC,GBp
+HVPE LN Equity,HVPE.L,N/A,HarbourVest Global Private Equity Ltd,GBp
+3IN LN Equity,3IN.L,N/A,3i Infrastructure PLC,GBp
+OSB LN Equity,OSB.L,Financials,OSB Group PLC,GBp
+ASHM LN Equity,ASHM.L,Financials,Ashmore Group PLC,GBp
+RSW LN Equity,RSW.L,Information Technology,Renishaw PLC,GBp
+SHB LN Equity,SHB.L,Real Estate,Shaftesbury PLC,GBp
+SYNT LN Equity,SYNT.L,Materials,Synthomer PLC,GBp
+CTY LN Equity,CTY.L,N/A,City of London Investment Trust PLC/The,GBp
+BOY LN Equity,BOY.L,Industrials,Bodycote PLC,GBp
+SRP LN Equity,SRP.L,Industrials,Serco Group PLC,GBp
+ASCL LN Equity,ASCL.L,Communication Services,Ascential PLC,GBp
+DOCS LN Equity,DOCS.L,Consumer Discretionary,Dr. Martens Plc,GBp
+TRN LN Equity,TRN.L,Consumer Discretionary,Trainline PLC,GBp
+NETW LN Equity,NETW.L,Information Technology,Network International Holdings PLC,GBp
+DRX LN Equity,DRX.L,Utilities,Drax Group PLC,GBp
+LRE LN Equity,LRE.L,Financials,Lancashire Holdings Ltd,GBp
+TCAP LN Equity,TCAP.L,Financials,TP ICAP Group PLC,GBp
+SVS LN Equity,SVS.L,Real Estate,Savills PLC,GBp
+SPT LN Equity,SPT.L,Information Technology,Spirent Communications PLC,GBp
+HGT LN Equity,HGT.L,N/A,HgCapital Trust PLC/Fund,GBp
+JMG LN Equity,JMG.L,N/A,JPMorgan Emerging Markets Investment Tru,GBp
+TRY LN Equity,TRY.L,N/A,TR Property Investment Trust PLC - Ordin,GBp
+HRI LN Equity,HRI.L,N/A,Herald Investment Trust PLC,GBp
+BNKR LN Equity,BNKR.L,N/A,Bankers Investment Trust PLC/The,GBp
+WG/ LN Equity,WG.L,Energy,John Wood Group PLC,GBp
+HMSO LN Equity,HMSO.L,Real Estate,Hammerson PLC,GBp
+GYS LN Equity,GYS.L,Consumer Discretionary,Gamesys Group PLC,GBp
+RDW LN Equity,RDW.L,Consumer Discretionary,Redrow PLC,GBp
+PNL LN Equity,PNL.L,N/A,Personal Assets Trust PLC/Fund,GBp
+GEN LN Equity,GEN.L,Industrials,Genuit Group PLC,GBp
+MSLH LN Equity,MSLH.L,Materials,Marshalls PLC,GBp
+IHP LN Equity,IHP.L,Financials,IntegraFin Holdings PLC,GBp
+DNLM LN Equity,DNLM.L,Consumer Discretionary,Dunelm Group PLC,GBp
+NEX LN Equity,NEX.L,Industrials,National Express Group PLC,GBp
+PIN LN Equity,PIN.L,N/A,Pantheon International PLC/The Fund,GBp
+BAB LN Equity,BAB.L,Industrials,Babcock International Group PLC,GBp
+CHRY LN Equity,CHRY.L,N/A,Chrysalis Investments Ltd,GBp
+MYI LN Equity,MYI.L,N/A,Murray International Trust PLC,GBp
+PAG LN Equity,PAG.L,Financials,Paragon Banking Group PLC,GBp
+ASL LN Equity,ASL.L,N/A,Aberforth Smaller Companies Trust PLC,GBp
+PLUS LN Equity,PLUS.L,Financials,Plus500 Ltd,GBp
+SNN LN Equity,SNN.L,Financials,Sanne Group PLC,GBp
+IEM LN Equity,IEM.L,N/A,Impax Environmental Markets PLC,GBp
+AML LN Equity,AML.L,Consumer Discretionary,Aston Martin Lagonda Global Holdings PLC,GBp
+DC/ LN Equity,DC.L,Consumer Discretionary,Dixons Carphone PLC,GBp
+OXIG LN Equity,OXIG.L,Information Technology,Oxford Instruments PLC,GBp
+MCRO LN Equity,MCRO.L,Information Technology,Micro Focus International PLC,GBp
+VEIL LN Equity,VEIL.L,N/A,Vietnam Enterprise Investments Ltd,GBp
+MONY LN Equity,MONY.L,Consumer Discretionary,Moneysupermarket.com Group PLC,GBp
+SONG LN Equity,SONG.L,N/A,Hipgnosis Songs Fund Ltd/The Fund,GBp
+JAM LN Equity,JAM.L,N/A,JPMorgan American Investment Trust PLC/F,GBp
+FEV LN Equity,FEV.L,N/A,Fidelity European Trust PLC,GBp
+CAPC LN Equity,CAPC.L,Real Estate,Capital & Counties Properties PLC,GBp
+EWI LN Equity,EWI.L,N/A,Edinburgh Worldwide Investment Trust PLC,GBp
+HILS LN Equity,HILS.L,Materials,Hill & Smith Holdings PLC,GBp
+ATT LN Equity,ATT.L,N/A,Allianz Technology Trust PLC,GBp
+FXPO LN Equity,FXPO.L,Materials,Ferrexpo PLC,GBp
+LIO LN Equity,LIO.L,Financials,Liontrust Asset Management PLC,GBp
+IPO LN Equity,IPO.L,Financials,IP Group PLC,GBp
+AJB LN Equity,AJB.L,Financials,AJ Bell PLC,GBp
+FCSS LN Equity,FCSS.L,N/A,Fidelity China Special Situations PLC,GBp
+WKP LN Equity,WKP.L,Real Estate,Workspace Group PLC,GBp
+JUP LN Equity,JUP.L,Financials,Jupiter Fund Management PLC,GBp
+INDV LN Equity,INDV.L,Health Care,Indivior PLC,GBp
+VSVS LN Equity,VSVS.L,Industrials,Vesuvius PLC,GBp
+SRE LN Equity,SRE.L,Real Estate,Sirius Real Estate Ltd,GBp
+BBGI LN Equity,BBGI.L,N/A,BBGI Global Infrastructure S.A.,GBp
+PTEC LN Equity,PTEC.L,Consumer Discretionary,Playtech Plc,GBp
+MGAM LN Equity,MGAM.L,Industrials,Morgan Advanced Materials PLC,GBp
+RAT LN Equity,RAT.L,Financials,Rathbone Brothers PLC,GBp
+RCH LN Equity,RCH.L,Communication Services,Reach PLC,GBp
+RHIM LN Equity,RHIM.L,Materials,RHI Magnesita NV,GBp
+ERM LN Equity,ERM.L,Communication Services,Euromoney Institutional Investor PLC,GBp
+FGP LN Equity,FGP.L,Industrials,Firstgroup PLC,GBp
+BRWM LN Equity,BRWM.L,N/A,BlackRock World Mining Trust PLC,GBp
+CEY LN Equity,CEY.L,Materials,Centamin PLC,GBp
+FRAS LN Equity,FRAS.L,Consumer Discretionary,Frasers Group PLC,GBp
+BRW LN Equity,BRW.L,Financials,Brewin Dolphin Holdings PLC,GBp
+MUT LN Equity,MUT.L,N/A,Murray Income Trust PLC,GBp
+MDC LN Equity,MDC.L,Health Care,Mediclinic International PLC,GBp
+CLDN LN Equity,CLDN.L,N/A,Caledonia Investments PLC,GBp
+GSS LN Equity,GSS.L,N/A,Genesis Emerging Markets Fund Ltd,GBp
+USA LN Equity,USA.L,N/A,Baillie Gifford US Growth Trust PLC,GBp
+REDD LN Equity,REDD.L,Industrials,Redde Northgate PLC,GBp
+JUST LN Equity,JUST.L,Financials,Just Group PLC,GBp
+888 LN Equity,888.L,Consumer Discretionary,888 Holdings PLC,GBp
+COA LN Equity,COA.L,Consumer Discretionary,Coats Group PLC,GBp
+EDIN LN Equity,EDIN.L,N/A,Edinburgh Investment Trust PLC/The,GBp
+BBH LN Equity,BBH.L,N/A,BB Healthcare Trust Plc,GBp
+FDM LN Equity,FDM.L,Information Technology,FDM Group Holdings PLC,GBp
+HTWS LN Equity,HTWS.L,Communication Services,Helios Towers PLC,GBp
+CRST LN Equity,CRST.L,Consumer Discretionary,Crest Nicholson Holdings plc,GBp
+SYNC LN Equity,SYNC.L,N/A,Syncona Limited,GBp
+AGT LN Equity,AGT.L,N/A,Avi Global Trust PLC,GBp
+BRSC LN Equity,BRSC.L,N/A,BlackRock Smaller Cos Trust PLC,GBp
+JFJ LN Equity,JFJ.L,N/A,JPMorgan Japanese Investment Trust PLC/F,GBp
+SDP LN Equity,SDP.L,N/A,Schroder AsiaPacific Fund PLC,GBp
+KNOS LN Equity,KNOS.L,Information Technology,Kainos Group PLC,GBp
+HSL LN Equity,HSL.L,N/A,Henderson Smaller Companies Investment T,GBp
+JDW LN Equity,JDW.L,Consumer Discretionary,J D Wetherspoon PLC,GBp
+VEC LN Equity,VEC.L,Health Care,Vectura Group PLC,GBp
+BYIT LN Equity,BYIT.L,Information Technology,Bytes Technology Group PLC,GBp
+DIGS LN Equity,DIGS.L,Real Estate,GCP Student Living PLC,GBp
+BGSC LN Equity,BGSC.L,N/A,BMO Global Smaller Companies PLC/Fund,GBp
+MGNS LN Equity,MGNS.L,Industrials,Morgan Sindall Group PLC,GBp
+BGFD LN Equity,BGFD.L,N/A,Baillie Gifford Japan Trust PLC/The,GBp
+LWDB LN Equity,LWDB.L,Financials,Law Debenture Corp PLC/fund,GBp
+GCP LN Equity,GCP.L,N/A,GCP Infrastructure Investments Ltd,GBp
+AAF LN Equity,AAF.L,Communication Services,Airtel Africa PLC,GBp
+FAN LN Equity,FAN.L,Industrials,Volution Group PLC,GBp
+CCR LN Equity,CCR.L,Consumer Staples,C&C Group PLC,GBp
+LXI LN Equity,LXI.L,Real Estate,LXI REIT Plc,GBp
+TIFS LN Equity,TIFS.L,Consumer Discretionary,TI Fluid Systems PLC,GBp
+CHG LN Equity,CHG.L,Industrials,Chemring Group PLC,GBp
+SAIN LN Equity,SAIN.L,N/A,Scottish American Investment Co PLC/The,GBp
+IBST LN Equity,IBST.L,Materials,Ibstock PLC,GBp
+RTN LN Equity,RTN.L,Consumer Discretionary,Restaurant Group PLC/The,GBp
+MTO LN Equity,MTO.L,Industrials,Mitie Group PLC,GBp
+ELM LN Equity,ELM.L,Materials,Elementis PLC,GBp
+ESNT LN Equity,ESNT.L,Materials,Essentra PLC,GBp
+JEO LN Equity,JEO.L,N/A,European Opportunities Trust PLC,GBp
+TYMN LN Equity,TYMN.L,Industrials,Tyman PLC,GBp
+JEDT LN Equity,JEDT.L,N/A,JPMorgan European Discovery Trust PLC,GBp
+NCC LN Equity,NCC.L,Information Technology,NCC Group PLC,GBp
+CNE LN Equity,CNE.L,Energy,Cairn Energy PLC,GBp
+OXB LN Equity,OXB.L,Health Care,Oxford Biomedica PLC,GBp
+ENOG LN Equity,ENOG.L,Energy,Energean PLC,GBp
+CKN LN Equity,CKN.L,Industrials,Clarkson PLC,GBp
+BIFF LN Equity,BIFF.L,Industrials,Biffa PLC,GBp
+XPP LN Equity,XPP.L,Industrials,XP Power Ltd,GBp
+ICGT LN Equity,ICGT.L,N/A,ICG Enterprise Trust PLC,GBp
+AVON LN Equity,AVON.L,Industrials,Avon Protection PLC,GBp
+JTC LN Equity,JTC.L,Financials,JTC PLC,GBp
+APAX LN Equity,APAX.L,N/A,Apax Global Alpha Ltd,GBp
+VOF LN Equity,VOF.L,N/A,VinaCapital Vietnam Opportunity Fund Ltd,GBp
+PFD LN Equity,PFD.L,Consumer Staples,Premier Foods PLC,GBp
+N91 LN Equity,N91.L,Financials,Ninety One PLC,GBp
+FOUR LN Equity,FOUR.L,Communication Services,4imprint Group PLC,GBp
+CSH LN Equity,CSH.L,Real Estate,Civitas Social Housing PLC,GBp
+SOI LN Equity,SOI.L,N/A,Schroder Oriental Income Fund Ltd,GBp
+BGS LN Equity,BGS.L,N/A,Baillie Gifford Shin Nippon PLC,GBp
+TMPL LN Equity,TMPL.L,N/A,Temple Bar Investment Trust PLC,GBp
+MAB LN Equity,MAB.L,Consumer Discretionary,Mitchells & Butlers PLC,GBp
+HFG LN Equity,HFG.L,Consumer Staples,Hilton Food Group PLC,GBp
+DEC LN Equity,DEC.L,Energy,Diversified Energy Co PLC,GBp
+ATG LN Equity,ATG.L,Consumer Discretionary,Auction Technology Group PLC,GBp
+TRST LN Equity,TRST.L,Communication Services,Trustpilot Group PLC,GBp
+GNC LN Equity,GNC.L,Consumer Staples,Greencore Group PLC,GBp
+TLW LN Equity,TLW.L,Energy,Tullow Oil PLC,GBp
+CPI LN Equity,CPI.L,Information Technology,Capita PLC,GBp
+CINE LN Equity,CINE.L,Communication Services,Cineworld Group PLC,GBp
+TEP LN Equity,TEP.L,Utilities,Telecom Plus PLC,GBp
+AO/ LN Equity,AO.L,Consumer Discretionary,AO World PLC,GBp
+WIX LN Equity,WIX.L,Consumer Discretionary,Wickes Group PLC,GBp
+POG LN Equity,POG.L,Materials,Petropavlovsk PLC,GBp
+SPI LN Equity,SPI.L,Health Care,Spire Healthcare Group PLC,GBp
+FSV LN Equity,FSV.L,N/A,Fidelity Special Values PLC,GBp
+UKCM LN Equity,UKCM.L,Real Estate,UK Commercial Property REIT Ltd,GBp
+MOON LN Equity,MOON.L,Consumer Discretionary,Moonpig Group PLC,GBp
+PRTC LN Equity,PRTC.L,Health Care,PureTech Health PLC,GBp
+HOC LN Equity,HOC.L,Materials,Hochschild Mining PLC,GBp
+PZC LN Equity,PZC.L,Consumer Staples,PZ Cussons PLC,GBp
+CMCX LN Equity,CMCX.L,Financials,CMC Markets PLC,GBp
+VVO LN Equity,VVO.L,Consumer Discretionary,Vivo Energy PLC,GBp
+CLI LN Equity,CLI.L,Real Estate,CLS Holdings PLC,GBp
+RNK LN Equity,RNK.L,Consumer Discretionary,Rank Group PLC,GBp
+GLO LN Equity,GLO.L,Utilities,ContourGlobal PLC,GBp
+HBR LN Equity,HBR.L,Energy,Harbour Energy PLC,GBp

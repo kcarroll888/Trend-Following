@@ -384,7 +384,7 @@ weeklyRun <- function(risk=500, endDate=Sys.Date()){
   # Get the yahoo data and calculate ATR based stop-loss,
   # called  three times otherwise Yahoo servers stop allowing access
   print("Updating Weekly Breakouts")
-  A <- breakOuts("Equity Universes/Universe 202008.csv", 40, endDate)
+  A <- breakOuts("Equity Universes/Equity Universe 202108.csv", 40, endDate)
   # B <- breakOuts("Equity Universes/Universe B July 2019.csv", 40, endDate)
   # C <- breakOuts("Equity Universes/Equity Universe C 2017.csv", 40, endDate)
   
