@@ -214,6 +214,8 @@ getStopLoss <- function(series, lookBack) {
   atr <- ATR(series[, c("High", "Low", "Close")], n=lookBack)
   
   # Return the most recent ATR, doubled, in the data frame
+  #  adjusted for currency
+  
   as.numeric(2 * last(atr$atr))
 }
 
@@ -357,7 +359,7 @@ isNewHighLow <- function(ticker, lookBack=40, ed=Sys.Date()){
 
 breakOuts <- function(fileName, lookBack=40, endDate){
   # read the file of Yahoo tickers
-  l <- unique(read.csv(fileName, colClasses = c("character", "character", "character", "character")))
+  l <- unique(read.csv(fileName, colClasses = c("character", "character", "character", "character", "character")))
   
   # test for a breakout in each
   r <- lapply(l$Yahoo, isNewHighLow, lookBack=lookBack, ed=endDate)
@@ -367,9 +369,12 @@ breakOuts <- function(fileName, lookBack=40, endDate){
                    stringsAsFactors = F)
   colnames(df) <- c("Ticker", "Type", "Close", "Stop", "SNR")
   
-  # add the Bloomberg & Industry data from the original list
+  # add the Bloomberg, Industry & Currency data from the original list
   df$Bloomberg <- l$Bloomberg
   df$Industry <- l$Industry
+  df$Currency <- l$Curncy
+  df$CcyAdj <- l$CcyAdj
+  df$TickerMultiplier <- l$TickerMultiplier
   
   # only want entries with results or 'skip'
   # meaning Yahoo data was incomplete
@@ -385,6 +390,7 @@ weeklyRun <- function(risk=500, endDate=Sys.Date()){
   # called  three times otherwise Yahoo servers stop allowing access
   print("Updating Weekly Breakouts")
   A <- breakOuts("Equity Universes/Equity Universe 202108.csv", 40, endDate)
+  # A <- breakOuts("Equity Universes/Test.csv", 40, endDate)
   # B <- breakOuts("Equity Universes/Universe B July 2019.csv", 40, endDate)
   # C <- breakOuts("Equity Universes/Equity Universe C 2017.csv", 40, endDate)
   
@@ -402,8 +408,10 @@ weeklyRun <- function(risk=500, endDate=Sys.Date()){
   # Work out the volatility risk of the breakout
   final$Risk <- as.numeric(final$Close) / final$Stop
   
-  # Work out the pounds per point position size based on £500 (default) risk
-  final$Stake <- risk / final$Stop
+  # Work out the per point position size based on 'risk' 
+  # which is passed to function by the user and specified in USD
+  # Stake = (risk * CurrencyAdj) / (2 * ATR)
+  final$Stake <- risk * as.numeric(final$CcyAdj) * as.numeric(final$TickerMultiplier) / final$Stop
   
   # Sort by breakout type (High / Low), Risk and ATR
   final <- arrange(final, Type, Risk, Stop)
