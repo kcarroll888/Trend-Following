@@ -14,6 +14,7 @@ library(dplyr)
 library(ggplot2)
 
 setwd("C:/Users/kurtc/Google Drive/R Files/Trend Following/")
+options(scipen = 999)
 
 # setDefaults(chartSeries, up.col="green", dn.col="blue",
 #            theme="black")
@@ -410,8 +411,8 @@ weeklyRun <- function(risk=500, endDate=Sys.Date()){
   
   # Work out the per point position size based on 'risk' 
   # which is passed to function by the user and specified in USD
-  # Stake = (risk * CurrencyAdj) / (2 * ATR)
-  final$Stake <- risk * as.numeric(final$CcyAdj) * as.numeric(final$TickerMultiplier) / final$Stop
+  # Stake = (risk * CurrencyAdj) / (2 * ATR). ROunded down
+  final$Stake <- floor(risk * as.numeric(final$CcyAdj) * as.numeric(final$TickerMultiplier) / final$Stop)
   
   # Sort by breakout type (High / Low), Risk and ATR
   final <- arrange(final, Type, Risk, Stop)
